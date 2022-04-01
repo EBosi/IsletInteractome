@@ -1,0 +1,3146 @@
+,$\alpha{-}cells$,$\beta{-}cells$,$\delta{-}cells$,Acinar cells,Ductal cells,PP cells,Stellate cells
+CPI-SS0A1864A37$\alpha{-}cells$,1,1,0,0,0,0,1
+CPI-SS043E0F61D$\alpha{-}cells$,1,0,0,0,0,0,0
+CPI-SS00EC753E6$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SS0C4E86714$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SS0BF490275$\alpha{-}cells$,1,0,0,0,0,1,1
+CPI-SS072E1E27A$\alpha{-}cells$,1,0,0,0,0,0,0
+CPI-SS01A07768A$\alpha{-}cells$,1,0,0,0,0,0,0
+CPI-CS04DD927C9$\alpha{-}cells$,1,1,1,1,1,1,0
+CPI-CS0B79F5D68$\alpha{-}cells$,1,1,1,1,1,1,0
+CPI-SS0AFC7BACF$\alpha{-}cells$,1,0,0,0,0,1,0
+CPI-SS00561BBD7$\alpha{-}cells$,1,0,0,0,0,1,0
+CPI-SS038E93B77$\alpha{-}cells$,1,0,0,0,0,1,0
+CPI-SS01158CABF$\alpha{-}cells$,1,0,0,0,0,0,0
+CPI-CS063AE1C91$\alpha{-}cells$,1,0,0,0,0,1,0
+CPI-CS0860DA460$\alpha{-}cells$,1,0,0,0,1,1,0
+CPI-CS017A50010$\alpha{-}cells$,1,0,0,0,1,1,0
+CPI-SS0649EA05F$\alpha{-}cells$,1,0,0,1,1,0,0
+CPI-SS07833475A$\alpha{-}cells$,1,0,0,0,0,1,1
+CPI-CS02AEFFE28$\alpha{-}cells$,1,0,0,0,1,1,0
+CPI-SS06BC4D123$\alpha{-}cells$,1,0,0,1,1,0,0
+CPI-CS076E1A639$\alpha{-}cells$,1,0,0,0,1,1,0
+CPI-CS05AB368CE$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-CS0715DE78D$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SS0DA033F03$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SS0E0BCE16F$\alpha{-}cells$,1,0,0,0,0,1,1
+CPI-SS042EB8C7A$\alpha{-}cells$,1,1,1,0,1,1,1
+CPI-SS0273C9AED$\alpha{-}cells$,1,1,1,0,1,1,1
+CPI-SS0A4EE6FE1$\alpha{-}cells$,1,1,1,1,0,1,1
+CPI-SS0EDAE16B6$\alpha{-}cells$,1,0,0,0,0,1,0
+CPI-CS0BE59B43E$\alpha{-}cells$,1,0,0,0,1,1,0
+CPI-CS0924060DB$\alpha{-}cells$,1,1,1,1,1,0,1
+CPI-SS0E91E504D$\alpha{-}cells$,1,0,0,1,1,0,1
+CPI-CS091BF99D0$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SS0F00D756A$\alpha{-}cells$,1,0,1,0,1,0,1
+CPI-SS034D36D2F$\alpha{-}cells$,1,0,0,1,1,0,1
+CPI-SS0C23EF34B$\alpha{-}cells$,1,0,1,0,1,1,0
+CPI-SS05B1FA8A8$\alpha{-}cells$,1,1,1,1,0,1,1
+CPI-CS0AB9C7139$\alpha{-}cells$,1,0,1,1,1,1,1
+CPI-SS043E0F61D$\beta{-}cells$,1,0,0,0,0,0,0
+CPI-SS0AB647854$\beta{-}cells$,1,1,1,0,1,0,0
+CPI-CS067298D94$\beta{-}cells$,1,1,1,0,1,1,1
+CPI-CS0AA769F5B$\beta{-}cells$,1,1,0,0,0,1,0
+CPI-SS0E00478B4$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SS072E1E27A$\beta{-}cells$,1,0,0,0,0,0,0
+CPI-SS01A07768A$\beta{-}cells$,1,0,0,0,0,0,0
+CPI-SS0AFC7BACF$\beta{-}cells$,1,0,0,0,0,1,0
+CPI-SS00561BBD7$\beta{-}cells$,1,0,0,0,0,1,0
+CPI-SS038E93B77$\beta{-}cells$,1,0,0,0,0,1,1
+CPI-SS07DFEBFA8$\beta{-}cells$,1,1,0,0,0,1,0
+CPI-SS01158CABF$\beta{-}cells$,1,1,1,0,0,0,0
+CPI-SS0907A7598$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-CS063AE1C91$\beta{-}cells$,1,0,0,0,0,1,0
+CPI-SS0BEAB521F$\beta{-}cells$,1,1,1,0,1,1,1
+CPI-SS07D40A3F3$\beta{-}cells$,1,1,1,0,1,1,1
+CPI-SS0586F2596$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-CS077F1340A$\beta{-}cells$,1,1,1,0,1,1,1
+CPI-SS091B461CB$\beta{-}cells$,1,0,1,0,0,0,1
+CPI-SS0947A8549$\beta{-}cells$,1,1,1,1,0,1,1
+CPI-SS0DE0A486F$\beta{-}cells$,1,1,1,0,1,1,1
+CPI-SS0F1A060D4$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0649EA05F$\beta{-}cells$,1,1,0,1,1,0,1
+CPI-SS03A2EFDD5$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SS033E6DE7E$\beta{-}cells$,1,0,0,0,1,1,1
+CPI-SS0C5E9FBFB$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SS07833475A$\beta{-}cells$,1,0,0,0,0,1,1
+CPI-SS08083B141$\beta{-}cells$,1,0,0,0,1,0,1
+CPI-SS06BC4D123$\beta{-}cells$,1,0,0,1,1,0,0
+CPI-SS0FA326344$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-CS0FCC00896$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-CS0CA393CC5$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SS082900482$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0E0BCE16F$\beta{-}cells$,1,0,0,0,0,1,1
+CPI-CS0288D901D$\beta{-}cells$,1,0,0,0,1,1,0
+CPI-CS0C99F8D96$\beta{-}cells$,1,0,0,0,1,1,0
+CPI-CS0E1BF543E$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SS055E061C9$\beta{-}cells$,1,1,0,0,1,1,0
+CPI-CS0EC80CA59$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-CS046BCFC6F$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-CS047EE9E03$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SS042EB8C7A$\beta{-}cells$,1,1,1,0,1,1,1
+CPI-SS0EDAE16B6$\beta{-}cells$,1,0,0,0,0,1,0
+CPI-SS0E91E504D$\beta{-}cells$,1,0,0,1,1,0,1
+CPI-CS02C93975C$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-CS01A4D7E2F$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-CS0BEC40E19$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-CS0D238C22B$\beta{-}cells$,1,1,0,0,0,1,1
+CPI-SS02FBD007E$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SS079728E8B$\beta{-}cells$,1,1,0,1,1,1,1
+CPI-SS034D36D2F$\beta{-}cells$,1,0,0,1,1,0,1
+CPI-SS0C23EF34B$\beta{-}cells$,1,0,1,0,1,1,0
+CPI-CS0AB19226A$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0528A694B$\beta{-}cells$,1,1,1,0,1,1,1
+CPI-CS0E5D1ECCE$\beta{-}cells$,1,0,0,1,1,1,1
+CPI-SS070C51D94$\beta{-}cells$,1,1,1,1,1,0,1
+CPI-SS0D2539AEB$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SS043E0F61D$\delta{-}cells$,1,0,0,0,0,0,0
+CPI-SS0AB647854$\delta{-}cells$,1,1,0,0,1,0,0
+CPI-SS00C069DCB$\delta{-}cells$,1,1,1,0,0,1,0
+CPI-SS0BF490275$\delta{-}cells$,1,0,0,0,0,1,1
+CPI-CS0AA769F5B$\delta{-}cells$,1,1,0,0,0,1,0
+CPI-SS072E1E27A$\delta{-}cells$,1,1,1,0,0,0,0
+CPI-SS01A07768A$\delta{-}cells$,1,0,0,0,0,0,0
+CPI-SS0AFC7BACF$\delta{-}cells$,1,0,0,0,0,1,0
+CPI-SS00561BBD7$\delta{-}cells$,1,0,0,0,0,1,0
+CPI-SS038E93B77$\delta{-}cells$,1,0,0,0,0,1,0
+CPI-SS07DFEBFA8$\delta{-}cells$,1,1,0,0,0,1,0
+CPI-SS01158CABF$\delta{-}cells$,1,1,1,0,0,0,0
+CPI-CS063AE1C91$\delta{-}cells$,1,0,0,0,0,0,0
+CPI-SS0BEAB521F$\delta{-}cells$,1,1,1,0,1,1,1
+CPI-SS0586F2596$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0F1A060D4$\delta{-}cells$,1,1,1,0,1,1,0
+CPI-SS03A2EFDD5$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0C5E9FBFB$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0241A1F57$\delta{-}cells$,1,0,0,0,1,0,1
+CPI-SS07833475A$\delta{-}cells$,1,0,0,0,0,1,1
+CPI-SS074CF011C$\delta{-}cells$,1,0,1,0,1,0,0
+CPI-SS08083B141$\delta{-}cells$,1,0,1,0,1,1,1
+CPI-CS0FCC00896$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-CS0CA393CC5$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS00D153A8A$\delta{-}cells$,1,1,1,0,1,1,1
+CPI-SS082900482$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0E0BCE16F$\delta{-}cells$,1,0,0,0,0,1,1
+CPI-CS0288D901D$\delta{-}cells$,1,1,0,0,1,1,0
+CPI-CS0C99F8D96$\delta{-}cells$,1,1,0,0,1,1,0
+CPI-SS070B0E458$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-CS0E1BF543E$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS055E061C9$\delta{-}cells$,1,1,0,0,1,1,0
+CPI-CS0EC80CA59$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-CS046BCFC6F$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-CS047EE9E03$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS042EB8C7A$\delta{-}cells$,1,0,1,0,1,1,1
+CPI-SC0E9C058EB$\delta{-}cells$,1,0,0,1,1,1,1
+CPI-SS0EDAE16B6$\delta{-}cells$,1,0,0,0,0,1,0
+CPI-SS0E91E504D$\delta{-}cells$,1,0,0,1,1,0,1
+CPI-CS02C93975C$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-CS01A4D7E2F$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-CS0BEC40E19$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-CS0D238C22B$\delta{-}cells$,1,1,1,0,0,1,1
+CPI-SS02FBD007E$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS079728E8B$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0F00D756A$\delta{-}cells$,1,0,1,0,1,0,1
+CPI-SS09808DEAE$\delta{-}cells$,1,0,1,1,1,0,1
+CPI-SS034D36D2F$\delta{-}cells$,1,0,0,1,1,0,1
+CPI-SS0C23EF34B$\delta{-}cells$,1,0,1,0,1,1,0
+CPI-CS0AB19226A$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0528A694B$\delta{-}cells$,1,1,1,0,1,1,1
+CPI-CS0E5D1ECCE$\delta{-}cells$,1,0,0,1,1,1,1
+CPI-SS070C51D94$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-CS05426BFFA$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS05B1FA8A8$\delta{-}cells$,1,1,1,1,0,1,1
+CPI-SS0D2539AEB$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-CS0AB9C7139$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0C1F25516Acinar cells,1,0,0,0,1,0,0
+CPI-SS0AB0604B5Acinar cells,1,1,1,0,0,0,1
+CPI-SS043E0F61DAcinar cells,1,0,0,0,0,0,0
+CPI-SS01A8F745AAcinar cells,1,1,1,1,1,1,0
+CPI-CS0C9EE65C2Acinar cells,1,1,1,1,1,1,1
+CPI-SS072E1E27AAcinar cells,1,1,1,0,0,0,0
+CPI-SS01A07768AAcinar cells,1,0,0,0,1,0,0
+CPI-SS064C772FEAcinar cells,1,1,1,0,1,1,1
+CPI-CS0DEBE7B69Acinar cells,1,1,1,1,1,1,1
+CPI-SS0AFC7BACFAcinar cells,1,0,0,0,0,1,0
+CPI-SS00561BBD7Acinar cells,1,0,0,0,0,1,0
+CPI-SS01158CABFAcinar cells,1,1,1,0,0,0,0
+CPI-CS063AE1C91Acinar cells,1,0,0,0,0,1,0
+CPI-SS091B461CBAcinar cells,1,1,1,1,1,1,1
+CPI-SS03165AD8CAcinar cells,1,1,1,1,1,1,1
+CPI-SS0F1A060D4Acinar cells,1,0,0,0,0,1,0
+CPI-SS00046DCF3Acinar cells,1,1,1,0,1,1,1
+CPI-SS0EB3C2743Acinar cells,1,1,1,0,1,1,1
+CPI-SS0C5E9FBFBAcinar cells,1,1,0,0,0,1,0
+CPI-SS0241A1F57Acinar cells,1,0,0,0,1,1,1
+CPI-SS07833475AAcinar cells,1,0,0,0,0,1,0
+CPI-SS074CF011CAcinar cells,1,1,1,1,1,1,1
+CPI-SS06BC4D123Acinar cells,1,0,0,1,1,0,0
+CPI-SS0111AAD26Acinar cells,1,1,1,1,1,1,1
+CPI-CS05AB368CEAcinar cells,1,1,1,1,1,1,1
+CPI-CS0715DE78DAcinar cells,1,1,1,1,1,1,1
+CPI-SS0E0BCE16FAcinar cells,1,0,0,0,0,1,1
+CPI-SS055E061C9Acinar cells,1,1,0,0,1,1,0
+CPI-SS0A4EE6FE1Acinar cells,1,1,1,1,1,1,1
+CPI-SS0EDAE16B6Acinar cells,1,1,1,1,0,1,1
+CPI-CS0BE59B43EAcinar cells,1,1,1,1,1,1,1
+CPI-SS02D7A1DDEAcinar cells,1,1,1,1,1,1,1
+CPI-SS01946BE5CAcinar cells,1,1,1,1,1,1,1
+CPI-SS03CC15FF3Acinar cells,1,1,1,0,1,1,1
+CPI-SS0F00D756AAcinar cells,1,1,1,1,1,1,1
+CPI-SS034D36D2FAcinar cells,1,0,0,1,1,0,1
+CPI-SS0C23EF34BAcinar cells,1,0,1,0,1,1,0
+CPI-CS058910188Acinar cells,1,1,1,1,1,1,1
+CPI-CS0E4E75E3BAcinar cells,1,1,1,1,1,1,1
+CPI-CS028ACED72Acinar cells,1,1,1,1,1,1,1
+CPI-CS075442484Acinar cells,1,1,1,1,1,1,1
+CPI-CS08A043594Acinar cells,1,1,1,1,1,1,1
+CPI-SS0528A694BAcinar cells,1,1,1,0,1,1,1
+CPI-CS0E5D1ECCEAcinar cells,1,0,0,1,1,1,1
+CPI-CS07B61574BAcinar cells,1,1,1,1,1,1,1
+CPI-SS0D2539AEBAcinar cells,1,1,1,1,1,1,1
+CPI-CS0AB9C7139Acinar cells,1,1,1,1,1,1,1
+CPI-SS0C1F25516Ductal cells,1,0,0,0,1,0,0
+CPI-SS0AB0604B5Ductal cells,1,0,1,0,0,0,1
+CPI-SS043E0F61DDuctal cells,1,0,0,0,0,0,0
+CPI-SS02B567BC7Ductal cells,1,1,1,0,0,1,1
+CPI-CS0C9EE65C2Ductal cells,1,0,0,1,0,0,0
+CPI-CS0BCDC40FCDuctal cells,1,1,1,0,1,1,0
+CPI-SS0B337B316Ductal cells,1,1,1,0,0,1,1
+CPI-SS072E1E27ADuctal cells,1,1,1,0,0,0,0
+CPI-SS01A07768ADuctal cells,1,1,0,0,1,0,0
+CPI-SS064C772FEDuctal cells,1,1,1,0,1,1,1
+CPI-CS0DEBE7B69Ductal cells,1,1,1,1,1,1,1
+CPI-CS0E54FF657Ductal cells,1,1,1,1,1,1,1
+CPI-CS02957B1BFDuctal cells,1,1,1,1,1,1,1
+CPI-CS012D15A88Ductal cells,1,1,1,1,1,1,1
+CPI-CS0107C51C6Ductal cells,1,1,1,1,1,1,1
+CPI-CS0E997FABDDuctal cells,1,1,1,1,1,1,1
+CPI-SS0AFC7BACFDuctal cells,1,0,0,0,0,1,0
+CPI-SS00561BBD7Ductal cells,1,0,0,0,0,1,0
+CPI-SS038E93B77Ductal cells,1,0,0,0,0,1,0
+CPI-SS01158CABFDuctal cells,1,1,1,0,0,0,0
+CPI-CS063AE1C91Ductal cells,1,0,0,0,0,1,0
+CPI-SS091B461CBDuctal cells,1,1,1,1,1,1,1
+CPI-SS03165AD8CDuctal cells,1,1,1,1,1,1,1
+CPI-SS0F1A060D4Ductal cells,1,0,0,0,0,1,0
+CPI-SS00046DCF3Ductal cells,1,1,1,0,1,1,1
+CPI-SS0EB3C2743Ductal cells,1,1,1,0,1,1,1
+CPI-SS0241A1F57Ductal cells,1,0,0,0,1,0,1
+CPI-SS07833475ADuctal cells,1,0,0,0,0,1,1
+CPI-SS074CF011CDuctal cells,1,0,1,0,1,0,0
+CPI-SS08083B141Ductal cells,1,0,0,0,1,0,1
+CPI-SS0111AAD26Ductal cells,1,1,1,1,1,1,1
+CPI-CS05AB368CEDuctal cells,1,1,1,1,1,1,1
+CPI-CS0715DE78DDuctal cells,1,1,1,1,1,1,1
+CPI-SS0E0BCE16FDuctal cells,1,0,0,0,0,1,1
+CPI-SS055E061C9Ductal cells,1,1,0,0,1,1,0
+CPI-SS0A4EE6FE1Ductal cells,1,1,1,1,1,1,1
+CPI-SS0EDAE16B6Ductal cells,1,1,1,1,0,1,1
+CPI-CS0BE59B43EDuctal cells,1,1,1,1,1,1,1
+CPI-SS0E91E504DDuctal cells,1,0,0,1,1,0,1
+CPI-SS02D7A1DDEDuctal cells,1,1,1,1,1,1,1
+CPI-SS01946BE5CDuctal cells,1,1,1,1,1,1,1
+CPI-SS03CC15FF3Ductal cells,1,1,1,0,1,1,1
+CPI-SS09808DEAEDuctal cells,1,0,1,1,1,1,1
+CPI-SS034D36D2FDuctal cells,1,0,0,1,1,0,1
+CPI-SS0C23EF34BDuctal cells,1,0,1,0,1,1,0
+CPI-CS058910188Ductal cells,1,1,1,1,1,1,1
+CPI-CS0AB19226ADuctal cells,1,0,1,1,1,1,1
+CPI-CS0E4E75E3BDuctal cells,1,1,1,1,1,1,1
+CPI-CS028ACED72Ductal cells,1,1,1,1,1,1,1
+CPI-CS075442484Ductal cells,1,1,1,1,1,1,1
+CPI-CS08A043594Ductal cells,1,1,1,1,1,1,1
+CPI-SS0528A694BDuctal cells,1,1,1,0,1,1,1
+CPI-CS06072FF4EDuctal cells,1,1,1,1,1,1,1
+CPI-CS0E5D1ECCEDuctal cells,1,0,0,1,1,1,1
+CPI-CS07B61574BDuctal cells,1,1,1,1,1,1,1
+CPI-CS05426BFFADuctal cells,1,1,1,1,1,1,1
+CPI-SS05B1FA8A8Ductal cells,1,1,1,1,0,1,1
+CPI-SS0D2539AEBDuctal cells,1,1,1,1,1,1,1
+CPI-CS0AB9C7139Ductal cells,1,0,1,1,1,1,1
+CPI-SS0A1864A37PP cells,1,0,0,0,0,0,1
+CPI-SS09D379E5BPP cells,1,1,1,0,1,1,1
+CPI-SS0C1F25516PP cells,1,0,0,0,1,0,0
+CPI-SS043E0F61DPP cells,1,0,0,0,0,0,0
+CPI-SS0BF490275PP cells,1,0,0,0,0,1,1
+CPI-SS072E1E27APP cells,1,0,0,0,0,0,0
+CPI-SS01A07768APP cells,1,0,0,0,0,0,0
+CPI-SS0AFC7BACFPP cells,1,0,0,0,0,1,0
+CPI-SS00561BBD7PP cells,1,0,0,0,0,1,0
+CPI-SS038E93B77PP cells,1,0,0,0,0,1,1
+CPI-CS063AE1C91PP cells,1,0,0,0,0,1,0
+CPI-SS0BEAB521FPP cells,1,1,1,0,0,0,1
+CPI-CS077F1340APP cells,1,1,1,0,1,1,1
+CPI-SS0947A8549PP cells,1,1,1,1,1,1,1
+CPI-CS0860DA460PP cells,1,0,0,0,1,1,0
+CPI-CS017A50010PP cells,1,0,0,0,1,1,0
+CPI-SS0649EA05FPP cells,1,0,0,1,1,0,0
+CPI-SS05FEE05CBPP cells,1,1,1,0,1,1,1
+CPI-SS033E6DE7EPP cells,1,0,1,0,1,1,1
+CPI-SS07833475APP cells,1,0,0,0,0,1,1
+CPI-CS02AEFFE28PP cells,1,1,0,0,1,1,0
+CPI-SS06BC4D123PP cells,1,0,0,1,1,0,0
+CPI-CS076E1A639PP cells,1,1,0,0,1,1,0
+CPI-SS0FA326344PP cells,1,1,1,1,1,1,1
+CPI-CS0FCC00896PP cells,1,1,1,1,1,1,1
+CPI-CS0CA393CC5PP cells,1,1,1,1,1,1,1
+CPI-SS00D153A8APP cells,1,1,1,0,1,1,1
+CPI-SS0E0BCE16FPP cells,1,0,0,0,0,1,1
+CPI-CS0288D901DPP cells,1,1,0,0,1,1,0
+CPI-CS0C99F8D96PP cells,1,1,0,0,1,1,0
+CPI-CS0E1BF543EPP cells,1,1,1,1,1,1,1
+CPI-CS0EC80CA59PP cells,1,1,1,1,1,1,1
+CPI-CS046BCFC6FPP cells,1,1,1,1,1,1,1
+CPI-CS047EE9E03PP cells,1,1,1,1,1,1,1
+CPI-SS0273C9AEDPP cells,1,1,1,0,1,1,1
+CPI-SS0E91E504DPP cells,1,0,0,1,1,0,1
+CPI-CS02C93975CPP cells,1,1,1,1,1,1,1
+CPI-CS01A4D7E2FPP cells,1,1,1,1,1,1,1
+CPI-CS0BEC40E19PP cells,1,1,1,1,1,1,1
+CPI-SS03CC15FF3PP cells,1,1,1,0,1,1,1
+CPI-SS034D36D2FPP cells,1,0,0,1,1,0,1
+CPI-SS0C23EF34BPP cells,1,0,1,0,1,1,0
+CPI-CS0AB9C7139PP cells,1,0,1,1,1,1,1
+CPI-CS073D36B1DStellate cells,1,1,1,0,1,1,1
+CPI-SS0F15C1AB3Stellate cells,1,1,1,1,1,1,1
+CPI-SS043E0F61DStellate cells,1,0,0,0,0,0,0
+CPI-SS02B567BC7Stellate cells,1,0,1,0,0,1,0
+CPI-CS0BCDC40FCStellate cells,1,1,1,0,1,1,0
+CPI-SS0AB647854Stellate cells,1,1,1,0,1,0,0
+CPI-SS00C069DCBStellate cells,1,0,1,0,0,1,0
+CPI-SS0B337B316Stellate cells,1,1,1,0,1,1,1
+CPI-CS0AA769F5BStellate cells,1,1,0,0,0,1,0
+CPI-SS072E1E27AStellate cells,1,0,0,0,0,0,0
+CPI-SS01A07768AStellate cells,1,1,1,0,1,0,0
+CPI-CS0E54FF657Stellate cells,1,1,1,1,1,1,1
+CPI-CS04DD927C9Stellate cells,1,1,1,1,1,1,1
+CPI-CS02957B1BFStellate cells,1,1,1,1,1,1,1
+CPI-CS0B79F5D68Stellate cells,1,1,1,1,1,1,1
+CPI-CS012D15A88Stellate cells,1,1,1,1,1,1,1
+CPI-CS0107C51C6Stellate cells,1,1,1,1,1,1,1
+CPI-CS0E997FABDStellate cells,1,1,1,1,1,1,1
+CPI-SS0AFC7BACFStellate cells,1,0,0,0,0,1,0
+CPI-SS00561BBD7Stellate cells,1,0,0,0,0,1,0
+CPI-SS07DFEBFA8Stellate cells,1,1,0,0,0,1,0
+CPI-SS01158CABFStellate cells,1,1,1,0,0,0,0
+CPI-CS063AE1C91Stellate cells,1,1,1,0,0,1,1
+CPI-SS03165AD8CStellate cells,1,0,1,0,0,0,1
+CPI-SS0F1A060D4Stellate cells,1,0,0,0,0,1,0
+CPI-CS0860DA460Stellate cells,1,1,0,0,1,1,0
+CPI-SS00046DCF3Stellate cells,1,1,1,0,1,1,1
+CPI-CS017A50010Stellate cells,1,1,0,0,1,1,0
+CPI-SS05FEE05CBStellate cells,1,1,1,0,0,1,1
+CPI-SS0C5E9FBFBStellate cells,1,0,0,0,0,1,0
+CPI-SS0241A1F57Stellate cells,1,1,1,1,1,1,1
+CPI-SS07833475AStellate cells,1,0,0,0,0,1,1
+CPI-SS074CF011CStellate cells,1,0,1,0,1,0,0
+CPI-SS08083B141Stellate cells,1,0,0,0,1,0,1
+CPI-CS02AEFFE28Stellate cells,1,1,1,1,1,1,1
+CPI-SS06BC4D123Stellate cells,1,0,0,1,1,0,1
+CPI-CS076E1A639Stellate cells,1,1,1,1,1,1,1
+CPI-SS0111AAD26Stellate cells,1,1,1,0,1,1,1
+CPI-CS0C59AF029Stellate cells,1,1,1,1,1,1,1
+CPI-SS00D153A8AStellate cells,1,1,1,0,1,1,1
+CPI-SS082900482Stellate cells,1,1,1,1,1,1,1
+CPI-SS0E0BCE16FStellate cells,1,0,0,0,0,1,1
+CPI-CS0288D901DStellate cells,1,1,1,0,1,1,0
+CPI-CS0C99F8D96Stellate cells,1,1,1,0,1,1,0
+CPI-SS055E061C9Stellate cells,1,1,0,0,1,1,0
+CPI-SS042EB8C7AStellate cells,1,0,0,0,0,0,1
+CPI-SS0273C9AEDStellate cells,1,1,1,0,1,1,1
+CPI-SC095A2C115Stellate cells,1,1,1,1,1,1,1
+CPI-CS0D35E69F6Stellate cells,1,1,1,0,1,1,1
+CPI-CS05EAF93CCStellate cells,1,1,1,0,1,1,1
+CPI-SS0EDAE16B6Stellate cells,1,1,1,0,0,1,1
+CPI-SS0302E8E8FStellate cells,1,0,1,1,1,0,1
+CPI-CS0BE59B43EStellate cells,1,1,1,1,1,1,0
+CPI-CS0924060DBStellate cells,1,1,1,1,1,1,1
+CPI-SS0E91E504DStellate cells,1,0,0,1,1,0,1
+CPI-CS0DF85303AStellate cells,1,0,1,1,1,1,1
+CPI-SS02D7A1DDEStellate cells,1,1,1,1,1,1,1
+CPI-CS0F6CFB979Stellate cells,1,1,1,1,1,1,1
+CPI-CS08109C435Stellate cells,1,0,1,1,1,1,1
+CPI-CS0EF793D6AStellate cells,1,1,1,1,1,1,1
+CPI-CS08A853007Stellate cells,1,0,1,1,1,1,1
+CPI-CS0D238C22BStellate cells,1,1,0,0,0,1,1
+CPI-CS0921BB754Stellate cells,1,1,1,1,1,1,1
+CPI-CS0C0D60519Stellate cells,1,1,1,1,1,1,1
+CPI-CS0247DA882Stellate cells,1,1,1,1,1,1,1
+CPI-SS01946BE5CStellate cells,1,1,1,1,1,1,1
+CPI-SS079728E8BStellate cells,1,1,1,1,1,1,1
+CPI-SS03CC15FF3Stellate cells,1,1,1,0,1,1,1
+CPI-CS091BF99D0Stellate cells,1,1,1,1,1,1,1
+CPI-SS0F00D756AStellate cells,1,0,1,0,1,0,1
+CPI-SS09808DEAEStellate cells,1,0,1,1,1,0,1
+CPI-SS082AD7B6AStellate cells,1,1,1,1,1,1,1
+CPI-SS034D36D2FStellate cells,1,0,0,1,1,0,1
+CPI-SS0C23EF34BStellate cells,1,1,1,0,1,1,0
+CPI-CS058910188Stellate cells,1,1,1,1,1,1,1
+CPI-CS0AB19226AStellate cells,1,1,1,1,1,1,1
+CPI-CS0E4E75E3BStellate cells,1,1,1,1,1,1,1
+CPI-CS028ACED72Stellate cells,1,1,1,1,1,1,1
+CPI-CS075442484Stellate cells,1,1,1,1,1,1,1
+CPI-CS08A043594Stellate cells,1,1,1,1,1,1,1
+CPI-SS0528A694BStellate cells,1,1,1,0,1,1,1
+CPI-SS099C401F7Stellate cells,1,1,1,1,1,0,1
+CPI-CS0E5D1ECCEStellate cells,1,0,0,1,1,1,1
+CPI-CS07B61574BStellate cells,1,1,1,1,1,1,1
+CPI-SS05B1FA8A8Stellate cells,1,1,1,1,1,1,1
+CPI-SS0D2539AEBStellate cells,1,1,1,1,1,1,1
+CPI-CS0FFBA02F8Stellate cells,1,1,1,1,1,1,1
+CPI-CS0C16967C6Stellate cells,1,1,1,1,1,1,1
+CPI-CS0AB9C7139Stellate cells,1,1,1,1,1,1,1
+CPI-SS06B94F144$\alpha{-}cells$,0,1,1,0,1,0,1
+CPI-SS07DFEBFA8$\alpha{-}cells$,0,1,0,0,0,1,0
+CPI-SS07D40A3F3$\alpha{-}cells$,0,1,1,0,1,1,1
+CPI-SS0FA326344$\alpha{-}cells$,0,1,1,1,1,1,1
+CPI-SS09EF54490$\alpha{-}cells$,0,1,1,0,0,1,0
+CPI-SS070B0E458$\alpha{-}cells$,0,1,0,1,1,0,0
+CPI-CS0D238C22B$\alpha{-}cells$,0,1,0,0,0,1,1
+CPI-SS01946BE5C$\alpha{-}cells$,0,1,1,1,1,0,1
+CPI-CS0533A30DC$\alpha{-}cells$,0,1,1,1,1,1,1
+CPI-SS03133B4F2$\alpha{-}cells$,0,1,0,1,1,0,1
+CPI-SS082AD7B6A$\alpha{-}cells$,0,1,1,1,1,0,0
+CPI-SS033CB0BB2$\alpha{-}cells$,0,1,1,1,1,0,0
+CPI-SS099C401F7$\alpha{-}cells$,0,1,1,1,1,0,1
+CPI-CS04F78ACD6$\alpha{-}cells$,0,1,1,1,1,1,1
+CPI-CS0FFBA02F8$\alpha{-}cells$,0,1,1,1,1,1,1
+CPI-CS0C16967C6$\alpha{-}cells$,0,1,1,1,1,1,1
+CPI-CS046B3C139$\alpha{-}cells$,0,1,1,1,1,1,1
+CPI-CS08CC8F9D3$\alpha{-}cells$,0,1,1,1,1,1,1
+CPI-CS0CE2A204A$\alpha{-}cells$,0,1,1,1,1,1,1
+CPI-CS0AEE2FB22$\alpha{-}cells$,0,1,1,1,1,1,1
+CPI-SS064C772FE$\beta{-}cells$,0,1,0,0,0,0,0
+CPI-SS09EF54490$\beta{-}cells$,0,1,1,0,0,1,0
+CPI-SS070B0E458$\beta{-}cells$,0,1,0,1,1,0,0
+CPI-SS03133B4F2$\beta{-}cells$,0,1,0,1,1,0,1
+CPI-SS033CB0BB2$\beta{-}cells$,0,1,1,1,1,0,0
+CPI-SS099C401F7$\beta{-}cells$,0,1,1,1,1,0,1
+CPI-CS04F78ACD6$\beta{-}cells$,0,1,1,1,1,1,0
+CPI-CS0FFBA02F8$\beta{-}cells$,0,1,1,1,1,0,1
+CPI-CS0C16967C6$\beta{-}cells$,0,1,1,1,1,0,1
+CPI-CS046B3C139$\beta{-}cells$,0,1,1,1,1,1,1
+CPI-CS08CC8F9D3$\beta{-}cells$,0,1,1,1,1,1,1
+CPI-CS0CE2A204A$\beta{-}cells$,0,1,1,1,1,1,1
+CPI-CS0AEE2FB22$\beta{-}cells$,0,1,1,1,1,1,1
+CPI-SS09EF54490$\delta{-}cells$,0,1,1,0,0,1,0
+CPI-SS03133B4F2$\delta{-}cells$,0,1,0,1,1,0,1
+CPI-SS082AD7B6A$\delta{-}cells$,0,1,1,1,1,0,0
+CPI-SS033CB0BB2$\delta{-}cells$,0,1,1,1,1,0,0
+CPI-SS099C401F7$\delta{-}cells$,0,1,1,1,1,0,1
+CPI-CS04F78ACD6$\delta{-}cells$,0,1,1,1,1,1,0
+CPI-CS046B3C139$\delta{-}cells$,0,1,1,1,1,1,1
+CPI-CS08CC8F9D3$\delta{-}cells$,0,1,1,1,1,1,1
+CPI-CS0CE2A204A$\delta{-}cells$,0,1,1,1,1,1,1
+CPI-CS0AEE2FB22$\delta{-}cells$,0,1,1,1,1,1,1
+CPI-SS09EF54490Acinar cells,0,1,1,0,0,1,0
+CPI-CS0D238C22BAcinar cells,0,1,0,0,0,1,1
+CPI-SS03133B4F2Acinar cells,0,1,0,1,1,0,1
+CPI-SS082AD7B6AAcinar cells,0,1,1,1,1,1,0
+CPI-SS033CB0BB2Acinar cells,0,1,1,1,1,0,0
+CPI-CS0FFBA02F8Acinar cells,0,1,1,1,1,1,1
+CPI-CS0C16967C6Acinar cells,0,1,1,1,1,1,1
+CPI-CS046B3C139Acinar cells,0,1,1,1,1,1,1
+CPI-CS08CC8F9D3Acinar cells,0,1,1,1,1,1,1
+CPI-CS0CE2A204AAcinar cells,0,1,1,1,1,1,1
+CPI-CS0AEE2FB22Acinar cells,0,1,1,1,1,1,1
+CPI-SS01A8F745ADuctal cells,0,1,1,0,1,0,0
+CPI-SS07DFEBFA8Ductal cells,0,1,0,0,0,1,0
+CPI-SS09EF54490Ductal cells,0,1,1,0,0,1,0
+CPI-SS070B0E458Ductal cells,0,1,0,0,1,0,0
+CPI-CS0924060DBDuctal cells,0,1,0,0,1,0,1
+CPI-CS0D238C22BDuctal cells,0,1,0,0,0,1,1
+CPI-CS0533A30DCDuctal cells,0,1,1,1,1,0,0
+CPI-SS03133B4F2Ductal cells,0,1,0,1,1,0,1
+CPI-SS033CB0BB2Ductal cells,0,1,1,1,1,0,0
+CPI-SS099C401F7Ductal cells,0,1,1,1,1,0,1
+CPI-CS04F78ACD6Ductal cells,0,1,1,1,1,1,0
+CPI-CS046B3C139Ductal cells,0,1,1,1,1,0,1
+CPI-CS08CC8F9D3Ductal cells,0,1,1,1,1,0,1
+CPI-CS0CE2A204ADuctal cells,0,1,1,1,1,1,1
+CPI-CS0AEE2FB22Ductal cells,0,1,1,1,1,1,1
+CPI-SS06B94F144PP cells,0,1,1,0,1,0,1
+CPI-SS07DFEBFA8PP cells,0,1,0,0,0,1,0
+CPI-SS0907A7598PP cells,0,1,1,1,1,0,0
+CPI-SS0586F2596PP cells,0,1,0,0,1,0,0
+CPI-SS03A2EFDD5PP cells,0,1,1,1,1,1,0
+CPI-SS09EF54490PP cells,0,1,1,0,0,1,0
+CPI-SS070B0E458PP cells,0,1,0,1,1,0,0
+CPI-CS0924060DBPP cells,0,1,1,0,1,0,1
+CPI-CS0D238C22BPP cells,0,1,0,0,0,1,1
+CPI-CS0533A30DCPP cells,0,1,1,1,1,0,0
+CPI-SS03133B4F2PP cells,0,1,0,1,1,0,1
+CPI-SS082AD7B6APP cells,0,1,1,1,1,0,0
+CPI-SS033CB0BB2PP cells,0,1,1,1,1,0,0
+CPI-SS099C401F7PP cells,0,1,1,1,1,0,1
+CPI-SS070C51D94PP cells,0,1,1,1,1,0,1
+CPI-CS04F78ACD6PP cells,0,1,1,1,1,1,1
+CPI-CS0FFBA02F8PP cells,0,1,1,1,1,1,1
+CPI-CS0C16967C6PP cells,0,1,1,1,1,1,1
+CPI-CS046B3C139PP cells,0,1,1,1,1,1,1
+CPI-CS08CC8F9D3PP cells,0,1,1,1,1,1,1
+CPI-CS0CE2A204APP cells,0,1,1,1,1,1,1
+CPI-CS0AEE2FB22PP cells,0,1,1,1,1,1,1
+CPI-SS09EF54490Stellate cells,0,1,1,0,0,1,0
+CPI-SS070B0E458Stellate cells,0,1,0,1,1,0,1
+CPI-CS0533A30DCStellate cells,0,1,1,1,1,1,1
+CPI-SS03133B4F2Stellate cells,0,1,0,1,1,0,1
+CPI-SS033CB0BB2Stellate cells,0,1,1,1,1,0,0
+CPI-CS04F78ACD6Stellate cells,0,1,1,1,1,1,0
+CPI-CS046B3C139Stellate cells,0,1,1,1,1,1,1
+CPI-CS08CC8F9D3Stellate cells,0,1,1,1,1,1,1
+CPI-CS0CE2A204AStellate cells,0,1,1,1,1,1,1
+CPI-CS0AEE2FB22Stellate cells,0,1,1,1,1,1,1
+CPI-SS0F102AAC5$\alpha{-}cells$,0,0,1,0,0,0,0
+CPI-SS00C069DCB$\alpha{-}cells$,0,0,1,0,0,0,0
+CPI-CS0DDFD82E7$\alpha{-}cells$,0,0,1,0,0,1,0
+CPI-SS08CA619FE$\alpha{-}cells$,0,0,1,1,1,1,1
+CPI-SS0EB3C2743$\alpha{-}cells$,0,0,1,0,0,0,0
+CPI-SS074CF011C$\alpha{-}cells$,0,0,1,0,0,0,0
+CPI-CS0C59AF029$\alpha{-}cells$,0,0,1,0,0,1,1
+CPI-SS0ABC5C1B8$\alpha{-}cells$,0,0,1,1,1,0,0
+CPI-SS07F60834D$\alpha{-}cells$,0,0,1,1,1,0,0
+CPI-SS0302E8E8F$\alpha{-}cells$,0,0,1,1,1,0,1
+CPI-SS02D7A1DDE$\alpha{-}cells$,0,0,1,0,0,0,0
+CPI-SS088A0A760$\alpha{-}cells$,0,0,1,1,1,0,1
+CPI-SS0C0A61F92$\alpha{-}cells$,0,0,1,0,1,1,1
+CPI-SS09808DEAE$\alpha{-}cells$,0,0,1,1,1,0,0
+CPI-SS070C51D94$\alpha{-}cells$,0,0,1,0,1,0,1
+CPI-SS0F102AAC5$\beta{-}cells$,0,0,1,0,0,0,0
+CPI-SS00C069DCB$\beta{-}cells$,0,0,1,0,0,0,0
+CPI-SS0C4E86714$\beta{-}cells$,0,0,1,0,0,0,1
+CPI-CS0DDFD82E7$\beta{-}cells$,0,0,1,0,0,1,0
+CPI-SS0EB3C2743$\beta{-}cells$,0,0,1,0,0,0,1
+CPI-SS074CF011C$\beta{-}cells$,0,0,1,0,1,0,0
+CPI-CS0C59AF029$\beta{-}cells$,0,0,1,0,0,0,1
+CPI-SS0ABC5C1B8$\beta{-}cells$,0,0,1,1,1,0,0
+CPI-SS0A4EE6FE1$\beta{-}cells$,0,0,1,0,0,1,0
+CPI-SS02D7A1DDE$\beta{-}cells$,0,0,1,0,0,0,0
+CPI-CS0533A30DC$\beta{-}cells$,0,0,1,0,1,0,0
+CPI-SS0F00D756A$\beta{-}cells$,0,0,1,0,1,0,1
+CPI-SS0C0A61F92$\beta{-}cells$,0,0,1,0,1,1,1
+CPI-SS09808DEAE$\beta{-}cells$,0,0,1,1,1,0,0
+CPI-SS082AD7B6A$\beta{-}cells$,0,0,1,0,1,0,0
+CPI-SS0F102AAC5$\delta{-}cells$,0,0,1,0,0,0,0
+CPI-SS07D40A3F3$\delta{-}cells$,0,0,1,0,0,0,1
+CPI-SS0EB3C2743$\delta{-}cells$,0,0,1,0,0,0,0
+CPI-CS0C59AF029$\delta{-}cells$,0,0,1,0,0,0,0
+CPI-SS0ABC5C1B8$\delta{-}cells$,0,0,1,1,1,0,0
+CPI-SS07F60834D$\delta{-}cells$,0,0,1,1,1,0,0
+CPI-SS0A4EE6FE1$\delta{-}cells$,0,0,1,0,0,1,0
+CPI-SS02D7A1DDE$\delta{-}cells$,0,0,1,0,0,0,0
+CPI-CS0533A30DC$\delta{-}cells$,0,0,1,0,1,0,0
+CPI-SS0C0A61F92$\delta{-}cells$,0,0,1,0,1,1,1
+CPI-CS0FFBA02F8$\delta{-}cells$,0,0,1,1,1,0,1
+CPI-CS0C16967C6$\delta{-}cells$,0,0,1,1,1,0,1
+CPI-SS0F102AAC5Acinar cells,0,0,1,0,0,0,0
+CPI-SS0E25CE362Acinar cells,0,0,1,1,1,1,1
+CPI-SS00C069DCBAcinar cells,0,0,1,0,0,0,0
+CPI-SS07D40A3F3Acinar cells,0,0,1,0,0,0,0
+CPI-CS0C59AF029Acinar cells,0,0,1,0,0,0,1
+CPI-SS0ABC5C1B8Acinar cells,0,0,1,1,1,0,0
+CPI-SS07F60834DAcinar cells,0,0,1,1,1,0,1
+CPI-SS0302E8E8FAcinar cells,0,0,1,1,1,0,0
+CPI-CS0533A30DCAcinar cells,0,0,1,0,1,0,0
+CPI-CS091BF99D0Acinar cells,0,0,1,0,1,0,1
+CPI-SS0C0A61F92Acinar cells,0,0,1,0,1,1,1
+CPI-SS09808DEAEAcinar cells,0,0,1,1,1,0,0
+CPI-SS05B1FA8A8Acinar cells,0,0,1,1,0,1,1
+CPI-SS0F102AAC5Ductal cells,0,0,1,0,0,0,0
+CPI-SS0E25CE362Ductal cells,0,0,1,1,1,1,1
+CPI-CS0DDFD82E7Ductal cells,0,0,1,0,0,1,0
+CPI-SS07D40A3F3Ductal cells,0,0,1,0,0,0,0
+CPI-CS0C59AF029Ductal cells,0,0,1,0,0,1,1
+CPI-SS0ABC5C1B8Ductal cells,0,0,1,1,1,0,0
+CPI-SS07F60834DDuctal cells,0,0,1,1,1,0,0
+CPI-SS0302E8E8FDuctal cells,0,0,1,1,1,0,1
+CPI-SS088A0A760Ductal cells,0,0,1,1,1,1,1
+CPI-CS091BF99D0Ductal cells,0,0,1,1,1,0,1
+CPI-SS0F00D756ADuctal cells,0,0,1,0,1,0,1
+CPI-SS0C0A61F92Ductal cells,0,0,1,0,1,1,1
+CPI-SS082AD7B6ADuctal cells,0,0,1,0,1,0,0
+CPI-SS070C51D94Ductal cells,0,0,1,1,1,0,1
+CPI-CS0FFBA02F8Ductal cells,0,0,1,1,1,0,1
+CPI-CS0C16967C6Ductal cells,0,0,1,1,1,0,1
+CPI-SS0F102AAC5PP cells,0,0,1,0,0,0,0
+CPI-SS00C069DCBPP cells,0,0,1,0,0,0,0
+CPI-CS0DDFD82E7PP cells,0,0,1,0,0,1,0
+CPI-SS07D40A3F3PP cells,0,0,1,0,0,0,0
+CPI-SS0EB3C2743PP cells,0,0,1,0,0,0,1
+CPI-SS074CF011CPP cells,0,0,1,0,0,0,0
+CPI-CS0C59AF029PP cells,0,0,1,0,0,1,1
+CPI-SS0ABC5C1B8PP cells,0,0,1,1,1,0,0
+CPI-SS07F60834DPP cells,0,0,1,1,1,0,1
+CPI-SS0302E8E8FPP cells,0,0,1,1,1,0,1
+CPI-SS02D7A1DDEPP cells,0,0,1,0,0,0,0
+CPI-SS088A0A760PP cells,0,0,1,1,1,1,1
+CPI-CS091BF99D0PP cells,0,0,1,1,1,0,1
+CPI-SS0F00D756APP cells,0,0,1,0,1,0,1
+CPI-SS0C0A61F92PP cells,0,0,1,0,1,1,1
+CPI-SS09808DEAEPP cells,0,0,1,1,1,0,0
+CPI-CS05426BFFAPP cells,0,0,1,1,1,1,1
+CPI-SS0F102AAC5Stellate cells,0,0,1,0,0,0,0
+CPI-SS0C4E86714Stellate cells,0,0,1,0,0,0,1
+CPI-CS0DDFD82E7Stellate cells,0,0,1,1,1,1,0
+CPI-SS07D40A3F3Stellate cells,0,0,1,0,0,0,0
+CPI-SS0EB3C2743Stellate cells,0,0,1,0,0,0,0
+CPI-SS0055264F3Stellate cells,0,0,1,1,1,1,1
+CPI-SS0ABC5C1B8Stellate cells,0,0,1,1,1,0,0
+CPI-SS0A19E9C34Stellate cells,0,0,1,1,1,1,1
+CPI-SS07F60834DStellate cells,0,0,1,1,1,0,1
+CPI-SS088A0A760Stellate cells,0,0,1,1,1,1,1
+CPI-SS0C0A61F92Stellate cells,0,0,1,0,1,1,1
+CPI-SS070C51D94Stellate cells,0,0,1,1,1,0,1
+CPI-CS05426BFFAStellate cells,0,0,1,1,1,1,1
+CPI-SS085C150CE$\alpha{-}cells$,0,0,0,1,0,0,0
+CPI-SS07A9A501C$\alpha{-}cells$,0,0,0,1,1,0,0
+CPI-SS0179FBFD3$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS09C4FCB90$\alpha{-}cells$,0,0,0,1,1,0,0
+CPI-SS027CDEA08$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS0898D7F7F$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS07D71C546$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS09A3A441F$\alpha{-}cells$,0,0,0,1,1,1,0
+CPI-SS00EDDD458$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS0C4D54E39$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS0D795AC00$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS0055264F3$\alpha{-}cells$,0,0,0,1,1,0,0
+CPI-SS0A19E9C34$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS02770D68F$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SC095A2C115$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SC0E9C058EB$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS02FBD007E$\alpha{-}cells$,0,0,0,1,1,0,0
+CPI-SS079728E8B$\alpha{-}cells$,0,0,0,1,1,0,0
+CPI-CS06072FF4E$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-CS0E5D1ECCE$\alpha{-}cells$,0,0,0,1,0,1,1
+CPI-CS07B61574B$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS085C150CE$\beta{-}cells$,0,0,0,1,0,0,0
+CPI-SS07A9A501C$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-SS02AFCED82$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS09C4FCB90$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-SS027CDEA08$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS08CA619FE$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-SS07D71C546$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS09A3A441F$\beta{-}cells$,0,0,0,1,1,1,0
+CPI-SS00EDDD458$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0C4D54E39$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0D795AC00$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0055264F3$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0DA033F03$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0A19E9C34$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS02770D68F$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SC095A2C115$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SC0E9C058EB$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0302E8E8F$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-SS088A0A760$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-CS06072FF4E$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-CS07B61574B$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-CS05426BFFA$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SS05B1FA8A8$\beta{-}cells$,0,0,0,1,0,1,1
+CPI-SS085C150CE$\delta{-}cells$,0,0,0,1,0,0,0
+CPI-SS02AFCED82$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SS09C4FCB90$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SS027CDEA08$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0898D7F7F$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SS08CA619FE$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-SS0649EA05F$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-SS07D71C546$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SS09A3A441F$\delta{-}cells$,0,0,0,1,1,1,0
+CPI-SS00EDDD458$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-SS06BC4D123$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-SS0D795AC00$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0055264F3$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0A19E9C34$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-SS02770D68F$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SC095A2C115$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0302E8E8F$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-SS088A0A760$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-CS06072FF4E$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-CS07B61574B$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SS085C150CEAcinar cells,0,0,0,1,0,0,0
+CPI-SS0DC4D593EAcinar cells,0,0,0,1,1,0,0
+CPI-SS07BECB892Acinar cells,0,0,0,1,1,0,1
+CPI-SS0179FBFD3Acinar cells,0,0,0,1,1,0,1
+CPI-SS09C4FCB90Acinar cells,0,0,0,1,1,0,0
+CPI-SS0898D7F7FAcinar cells,0,0,0,1,1,0,1
+CPI-SS08CA619FEAcinar cells,0,0,0,1,1,0,0
+CPI-SS09A3A441FAcinar cells,0,0,0,1,1,1,0
+CPI-SS00EDDD458Acinar cells,0,0,0,1,1,0,1
+CPI-SS0D795AC00Acinar cells,0,0,0,1,1,0,1
+CPI-SS0055264F3Acinar cells,0,0,0,1,1,0,1
+CPI-SS0DA033F03Acinar cells,0,0,0,1,1,0,1
+CPI-SS0A19E9C34Acinar cells,0,0,0,1,1,0,1
+CPI-SS02770D68FAcinar cells,0,0,0,1,1,0,1
+CPI-SC0E9C058EBAcinar cells,0,0,0,1,1,0,1
+CPI-SS088A0A760Acinar cells,0,0,0,1,1,0,0
+CPI-SS02FBD007EAcinar cells,0,0,0,1,1,0,1
+CPI-SS079728E8BAcinar cells,0,0,0,1,1,0,0
+CPI-CS06072FF4EAcinar cells,0,0,0,1,1,1,1
+CPI-SS0DC4D593EDuctal cells,0,0,0,1,1,0,0
+CPI-SS07BECB892Ductal cells,0,0,0,1,1,0,1
+CPI-SS0179FBFD3Ductal cells,0,0,0,1,1,0,1
+CPI-SS09C4FCB90Ductal cells,0,0,0,1,1,0,0
+CPI-SS0898D7F7FDuctal cells,0,0,0,1,1,0,1
+CPI-SS08CA619FEDuctal cells,0,0,0,1,1,0,0
+CPI-SS0649EA05FDuctal cells,0,0,0,1,1,0,0
+CPI-SS07D71C546Ductal cells,0,0,0,1,1,0,1
+CPI-SS09A3A441FDuctal cells,0,0,0,1,1,1,0
+CPI-SS00EDDD458Ductal cells,0,0,0,1,1,0,0
+CPI-SS0C4D54E39Ductal cells,0,0,0,1,1,0,1
+CPI-SS06BC4D123Ductal cells,0,0,0,1,1,0,0
+CPI-SS0D795AC00Ductal cells,0,0,0,1,1,0,1
+CPI-SS0055264F3Ductal cells,0,0,0,1,1,0,0
+CPI-SS0A19E9C34Ductal cells,0,0,0,1,1,0,0
+CPI-SS02770D68FDuctal cells,0,0,0,1,1,0,1
+CPI-SC095A2C115Ductal cells,0,0,0,1,1,0,1
+CPI-SC0E9C058EBDuctal cells,0,0,0,1,1,0,1
+CPI-SS02FBD007EDuctal cells,0,0,0,1,1,0,0
+CPI-SS003C9A532PP cells,0,0,0,1,1,0,1
+CPI-SS07A9A501CPP cells,0,0,0,1,1,0,0
+CPI-SS02AFCED82PP cells,0,0,0,1,1,0,1
+CPI-SS09C4FCB90PP cells,0,0,0,1,1,0,0
+CPI-SS027CDEA08PP cells,0,0,0,1,1,0,1
+CPI-SS08CA619FEPP cells,0,0,0,1,1,0,0
+CPI-SS07D71C546PP cells,0,0,0,1,1,0,1
+CPI-SS09A3A441FPP cells,0,0,0,1,1,1,0
+CPI-SS00EDDD458PP cells,0,0,0,1,1,0,1
+CPI-SS0C4D54E39PP cells,0,0,0,1,1,0,1
+CPI-SS0D795AC00PP cells,0,0,0,1,1,0,1
+CPI-SS0055264F3PP cells,0,0,0,1,1,0,1
+CPI-SS0DA033F03PP cells,0,0,0,1,1,0,1
+CPI-SS0A19E9C34PP cells,0,0,0,1,1,0,1
+CPI-SS02770D68FPP cells,0,0,0,1,1,0,1
+CPI-SC095A2C115PP cells,0,0,0,1,1,0,1
+CPI-SC0E9C058EBPP cells,0,0,0,1,1,0,1
+CPI-CS0DF85303APP cells,0,0,0,1,1,1,1
+CPI-CS08109C435PP cells,0,0,0,1,1,1,1
+CPI-CS08A853007PP cells,0,0,0,1,1,1,1
+CPI-SS02FBD007EPP cells,0,0,0,1,1,0,0
+CPI-SS079728E8BPP cells,0,0,0,1,1,0,0
+CPI-CS06072FF4EPP cells,0,0,0,1,1,1,1
+CPI-CS0E5D1ECCEPP cells,0,0,0,1,0,1,1
+CPI-CS07B61574BPP cells,0,0,0,1,1,0,1
+CPI-SS05B1FA8A8PP cells,0,0,0,1,0,1,1
+CPI-SS085C150CEStellate cells,0,0,0,1,0,0,0
+CPI-SS0DC4D593EStellate cells,0,0,0,1,1,0,0
+CPI-SS09C4FCB90Stellate cells,0,0,0,1,1,0,0
+CPI-SS027CDEA08Stellate cells,0,0,0,1,1,0,1
+CPI-SS08CA619FEStellate cells,0,0,0,1,1,0,0
+CPI-SS0649EA05FStellate cells,0,0,0,1,1,0,0
+CPI-SS07D71C546Stellate cells,0,0,0,1,1,0,1
+CPI-SS00EDDD458Stellate cells,0,0,0,1,1,0,1
+CPI-SS0C4D54E39Stellate cells,0,0,0,1,1,0,1
+CPI-SS0D795AC00Stellate cells,0,0,0,1,1,0,0
+CPI-SS0DA033F03Stellate cells,0,0,0,1,1,0,1
+CPI-SS02770D68FStellate cells,0,0,0,1,1,0,1
+CPI-CS0484364A2Stellate cells,0,0,0,1,1,1,1
+CPI-CS03DF8BD36Stellate cells,0,0,0,1,1,1,1
+CPI-CS01319F57AStellate cells,0,0,0,1,1,1,1
+CPI-SC0E9C058EBStellate cells,0,0,0,1,1,0,1
+CPI-SS02FBD007EStellate cells,0,0,0,1,1,0,0
+CPI-CS06072FF4EStellate cells,0,0,0,1,1,1,1
+CPI-SS01ECFDA18$\alpha{-}cells$,0,0,0,0,1,0,0
+CPI-SS02AFCED82$\alpha{-}cells$,0,0,0,0,1,0,0
+CPI-SS0907A7598$\alpha{-}cells$,0,0,0,0,1,0,0
+CPI-SS0586F2596$\alpha{-}cells$,0,0,0,0,1,0,0
+CPI-SS0DE0A486F$\alpha{-}cells$,0,0,0,0,1,0,1
+CPI-SS033E6DE7E$\alpha{-}cells$,0,0,0,0,1,0,1
+CPI-SS08083B141$\alpha{-}cells$,0,0,0,0,1,0,1
+CPI-CS0C091F24B$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-CS090FFEDFE$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-CS0288D901D$\alpha{-}cells$,0,0,0,0,1,1,0
+CPI-CS0484364A2$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-CS0C99F8D96$\alpha{-}cells$,0,0,0,0,1,1,0
+CPI-CS03DF8BD36$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-CS01319F57A$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-CS0D35E69F6$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-CS05EAF93CC$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-CS0DF85303A$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-CS0F6CFB979$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-CS08109C435$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-CS0EF793D6A$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-CS08A853007$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-CS0921BB754$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-CS0C0D60519$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-CS0247DA882$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-CS058910188$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-CS0E4E75E3B$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-CS028ACED72$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-CS075442484$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-CS08A043594$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-CS05426BFFA$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-SS0179FBFD3$\beta{-}cells$,0,0,0,0,1,0,0
+CPI-SS0898D7F7F$\beta{-}cells$,0,0,0,0,1,0,0
+CPI-CS0860DA460$\beta{-}cells$,0,0,0,0,1,1,0
+CPI-CS017A50010$\beta{-}cells$,0,0,0,0,1,1,0
+CPI-CS02AEFFE28$\beta{-}cells$,0,0,0,0,1,1,0
+CPI-CS076E1A639$\beta{-}cells$,0,0,0,0,1,1,0
+CPI-CS0C091F24B$\beta{-}cells$,0,0,0,0,1,1,1
+CPI-CS090FFEDFE$\beta{-}cells$,0,0,0,0,1,1,1
+CPI-CS0484364A2$\beta{-}cells$,0,0,0,0,1,1,1
+CPI-CS03DF8BD36$\beta{-}cells$,0,0,0,0,1,1,1
+CPI-CS01319F57A$\beta{-}cells$,0,0,0,0,1,1,1
+CPI-CS0D35E69F6$\beta{-}cells$,0,0,0,0,1,1,1
+CPI-CS05EAF93CC$\beta{-}cells$,0,0,0,0,1,1,1
+CPI-CS0BE59B43E$\beta{-}cells$,0,0,0,0,1,0,0
+CPI-CS0DF85303A$\beta{-}cells$,0,0,0,0,1,1,1
+CPI-CS0F6CFB979$\beta{-}cells$,0,0,0,0,1,1,1
+CPI-CS08109C435$\beta{-}cells$,0,0,0,0,1,1,1
+CPI-CS0EF793D6A$\beta{-}cells$,0,0,0,0,1,1,1
+CPI-CS08A853007$\beta{-}cells$,0,0,0,0,1,1,1
+CPI-CS0921BB754$\beta{-}cells$,0,0,0,0,1,1,1
+CPI-CS0C0D60519$\beta{-}cells$,0,0,0,0,1,1,1
+CPI-CS0247DA882$\beta{-}cells$,0,0,0,0,1,1,1
+CPI-CS058910188$\beta{-}cells$,0,0,0,0,1,0,1
+CPI-CS028ACED72$\beta{-}cells$,0,0,0,0,1,0,1
+CPI-CS08A043594$\beta{-}cells$,0,0,0,0,1,0,1
+CPI-SS07A9A501C$\delta{-}cells$,0,0,0,0,1,0,0
+CPI-SS0179FBFD3$\delta{-}cells$,0,0,0,0,1,0,0
+CPI-SS0907A7598$\delta{-}cells$,0,0,0,0,1,0,0
+CPI-SS0DE0A486F$\delta{-}cells$,0,0,0,0,1,0,1
+CPI-CS0860DA460$\delta{-}cells$,0,0,0,0,1,1,0
+CPI-CS017A50010$\delta{-}cells$,0,0,0,0,1,1,0
+CPI-SS0C4D54E39$\delta{-}cells$,0,0,0,0,1,0,1
+CPI-SS033E6DE7E$\delta{-}cells$,0,0,0,0,1,0,1
+CPI-CS02AEFFE28$\delta{-}cells$,0,0,0,0,1,0,0
+CPI-CS076E1A639$\delta{-}cells$,0,0,0,0,1,0,0
+CPI-CS0C091F24B$\delta{-}cells$,0,0,0,0,1,1,1
+CPI-CS090FFEDFE$\delta{-}cells$,0,0,0,0,1,1,1
+CPI-SS0DA033F03$\delta{-}cells$,0,0,0,0,1,0,0
+CPI-CS0484364A2$\delta{-}cells$,0,0,0,0,1,1,1
+CPI-CS03DF8BD36$\delta{-}cells$,0,0,0,0,1,1,1
+CPI-CS01319F57A$\delta{-}cells$,0,0,0,0,1,1,1
+CPI-CS0D35E69F6$\delta{-}cells$,0,0,0,0,1,1,1
+CPI-CS05EAF93CC$\delta{-}cells$,0,0,0,0,1,1,1
+CPI-CS0DF85303A$\delta{-}cells$,0,0,0,0,1,1,1
+CPI-CS0F6CFB979$\delta{-}cells$,0,0,0,0,1,1,1
+CPI-CS08109C435$\delta{-}cells$,0,0,0,0,1,1,1
+CPI-CS0EF793D6A$\delta{-}cells$,0,0,0,0,1,1,1
+CPI-CS08A853007$\delta{-}cells$,0,0,0,0,1,1,1
+CPI-CS0921BB754$\delta{-}cells$,0,0,0,0,1,1,1
+CPI-CS0C0D60519$\delta{-}cells$,0,0,0,0,1,1,1
+CPI-CS0247DA882$\delta{-}cells$,0,0,0,0,1,1,1
+CPI-CS058910188$\delta{-}cells$,0,0,0,0,1,0,1
+CPI-CS028ACED72$\delta{-}cells$,0,0,0,0,1,0,1
+CPI-CS08A043594$\delta{-}cells$,0,0,0,0,1,0,1
+CPI-SS01ECFDA18Acinar cells,0,0,0,0,1,0,0
+CPI-SS0907A7598Acinar cells,0,0,0,0,1,0,0
+CPI-SS0DE0A486FAcinar cells,0,0,0,0,1,0,1
+CPI-CS0860DA460Acinar cells,0,0,0,0,1,1,0
+CPI-CS017A50010Acinar cells,0,0,0,0,1,1,0
+CPI-SS0649EA05FAcinar cells,0,0,0,0,1,0,0
+CPI-SS0C4D54E39Acinar cells,0,0,0,0,1,0,1
+CPI-SS033E6DE7EAcinar cells,0,0,0,0,1,0,1
+CPI-SS08083B141Acinar cells,0,0,0,0,1,0,1
+CPI-CS02AEFFE28Acinar cells,0,0,0,0,1,1,0
+CPI-CS076E1A639Acinar cells,0,0,0,0,1,1,0
+CPI-CS0C091F24BAcinar cells,0,0,0,0,1,1,1
+CPI-CS090FFEDFEAcinar cells,0,0,0,0,1,1,1
+CPI-CS0288D901DAcinar cells,0,0,0,0,1,1,0
+CPI-CS0484364A2Acinar cells,0,0,0,0,1,1,1
+CPI-CS0C99F8D96Acinar cells,0,0,0,0,1,1,0
+CPI-CS03DF8BD36Acinar cells,0,0,0,0,1,1,1
+CPI-CS01319F57AAcinar cells,0,0,0,0,1,1,1
+CPI-CS0D35E69F6Acinar cells,0,0,0,0,1,1,1
+CPI-CS05EAF93CCAcinar cells,0,0,0,0,1,1,1
+CPI-CS0924060DBAcinar cells,0,0,0,0,1,0,1
+CPI-CS0DF85303AAcinar cells,0,0,0,0,1,1,1
+CPI-CS0F6CFB979Acinar cells,0,0,0,0,1,1,1
+CPI-CS08109C435Acinar cells,0,0,0,0,1,1,1
+CPI-CS0EF793D6AAcinar cells,0,0,0,0,1,1,1
+CPI-CS08A853007Acinar cells,0,0,0,0,1,1,1
+CPI-CS0921BB754Acinar cells,0,0,0,0,1,1,1
+CPI-CS0C0D60519Acinar cells,0,0,0,0,1,1,1
+CPI-CS0247DA882Acinar cells,0,0,0,0,1,1,1
+CPI-SS070C51D94Acinar cells,0,0,0,0,1,0,1
+CPI-CS05426BFFAAcinar cells,0,0,0,0,1,1,1
+CPI-SS01ECFDA18Ductal cells,0,0,0,0,1,0,0
+CPI-SS07A9A501CDuctal cells,0,0,0,0,1,0,0
+CPI-SS0907A7598Ductal cells,0,0,0,0,1,0,0
+CPI-SS0DE0A486FDuctal cells,0,0,0,0,1,0,1
+CPI-CS0860DA460Ductal cells,0,0,0,0,1,1,0
+CPI-CS017A50010Ductal cells,0,0,0,0,1,1,0
+CPI-SS033E6DE7EDuctal cells,0,0,0,0,1,0,1
+CPI-CS02AEFFE28Ductal cells,0,0,0,0,1,0,0
+CPI-CS076E1A639Ductal cells,0,0,0,0,1,0,0
+CPI-CS0C091F24BDuctal cells,0,0,0,0,1,1,1
+CPI-CS090FFEDFEDuctal cells,0,0,0,0,1,1,1
+CPI-SS0DA033F03Ductal cells,0,0,0,0,1,0,0
+CPI-CS0288D901DDuctal cells,0,0,0,0,1,1,0
+CPI-CS0484364A2Ductal cells,0,0,0,0,1,1,1
+CPI-CS0C99F8D96Ductal cells,0,0,0,0,1,1,0
+CPI-CS03DF8BD36Ductal cells,0,0,0,0,1,1,1
+CPI-CS01319F57ADuctal cells,0,0,0,0,1,1,1
+CPI-CS0D35E69F6Ductal cells,0,0,0,0,1,1,1
+CPI-CS05EAF93CCDuctal cells,0,0,0,0,1,1,1
+CPI-CS0DF85303ADuctal cells,0,0,0,0,1,1,1
+CPI-CS0F6CFB979Ductal cells,0,0,0,0,1,1,1
+CPI-CS08109C435Ductal cells,0,0,0,0,1,1,1
+CPI-CS0EF793D6ADuctal cells,0,0,0,0,1,1,1
+CPI-CS08A853007Ductal cells,0,0,0,0,1,1,1
+CPI-CS0921BB754Ductal cells,0,0,0,0,1,1,1
+CPI-CS0C0D60519Ductal cells,0,0,0,0,1,1,1
+CPI-CS0247DA882Ductal cells,0,0,0,0,1,1,1
+CPI-CS04DD927C9PP cells,0,0,0,0,1,0,0
+CPI-CS0B79F5D68PP cells,0,0,0,0,1,0,0
+CPI-SS0898D7F7FPP cells,0,0,0,0,1,0,0
+CPI-SS0DE0A486FPP cells,0,0,0,0,1,0,1
+CPI-SS08083B141PP cells,0,0,0,0,1,0,1
+CPI-CS0C091F24BPP cells,0,0,0,0,1,1,1
+CPI-CS090FFEDFEPP cells,0,0,0,0,1,1,1
+CPI-CS0484364A2PP cells,0,0,0,0,1,1,1
+CPI-CS03DF8BD36PP cells,0,0,0,0,1,1,1
+CPI-CS01319F57APP cells,0,0,0,0,1,1,1
+CPI-CS0D35E69F6PP cells,0,0,0,0,1,1,1
+CPI-CS05EAF93CCPP cells,0,0,0,0,1,1,1
+CPI-CS0F6CFB979PP cells,0,0,0,0,1,1,1
+CPI-CS0EF793D6APP cells,0,0,0,0,1,1,1
+CPI-CS0921BB754PP cells,0,0,0,0,1,1,1
+CPI-CS0C0D60519PP cells,0,0,0,0,1,1,1
+CPI-CS0247DA882PP cells,0,0,0,0,1,1,1
+CPI-CS058910188PP cells,0,0,0,0,1,0,1
+CPI-CS028ACED72PP cells,0,0,0,0,1,0,1
+CPI-CS08A043594PP cells,0,0,0,0,1,0,1
+CPI-SS07A9A501CStellate cells,0,0,0,0,1,0,0
+CPI-SS0898D7F7FStellate cells,0,0,0,0,1,0,0
+CPI-SS0907A7598Stellate cells,0,0,0,0,1,0,0
+CPI-SS0DE0A486FStellate cells,0,0,0,0,1,0,1
+CPI-SS033E6DE7EStellate cells,0,0,0,0,1,0,1
+CPI-CS0C091F24BStellate cells,0,0,0,0,1,1,1
+CPI-CS090FFEDFEStellate cells,0,0,0,0,1,1,1
+CPI-CS02C93975CStellate cells,0,0,0,0,1,0,1
+CPI-CS01A4D7E2FStellate cells,0,0,0,0,1,0,1
+CPI-CS0BEC40E19Stellate cells,0,0,0,0,1,0,1
+CPI-SS098425155$\alpha{-}cells$,0,0,0,0,0,1,0
+CPI-CS0AA769F5B$\alpha{-}cells$,0,0,0,0,0,1,0
+CPI-SS05FEE05CB$\alpha{-}cells$,0,0,0,0,0,1,1
+CPI-SS00D153A8A$\alpha{-}cells$,0,0,0,0,0,1,1
+CPI-SS055E061C9$\alpha{-}cells$,0,0,0,0,0,1,0
+CPI-SS098425155$\beta{-}cells$,0,0,0,0,0,1,0
+CPI-SS0BF490275$\beta{-}cells$,0,0,0,0,0,1,0
+CPI-SS05FEE05CB$\beta{-}cells$,0,0,0,0,0,1,1
+CPI-CS0E4E75E3B$\beta{-}cells$,0,0,0,0,0,1,1
+CPI-CS075442484$\beta{-}cells$,0,0,0,0,0,1,1
+CPI-SS098425155$\delta{-}cells$,0,0,0,0,0,1,0
+CPI-CS0DDFD82E7$\delta{-}cells$,0,0,0,0,0,1,0
+CPI-CS0E4E75E3B$\delta{-}cells$,0,0,0,0,0,1,1
+CPI-CS075442484$\delta{-}cells$,0,0,0,0,0,1,1
+CPI-CS0AA769F5BAcinar cells,0,0,0,0,0,1,0
+CPI-SS038E93B77Acinar cells,0,0,0,0,0,1,0
+CPI-SS0BF490275Ductal cells,0,0,0,0,0,1,0
+CPI-CS0AA769F5BDuctal cells,0,0,0,0,0,1,0
+CPI-SS05FEE05CBDuctal cells,0,0,0,0,0,1,1
+CPI-SS0C5E9FBFBDuctal cells,0,0,0,0,0,1,0
+CPI-SS098425155PP cells,0,0,0,0,0,1,0
+CPI-CS0AA769F5BPP cells,0,0,0,0,0,1,0
+CPI-SS055E061C9PP cells,0,0,0,0,0,1,0
+CPI-SS0EDAE16B6PP cells,0,0,0,0,0,1,0
+CPI-CS0E4E75E3BPP cells,0,0,0,0,0,1,1
+CPI-CS075442484PP cells,0,0,0,0,0,1,1
+CPI-SS0BF490275Stellate cells,0,0,0,0,0,1,0
+CPI-SS038E93B77Stellate cells,0,0,0,0,0,1,0
+CPI-SS09A3A441FStellate cells,0,0,0,0,0,1,0
+CPI-CS067298D94$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SS0E00478B4$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-CS077F1340A$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SS0947A8549$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SS0241A1F57$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SS03CC15FF3$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-CS0AB19226A$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SS0241A1F57$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SS00D153A8A$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SS0273C9AED$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-CS0924060DB$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SS03CC15FF3$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-CS091BF99D0$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-CS0AB9C7139$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-CS067298D94$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SS0E00478B4$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-CS077F1340A$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SS0947A8549$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SS05FEE05CB$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SS0273C9AED$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-CS0924060DB$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SS03CC15FF3$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-CS091BF99D0$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SS0D954EA1CAcinar cells,0,0,0,0,0,0,1
+CPI-CS067298D94Acinar cells,0,0,0,0,0,0,1
+CPI-SS0E00478B4Acinar cells,0,0,0,0,0,0,1
+CPI-CS077F1340AAcinar cells,0,0,0,0,0,0,1
+CPI-SS0947A8549Acinar cells,0,0,0,0,0,0,1
+CPI-SS05FEE05CBAcinar cells,0,0,0,0,0,0,1
+CPI-SS042EB8C7AAcinar cells,0,0,0,0,0,0,1
+CPI-SS0273C9AEDAcinar cells,0,0,0,0,0,0,1
+CPI-CS02C93975CAcinar cells,0,0,0,0,0,0,1
+CPI-CS01A4D7E2FAcinar cells,0,0,0,0,0,0,1
+CPI-CS0BEC40E19Acinar cells,0,0,0,0,0,0,1
+CPI-CS0AB19226AAcinar cells,0,0,0,0,0,0,1
+CPI-SS0D954EA1CDuctal cells,0,0,0,0,0,0,1
+CPI-CS067298D94Ductal cells,0,0,0,0,0,0,1
+CPI-SS0E00478B4Ductal cells,0,0,0,0,0,0,1
+CPI-CS077F1340ADuctal cells,0,0,0,0,0,0,1
+CPI-SS0947A8549Ductal cells,0,0,0,0,0,0,1
+CPI-SS042EB8C7ADuctal cells,0,0,0,0,0,0,1
+CPI-SS0273C9AEDDuctal cells,0,0,0,0,0,0,1
+CPI-CS02C93975CDuctal cells,0,0,0,0,0,0,1
+CPI-CS01A4D7E2FDuctal cells,0,0,0,0,0,0,1
+CPI-CS0BEC40E19Ductal cells,0,0,0,0,0,0,1
+CPI-SS0D954EA1CPP cells,0,0,0,0,0,0,1
+CPI-CS067298D94PP cells,0,0,0,0,0,0,1
+CPI-SS0E00478B4PP cells,0,0,0,0,0,0,1
+CPI-SS0241A1F57PP cells,0,0,0,0,0,0,1
+CPI-SS042EB8C7APP cells,0,0,0,0,0,0,1
+CPI-CS0AB19226APP cells,0,0,0,0,0,0,1
+CPI-SS0D954EA1CStellate cells,0,0,0,0,0,0,1
+CPI-CS067298D94Stellate cells,0,0,0,0,0,0,1
+CPI-SS0E00478B4Stellate cells,0,0,0,0,0,0,1
+CPI-CS077F1340AStellate cells,0,0,0,0,0,0,1
+CPI-SS0947A8549Stellate cells,0,0,0,0,0,0,1
+CPI-CS0E1BF543EStellate cells,0,0,0,0,0,0,1
+CPI-CS0EC80CA59Stellate cells,0,0,0,0,0,0,1
+CPI-CS046BCFC6FStellate cells,0,0,0,0,0,0,1
+CPI-CS047EE9E03Stellate cells,0,0,0,0,0,0,1
+CPI-SS006FB5198$\alpha{-}cells$,1,0,0,0,1,0,1
+CPI-SS01560CA22$\alpha{-}cells$,1,1,1,0,1,1,1
+CPI-SS0FAE7ABEF$\alpha{-}cells$,1,0,0,0,0,0,0
+CPI-SS056993231$\alpha{-}cells$,1,1,1,0,1,1,1
+CPI-SS01A29DD97$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SS06006F870$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SS00D3CD86E$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SS065F7DA2A$\alpha{-}cells$,1,0,0,0,0,0,1
+CPI-SS07CCAD9BF$\alpha{-}cells$,1,1,1,0,1,1,0
+CPI-SS0CDAC688B$\alpha{-}cells$,1,0,0,0,0,0,0
+CPI-SS09A3FA737$\alpha{-}cells$,1,0,0,0,0,0,1
+CPI-SS00BD8FF72$\alpha{-}cells$,1,1,1,0,1,1,1
+CPI-SS0D00AAD2F$\alpha{-}cells$,1,1,1,0,1,1,1
+CPI-SC017215F7F$\alpha{-}cells$,1,1,0,0,1,1,0
+CPI-SS055B305F1$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SS032AD1183$\alpha{-}cells$,1,1,0,0,0,0,1
+CPI-SS01963C4CA$\alpha{-}cells$,1,0,0,0,0,0,1
+CPI-SS073F3FAD5$\alpha{-}cells$,1,1,0,0,0,0,0
+CPI-SS0EBFE1854$\alpha{-}cells$,1,0,0,0,0,0,1
+CPI-SS0467AFD8A$\alpha{-}cells$,1,0,0,0,0,1,1
+CPI-SS01469637C$\alpha{-}cells$,1,1,1,0,1,1,1
+CPI-SS09CA492BA$\alpha{-}cells$,1,0,0,0,0,0,1
+CPI-SS0AC594A8E$\alpha{-}cells$,1,0,0,1,1,0,0
+CPI-SS0CC5DCE80$\alpha{-}cells$,1,1,1,0,1,1,1
+CPI-SS053613259$\alpha{-}cells$,1,0,0,1,1,0,0
+CPI-SS058E608D0$\alpha{-}cells$,1,0,1,0,0,0,0
+CPI-SS0A9F17199$\alpha{-}cells$,1,0,0,1,1,0,1
+CPI-SS01F67987A$\alpha{-}cells$,1,0,0,0,0,1,1
+CPI-SS03189F5F6$\alpha{-}cells$,1,0,0,0,0,1,1
+CPI-SS0F2C6A4D4$\alpha{-}cells$,1,0,0,0,0,1,1
+CPI-SS066347638$\alpha{-}cells$,1,0,0,1,1,0,0
+CPI-SS0D4CA5D92$\alpha{-}cells$,1,0,0,1,1,0,0
+CPI-SS0A2949959$\alpha{-}cells$,1,1,1,0,0,1,0
+CPI-SS0D782F60B$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SS0DEDA3567$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SS03EF699C7$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SS0C4FA643F$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SS03EACE0E0$\alpha{-}cells$,1,0,0,1,1,0,1
+CPI-SS006C6537E$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SS04F3A1E5C$\alpha{-}cells$,1,1,1,0,1,1,0
+CPI-SS0F3A089DE$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SS0D95D41D6$\alpha{-}cells$,1,0,0,1,1,0,0
+CPI-SS0735F5C3A$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SS034B442CE$\alpha{-}cells$,1,0,1,0,0,1,0
+CPI-SS008FB916C$\alpha{-}cells$,1,0,0,1,1,0,0
+CPI-SS0BCCDFA7A$\alpha{-}cells$,1,0,1,1,0,1,1
+CPI-SS012AFC842$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SS002673EFE$\alpha{-}cells$,1,0,1,1,0,1,0
+CPI-SS033180726$\alpha{-}cells$,1,1,1,1,0,1,1
+CPI-SS0E41702C1$\alpha{-}cells$,0,1,0,0,0,0,0
+CPI-SS0331C5A49$\alpha{-}cells$,0,1,0,0,1,0,1
+CPI-SS0C56C483F$\alpha{-}cells$,0,1,0,0,0,0,1
+CPI-SS0D46E2B45$\alpha{-}cells$,0,1,1,0,0,0,0
+CPI-SS085EE60B1$\alpha{-}cells$,0,1,1,0,0,0,0
+CPI-SS0FF49C823$\alpha{-}cells$,0,1,1,0,1,0,0
+CPI-SS0CBC7840D$\alpha{-}cells$,0,1,1,0,0,0,0
+CPI-SS0CB4F2FE4$\alpha{-}cells$,0,1,1,0,0,1,0
+CPI-SS0178F5C45$\alpha{-}cells$,0,1,1,0,0,0,0
+CPI-SS02ACCF1F7$\alpha{-}cells$,0,1,0,0,0,1,1
+CPI-SS079DDF890$\alpha{-}cells$,0,1,1,0,0,0,0
+CPI-SS06AA638A8$\alpha{-}cells$,0,1,1,0,1,1,0
+CPI-SS083CBFACD$\alpha{-}cells$,0,1,1,0,0,1,0
+CPI-SS0C28FEC7D$\alpha{-}cells$,0,1,0,0,0,1,1
+CPI-SS019C98396$\alpha{-}cells$,0,1,0,0,0,1,1
+CPI-SS0FBC9234C$\alpha{-}cells$,0,1,0,0,0,1,1
+CPI-SS0230EE330$\alpha{-}cells$,0,1,1,0,1,1,1
+CPI-SS00797FD15$\alpha{-}cells$,0,1,1,1,1,1,1
+CPI-SS00581282E$\alpha{-}cells$,0,1,1,1,1,0,1
+CPI-SC001669E22$\alpha{-}cells$,0,1,1,1,1,0,1
+CPI-SC0FDB4B6D9$\alpha{-}cells$,0,1,1,0,1,1,1
+CPI-SS0057AB387$\alpha{-}cells$,0,1,1,1,1,0,0
+CPI-SS08C78576B$\alpha{-}cells$,0,1,1,1,1,1,0
+CPI-SS0CB863B46$\alpha{-}cells$,0,1,1,1,1,1,1
+CPI-SS0472C478C$\alpha{-}cells$,0,1,1,1,1,1,1
+CPI-SS0B81F1BF5$\alpha{-}cells$,0,1,1,0,0,1,1
+CPI-SS08B85996F$\alpha{-}cells$,0,0,1,0,0,0,1
+CPI-SS05996C8FD$\alpha{-}cells$,0,0,1,0,0,1,0
+CPI-SS0E063192D$\alpha{-}cells$,0,0,1,0,1,0,0
+CPI-SS0EDD4928A$\alpha{-}cells$,0,0,1,0,0,0,1
+CPI-SS0FC42EC80$\alpha{-}cells$,0,0,1,0,1,0,0
+CPI-SS0D5E30C6C$\alpha{-}cells$,0,0,1,0,1,0,0
+CPI-SS0F0D7F25C$\alpha{-}cells$,0,0,1,0,1,0,0
+CPI-SS0FEEB187C$\alpha{-}cells$,0,0,1,0,0,0,1
+CPI-SS0E7CBFD03$\alpha{-}cells$,0,0,1,0,0,1,1
+CPI-SS0E32BEF02$\alpha{-}cells$,0,0,1,1,1,1,0
+CPI-SS0D9EFC4F7$\alpha{-}cells$,0,0,1,1,1,1,1
+CPI-SS012B216F6$\alpha{-}cells$,0,0,1,0,0,0,0
+CPI-SS0E7D5974D$\alpha{-}cells$,0,0,1,0,0,0,1
+CPI-SS08C995EB4$\alpha{-}cells$,0,0,0,1,0,0,0
+CPI-SS01C2BA5C8$\alpha{-}cells$,0,0,0,1,0,0,0
+CPI-SS095E52E66$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS0CA020C34$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SS0BC9F7E9E$\alpha{-}cells$,0,0,0,1,1,0,0
+CPI-SS0D636A374$\alpha{-}cells$,0,0,0,1,1,0,0
+CPI-SS0938C6980$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS046F6F0C1$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS00E68BB92$\alpha{-}cells$,0,0,0,1,1,0,0
+CPI-SS076D8A297$\alpha{-}cells$,0,0,0,1,1,0,0
+CPI-SS0A5DF05C0$\alpha{-}cells$,0,0,0,1,1,0,0
+CPI-SS0E134097C$\alpha{-}cells$,0,0,0,1,1,0,0
+CPI-SS059EEFDC6$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS0B2D5BA95$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS03FA58286$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS004C23DCE$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS060B82BBC$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS02EF3E1BA$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS0E7523314$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS03722104E$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SS04B4619D0$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS0E5593D5C$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS0F9B3B259$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SC0077CEB82$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SC0D5CFA431$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SS03DA2A820$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SS0859C173B$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SS0F8EFEECF$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SC032246C72$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SC0984894BC$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SC03DD946B2$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SC098C06330$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SS0AECC113F$\alpha{-}cells$,0,0,0,0,1,0,0
+CPI-SS0E1A8414D$\alpha{-}cells$,0,0,0,0,1,0,1
+CPI-SS0330D939A$\alpha{-}cells$,0,0,0,0,1,0,0
+CPI-SS0F6A7A4DF$\alpha{-}cells$,0,0,0,0,1,0,0
+CPI-SS02FEAF02E$\alpha{-}cells$,0,0,0,0,1,0,0
+CPI-SS02371A6D6$\alpha{-}cells$,0,0,0,0,1,0,0
+CPI-SS0E928B8C8$\alpha{-}cells$,0,0,0,0,1,0,0
+CPI-SS04640F9C3$\alpha{-}cells$,0,0,0,0,1,0,0
+CPI-SS075D9B9AD$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-SS0098B5107$\alpha{-}cells$,0,0,0,0,1,0,0
+CPI-SS09CCC0451$\alpha{-}cells$,0,0,0,0,1,1,0
+CPI-SS0B99F22A2$\alpha{-}cells$,0,0,0,0,1,0,1
+CPI-SS05A94DE17$\alpha{-}cells$,0,0,0,0,1,0,0
+CPI-SS0A83A7E30$\alpha{-}cells$,0,0,0,0,1,0,1
+CPI-SS0DC2A6D35$\alpha{-}cells$,0,0,0,0,1,0,1
+CPI-SS08B7D54A3$\alpha{-}cells$,0,0,0,0,1,0,1
+CPI-SS073811AB3$\alpha{-}cells$,0,0,0,0,1,0,0
+CPI-SS048A2311A$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-SS02A0FF87F$\alpha{-}cells$,0,0,0,0,1,0,1
+CPI-SS0C7833961$\alpha{-}cells$,0,0,0,0,0,1,0
+CPI-SS0762B455F$\alpha{-}cells$,0,0,0,0,0,1,0
+CPI-SS0C6448B94$\alpha{-}cells$,0,0,0,0,0,1,0
+CPI-SS02928C71A$\alpha{-}cells$,0,0,0,0,0,1,1
+CPI-SS05A26A1DE$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SS0EBA5A4D8$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SS007AA9FDE$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SS0C03F7CDC$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SS0B9B3870A$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SS0BAB460FF$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SS0837E9F59$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SS0B70EB09E$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SS0579FA162$\beta{-}cells$,1,1,0,1,0,0,0
+CPI-SS0FAE7ABEF$\beta{-}cells$,1,0,0,0,0,0,0
+CPI-SS0D37C7C70$\beta{-}cells$,1,1,1,0,1,1,1
+CPI-SS0FC2B68F1$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SS06908C6CC$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0D377BBBF$\beta{-}cells$,1,0,0,0,1,0,1
+CPI-SS05E4B1EBC$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0C1BD22BC$\beta{-}cells$,1,0,0,1,0,0,0
+CPI-SS0CDAC688B$\beta{-}cells$,1,0,0,0,0,0,0
+CPI-SS0C03F7CDC$\beta{-}cells$,1,1,1,0,1,1,1
+CPI-SS0D00AAD2F$\beta{-}cells$,1,1,1,0,1,1,1
+CPI-SS0B9B3870A$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SS02371A6D6$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0FC01B947$\beta{-}cells$,1,1,1,0,1,1,1
+CPI-SS032AD1183$\beta{-}cells$,1,1,0,0,0,0,1
+CPI-SS0A3569604$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SS042A6F835$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SS01963C4CA$\beta{-}cells$,1,1,0,0,0,0,1
+CPI-SS0467AFD8A$\beta{-}cells$,1,0,0,0,0,1,1
+CPI-SS0098B5107$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SS09CCC0451$\beta{-}cells$,1,1,0,0,1,1,0
+CPI-SS0AC594A8E$\beta{-}cells$,1,0,0,1,1,0,0
+CPI-SS053613259$\beta{-}cells$,1,0,0,1,1,0,0
+CPI-SS058E608D0$\beta{-}cells$,1,0,1,0,0,0,0
+CPI-SS01F67987A$\beta{-}cells$,1,0,0,0,0,1,1
+CPI-SS03189F5F6$\beta{-}cells$,1,0,0,0,0,1,1
+CPI-SS0F2C6A4D4$\beta{-}cells$,1,0,0,0,0,1,1
+CPI-SS066347638$\beta{-}cells$,1,0,0,1,1,0,0
+CPI-SS0D4CA5D92$\beta{-}cells$,1,0,0,1,1,0,0
+CPI-SS0D782F60B$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0D95D41D6$\beta{-}cells$,1,0,0,1,1,0,0
+CPI-SS02AB0C3E0$\beta{-}cells$,1,0,1,1,1,1,1
+CPI-SS034B442CE$\beta{-}cells$,1,0,1,0,0,1,0
+CPI-SS008FB916C$\beta{-}cells$,1,0,0,1,1,0,0
+CPI-SS02A0FF87F$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0E41702C1$\beta{-}cells$,0,1,0,0,0,0,0
+CPI-SS0331C5A49$\beta{-}cells$,0,1,0,0,0,0,1
+CPI-SS073F3FAD5$\beta{-}cells$,0,1,0,0,0,0,0
+CPI-SS0D46E2B45$\beta{-}cells$,0,1,1,0,0,0,0
+CPI-SS085EE60B1$\beta{-}cells$,0,1,1,0,0,0,0
+CPI-SS0CBC7840D$\beta{-}cells$,0,1,1,0,0,0,0
+CPI-SS0CB4F2FE4$\beta{-}cells$,0,1,1,0,0,1,0
+CPI-SS0178F5C45$\beta{-}cells$,0,1,1,0,0,0,0
+CPI-SS02ACCF1F7$\beta{-}cells$,0,1,0,0,0,1,1
+CPI-SS06AA638A8$\beta{-}cells$,0,1,1,1,1,1,0
+CPI-SS083CBFACD$\beta{-}cells$,0,1,1,0,0,1,0
+CPI-SS0C28FEC7D$\beta{-}cells$,0,1,0,0,0,1,1
+CPI-SS019C98396$\beta{-}cells$,0,1,0,0,0,1,1
+CPI-SS0FBC9234C$\beta{-}cells$,0,1,0,0,0,1,1
+CPI-SS0230EE330$\beta{-}cells$,0,1,1,0,1,0,1
+CPI-SS00797FD15$\beta{-}cells$,0,1,1,1,1,1,1
+CPI-SS00581282E$\beta{-}cells$,0,1,1,0,1,0,1
+CPI-SC001669E22$\beta{-}cells$,0,1,1,0,1,0,1
+CPI-SC0FDB4B6D9$\beta{-}cells$,0,1,1,0,1,1,1
+CPI-SS0057AB387$\beta{-}cells$,0,1,1,1,1,0,0
+CPI-SS012B216F6$\beta{-}cells$,0,1,1,0,0,0,1
+CPI-SS048A2311A$\beta{-}cells$,0,1,0,0,1,1,1
+CPI-SS0472C478C$\beta{-}cells$,0,1,1,1,1,1,1
+CPI-SS0B81F1BF5$\beta{-}cells$,0,1,1,1,1,1,1
+CPI-SS05996C8FD$\beta{-}cells$,0,0,1,0,0,1,0
+CPI-SS0E063192D$\beta{-}cells$,0,0,1,0,1,0,0
+CPI-SS0EDD4928A$\beta{-}cells$,0,0,1,0,0,0,1
+CPI-SS0FC42EC80$\beta{-}cells$,0,0,1,0,1,0,0
+CPI-SS0D5E30C6C$\beta{-}cells$,0,0,1,0,1,0,0
+CPI-SS0F0D7F25C$\beta{-}cells$,0,0,1,0,1,0,0
+CPI-SS079DDF890$\beta{-}cells$,0,0,1,0,0,0,0
+CPI-SS0C85BC9AF$\beta{-}cells$,0,0,1,0,0,1,1
+CPI-SS002673EFE$\beta{-}cells$,0,0,1,1,0,1,0
+CPI-SS0B0CF0EDF$\beta{-}cells$,0,0,1,0,0,0,0
+CPI-SS0D9EFC4F7$\beta{-}cells$,0,0,1,1,0,1,0
+CPI-SS0E7D5974D$\beta{-}cells$,0,0,1,0,0,1,1
+CPI-SS08C78576B$\beta{-}cells$,0,0,1,1,0,0,0
+CPI-SS0CB863B46$\beta{-}cells$,0,0,1,1,1,1,1
+CPI-SS007AA9FDE$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0E1A8414D$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0CA020C34$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SS0BC9F7E9E$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-SS0D636A374$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-SS00E68BB92$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-SS076D8A297$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-SS0A5DF05C0$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-SS0E134097C$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-SS09C4988F8$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS059EEFDC6$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0A9F17199$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS03FA58286$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS004C23DCE$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS060B82BBC$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS02EF3E1BA$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0E7523314$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS03EACE0E0$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-SS073811AB3$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-SS04B4619D0$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0E5593D5C$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0F9B3B259$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0E32BEF02$\beta{-}cells$,0,0,0,1,1,1,0
+CPI-SC0077CEB82$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SC0D5CFA431$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SS03DA2A820$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SS0859C173B$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SS0F8EFEECF$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SC032246C72$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SC0984894BC$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SC03DD946B2$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SC098C06330$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SS062DED513$\beta{-}cells$,0,0,0,0,1,1,0
+CPI-SS0AECC113F$\beta{-}cells$,0,0,0,0,1,0,0
+CPI-SS07CCAD9BF$\beta{-}cells$,0,0,0,0,1,1,0
+CPI-SS0330D939A$\beta{-}cells$,0,0,0,0,1,0,0
+CPI-SS0F6A7A4DF$\beta{-}cells$,0,0,0,0,1,0,0
+CPI-SS02FEAF02E$\beta{-}cells$,0,0,0,0,1,0,0
+CPI-SC017215F7F$\beta{-}cells$,0,0,0,0,1,0,0
+CPI-SS0938C6980$\beta{-}cells$,0,0,0,0,1,0,1
+CPI-SS046F6F0C1$\beta{-}cells$,0,0,0,0,1,0,0
+CPI-SS0E928B8C8$\beta{-}cells$,0,0,0,0,1,0,0
+CPI-SS04640F9C3$\beta{-}cells$,0,0,0,0,1,0,0
+CPI-SS075D9B9AD$\beta{-}cells$,0,0,0,0,1,1,1
+CPI-SS0B99F22A2$\beta{-}cells$,0,0,0,0,1,0,1
+CPI-SS05A94DE17$\beta{-}cells$,0,0,0,0,1,0,0
+CPI-SS0A83A7E30$\beta{-}cells$,0,0,0,0,1,0,1
+CPI-SS0DC2A6D35$\beta{-}cells$,0,0,0,0,1,0,1
+CPI-SS0735F5C3A$\beta{-}cells$,0,0,0,0,1,0,0
+CPI-SS08B7D54A3$\beta{-}cells$,0,0,0,0,1,0,1
+CPI-SS09E3F5044$\beta{-}cells$,0,0,0,0,0,1,0
+CPI-SS0C7833961$\beta{-}cells$,0,0,0,0,0,1,0
+CPI-SS0762B455F$\beta{-}cells$,0,0,0,0,0,1,0
+CPI-SS0C6448B94$\beta{-}cells$,0,0,0,0,0,1,0
+CPI-SS02928C71A$\beta{-}cells$,0,0,0,0,0,1,1
+CPI-SS0E7CBFD03$\beta{-}cells$,0,0,0,0,0,1,1
+CPI-SS05A26A1DE$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SS0EBA5A4D8$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SS065F7DA2A$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SS09A3FA737$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SS01469637C$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SS0C56C483F$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SS09CA492BA$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SS0B2D5BA95$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SS0BAB460FF$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SS006C6537E$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SS0837E9F59$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SS0FEEB187C$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SS0B70EB09E$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SS0FAE7ABEF$\delta{-}cells$,1,0,0,0,0,0,0
+CPI-SS0D377BBBF$\delta{-}cells$,1,0,0,0,0,0,0
+CPI-SS0CDAC688B$\delta{-}cells$,1,0,0,0,0,0,0
+CPI-SS09A3FA737$\delta{-}cells$,1,0,0,0,0,0,1
+CPI-SS055B305F1$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0FC01B947$\delta{-}cells$,1,1,1,0,1,1,1
+CPI-SS032AD1183$\delta{-}cells$,1,1,0,0,0,0,1
+CPI-SS01963C4CA$\delta{-}cells$,1,1,0,0,0,0,1
+CPI-SS073F3FAD5$\delta{-}cells$,1,1,0,0,0,0,0
+CPI-SS0467AFD8A$\delta{-}cells$,1,0,0,0,0,1,1
+CPI-SS0AC594A8E$\delta{-}cells$,1,0,0,1,1,0,0
+CPI-SS053613259$\delta{-}cells$,1,0,0,1,1,0,0
+CPI-SS0CBC7840D$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS058E608D0$\delta{-}cells$,1,0,1,0,0,0,0
+CPI-SS079DDF890$\delta{-}cells$,1,1,1,1,0,1,0
+CPI-SS01F67987A$\delta{-}cells$,1,0,0,0,0,1,0
+CPI-SS03189F5F6$\delta{-}cells$,1,0,0,0,0,1,1
+CPI-SS0F2C6A4D4$\delta{-}cells$,1,0,0,0,0,1,1
+CPI-SS066347638$\delta{-}cells$,1,0,0,1,1,0,0
+CPI-SS0D4CA5D92$\delta{-}cells$,1,0,0,1,1,0,0
+CPI-SS0BAB460FF$\delta{-}cells$,1,1,1,0,1,1,1
+CPI-SS06CCF5A54$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS006C6537E$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0F3A089DE$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0D95D41D6$\delta{-}cells$,1,0,0,1,1,0,0
+CPI-SS0735F5C3A$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS034B442CE$\delta{-}cells$,1,1,1,0,0,1,0
+CPI-SS08B7D54A3$\delta{-}cells$,1,1,0,1,1,0,1
+CPI-SS073811AB3$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0BCCDFA7A$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS012AFC842$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0C85BC9AF$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS002673EFE$\delta{-}cells$,1,0,1,1,0,1,0
+CPI-SS0B0CF0EDF$\delta{-}cells$,1,1,1,1,1,1,0
+CPI-SS0E7D5974D$\delta{-}cells$,1,1,1,1,0,1,1
+CPI-SS048A2311A$\delta{-}cells$,1,1,1,0,1,1,1
+CPI-SS02A0FF87F$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0B81F1BF5$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0E41702C1$\delta{-}cells$,0,1,0,0,0,0,0
+CPI-SS0331C5A49$\delta{-}cells$,0,1,0,0,0,0,1
+CPI-SS0C56C483F$\delta{-}cells$,0,1,0,0,0,0,1
+CPI-SS0D46E2B45$\delta{-}cells$,0,1,1,0,0,0,0
+CPI-SS085EE60B1$\delta{-}cells$,0,1,1,0,0,0,0
+CPI-SS0CB4F2FE4$\delta{-}cells$,0,1,1,0,0,1,0
+CPI-SS0178F5C45$\delta{-}cells$,0,1,1,0,0,0,0
+CPI-SS06AA638A8$\delta{-}cells$,0,1,1,1,1,1,0
+CPI-SS083CBFACD$\delta{-}cells$,0,1,1,0,0,1,0
+CPI-SS019C98396$\delta{-}cells$,0,1,0,0,0,1,1
+CPI-SS0FBC9234C$\delta{-}cells$,0,1,0,0,1,1,1
+CPI-SS0230EE330$\delta{-}cells$,0,1,1,0,1,1,1
+CPI-SS00797FD15$\delta{-}cells$,0,1,0,1,0,0,1
+CPI-SS04B4619D0$\delta{-}cells$,0,1,0,1,1,0,1
+CPI-SC001669E22$\delta{-}cells$,0,1,1,1,1,0,1
+CPI-SC0FDB4B6D9$\delta{-}cells$,0,1,1,0,1,1,1
+CPI-SS0057AB387$\delta{-}cells$,0,1,1,1,1,0,0
+CPI-SS0F8EFEECF$\delta{-}cells$,0,1,0,1,1,1,1
+CPI-SS0CB863B46$\delta{-}cells$,0,1,1,1,1,1,1
+CPI-SS0472C478C$\delta{-}cells$,0,1,1,1,1,1,1
+CPI-SS0F6A7A4DF$\delta{-}cells$,0,0,1,1,1,0,0
+CPI-SS0E063192D$\delta{-}cells$,0,0,1,0,1,0,0
+CPI-SS0EDD4928A$\delta{-}cells$,0,0,1,0,0,0,1
+CPI-SS0FC42EC80$\delta{-}cells$,0,0,1,0,1,0,0
+CPI-SS0D5E30C6C$\delta{-}cells$,0,0,1,0,1,0,0
+CPI-SS0F0D7F25C$\delta{-}cells$,0,0,1,0,0,0,0
+CPI-SS0A2949959$\delta{-}cells$,0,0,1,0,0,0,0
+CPI-SS0FEEB187C$\delta{-}cells$,0,0,1,0,0,1,1
+CPI-SS00581282E$\delta{-}cells$,0,0,1,0,0,0,0
+CPI-SS0E7CBFD03$\delta{-}cells$,0,0,1,0,1,1,1
+CPI-SS0B70EB09E$\delta{-}cells$,0,0,1,0,0,0,1
+CPI-SS0E32BEF02$\delta{-}cells$,0,0,1,1,1,1,0
+CPI-SS012B216F6$\delta{-}cells$,0,0,1,0,0,0,0
+CPI-SS01C2BA5C8$\delta{-}cells$,0,0,0,1,0,0,1
+CPI-SS0BC9F7E9E$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-SS0938C6980$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SS00E68BB92$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-SS076D8A297$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-SS0A5DF05C0$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-SS0E134097C$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-SS09C4988F8$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0B99F22A2$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0B2D5BA95$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0A9F17199$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SS03FA58286$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SS004C23DCE$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SS060B82BBC$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SS02EF3E1BA$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0E7523314$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SS03EACE0E0$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-SS03722104E$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SS008FB916C$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-SS0E5593D5C$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0F9B3B259$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SC0077CEB82$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SC0D5CFA431$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SS03DA2A820$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SS0859C173B$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SC032246C72$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SC0984894BC$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SC03DD946B2$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SC098C06330$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SS0AECC113F$\delta{-}cells$,0,0,0,0,1,0,0
+CPI-SS095E52E66$\delta{-}cells$,0,0,0,0,1,0,0
+CPI-SS0330D939A$\delta{-}cells$,0,0,0,0,1,0,0
+CPI-SS02FEAF02E$\delta{-}cells$,0,0,0,0,1,0,0
+CPI-SS0D636A374$\delta{-}cells$,0,0,0,0,1,0,0
+CPI-SS02371A6D6$\delta{-}cells$,0,0,0,0,1,0,0
+CPI-SC017215F7F$\delta{-}cells$,0,0,0,0,1,1,0
+CPI-SS046F6F0C1$\delta{-}cells$,0,0,0,0,1,0,0
+CPI-SS0E928B8C8$\delta{-}cells$,0,0,0,0,1,0,0
+CPI-SS04640F9C3$\delta{-}cells$,0,0,0,0,1,0,0
+CPI-SS075D9B9AD$\delta{-}cells$,0,0,0,0,1,1,1
+CPI-SS0098B5107$\delta{-}cells$,0,0,0,0,1,0,0
+CPI-SS09CCC0451$\delta{-}cells$,0,0,0,0,1,0,0
+CPI-SS059EEFDC6$\delta{-}cells$,0,0,0,0,1,0,1
+CPI-SS05A94DE17$\delta{-}cells$,0,0,0,0,1,0,0
+CPI-SS0A83A7E30$\delta{-}cells$,0,0,0,0,1,0,1
+CPI-SS09E3F5044$\delta{-}cells$,0,0,0,0,0,1,0
+CPI-SS0C7833961$\delta{-}cells$,0,0,0,0,0,1,0
+CPI-SS0C6448B94$\delta{-}cells$,0,0,0,0,0,1,0
+CPI-SS02928C71A$\delta{-}cells$,0,0,0,0,0,1,1
+CPI-SS02ACCF1F7$\delta{-}cells$,0,0,0,0,0,1,1
+CPI-SS0837E9F59$\delta{-}cells$,0,0,0,0,0,1,1
+CPI-SS0C28FEC7D$\delta{-}cells$,0,0,0,0,0,1,1
+CPI-SS05A26A1DE$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SS0EBA5A4D8$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SS0C03F7CDC$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SS0B9B3870A$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SS01469637C$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SS0DEDA3567$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SS0DC2A6D35$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SS05B4EB419Acinar cells,1,0,0,0,0,0,1
+CPI-SS0D377BBBFAcinar cells,1,0,0,0,0,0,0
+CPI-SS0C1BD22BCAcinar cells,1,0,0,1,0,0,0
+CPI-SS0FB5FE587Acinar cells,1,0,1,0,0,1,1
+CPI-SS0CDAC688BAcinar cells,1,0,0,0,1,0,1
+CPI-SS09A3FA737Acinar cells,1,0,0,0,0,0,1
+CPI-SS08B249DBAAcinar cells,1,1,1,0,1,1,1
+CPI-SS0A3569604Acinar cells,1,0,1,1,1,0,1
+CPI-SS073F3FAD5Acinar cells,1,1,0,0,0,0,0
+CPI-SS0EBFE1854Acinar cells,1,1,1,0,1,1,1
+CPI-SS09CA492BAAcinar cells,1,1,1,0,1,1,1
+CPI-SS0CC5DCE80Acinar cells,1,1,1,0,1,1,1
+CPI-SS0FF49C823Acinar cells,1,1,1,1,1,1,1
+CPI-SS058E608D0Acinar cells,1,1,1,0,1,0,0
+CPI-SS02ACCF1F7Acinar cells,1,1,0,0,0,1,1
+CPI-SS079DDF890Acinar cells,1,1,1,1,0,1,0
+CPI-SS01F67987AAcinar cells,1,0,0,0,0,1,1
+CPI-SS03189F5F6Acinar cells,1,0,0,0,0,1,1
+CPI-SS0F2C6A4D4Acinar cells,1,0,0,0,0,1,1
+CPI-SS066347638Acinar cells,1,0,0,1,1,0,0
+CPI-SS0D4CA5D92Acinar cells,1,0,0,1,1,0,0
+CPI-SS0DEDA3567Acinar cells,1,1,1,0,1,1,1
+CPI-SS03EF699C7Acinar cells,1,1,1,1,1,1,1
+CPI-SS0C4FA643FAcinar cells,1,1,1,1,1,1,1
+CPI-SS03EACE0E0Acinar cells,1,1,0,1,1,1,1
+CPI-SS0837E9F59Acinar cells,1,1,1,0,1,1,1
+CPI-SS0C28FEC7DAcinar cells,1,1,1,1,0,1,1
+CPI-SS019C98396Acinar cells,1,1,0,0,0,1,1
+CPI-SS0D95D41D6Acinar cells,1,0,0,1,1,0,0
+CPI-SS0A83A7E30Acinar cells,1,1,1,1,1,1,1
+CPI-SS02AB0C3E0Acinar cells,1,0,1,1,1,1,1
+CPI-SS034B442CEAcinar cells,1,1,1,0,1,1,0
+CPI-SS08B7D54A3Acinar cells,1,1,1,1,1,1,1
+CPI-SS00797FD15Acinar cells,1,1,1,1,1,1,1
+CPI-SS008FB916CAcinar cells,1,0,0,1,1,0,0
+CPI-SS0BCCDFA7AAcinar cells,1,1,1,1,1,1,1
+CPI-SS04B4619D0Acinar cells,1,1,1,1,1,1,1
+CPI-SS00581282EAcinar cells,1,1,1,1,1,1,1
+CPI-SS0E5593D5CAcinar cells,1,1,0,1,1,1,1
+CPI-SS0F9B3B259Acinar cells,1,1,1,1,1,1,1
+CPI-SS0B70EB09EAcinar cells,1,1,1,0,1,1,1
+CPI-SS012AFC842Acinar cells,1,1,1,1,1,1,1
+CPI-SS002673EFEAcinar cells,1,0,1,1,0,1,0
+CPI-SS0B0CF0EDFAcinar cells,1,1,1,1,1,1,0
+CPI-SS033180726Acinar cells,1,1,1,1,0,1,1
+CPI-SS012B216F6Acinar cells,1,1,1,1,1,1,1
+CPI-SS0E7D5974DAcinar cells,1,1,1,1,1,1,1
+CPI-SS0F8EFEECFAcinar cells,1,1,1,1,1,1,1
+CPI-SS08C78576BAcinar cells,1,1,1,1,1,1,1
+CPI-SS048A2311AAcinar cells,1,1,1,1,1,1,1
+CPI-SC032246C72Acinar cells,1,1,1,1,1,1,1
+CPI-SC03DD946B2Acinar cells,1,1,1,1,1,1,1
+CPI-SS02A0FF87FAcinar cells,1,1,1,1,1,1,1
+CPI-SS0B81F1BF5Acinar cells,1,1,1,1,1,1,1
+CPI-SS0FB37E079Acinar cells,0,1,1,1,0,0,0
+CPI-SS0579FA162Acinar cells,0,1,0,0,0,0,0
+CPI-SS042A6F835Acinar cells,0,1,0,1,1,1,1
+CPI-SS01469637CAcinar cells,0,1,1,0,1,0,1
+CPI-SS0C56C483FAcinar cells,0,1,0,0,0,0,1
+CPI-SS0D46E2B45Acinar cells,0,1,1,0,0,0,0
+CPI-SS085EE60B1Acinar cells,0,1,1,0,0,0,0
+CPI-SS0CBC7840DAcinar cells,0,1,1,0,0,0,0
+CPI-SS0178F5C45Acinar cells,0,1,1,1,0,0,0
+CPI-SS083CBFACDAcinar cells,0,1,1,0,0,1,0
+CPI-SS0FBC9234CAcinar cells,0,1,0,0,1,1,1
+CPI-SS0230EE330Acinar cells,0,1,0,0,0,0,0
+CPI-SS0E7CBFD03Acinar cells,0,1,1,0,1,1,1
+CPI-SS0057AB387Acinar cells,0,1,1,1,1,0,0
+CPI-SS0859C173BAcinar cells,0,1,0,1,1,1,1
+CPI-SS0CB863B46Acinar cells,0,1,1,1,1,1,1
+CPI-SS0472C478CAcinar cells,0,1,1,1,1,1,1
+CPI-SS0AECC113FAcinar cells,0,0,1,1,1,0,0
+CPI-SS0FC42EC80Acinar cells,0,0,1,0,1,0,0
+CPI-SS0D5E30C6CAcinar cells,0,0,1,0,0,0,0
+CPI-SS0098B5107Acinar cells,0,0,1,1,1,0,0
+CPI-SS0F0D7F25CAcinar cells,0,0,1,0,1,0,0
+CPI-SS0A2949959Acinar cells,0,0,1,0,0,0,0
+CPI-SS06CCF5A54Acinar cells,0,0,1,0,0,0,0
+CPI-SS0E32BEF02Acinar cells,0,0,1,1,1,1,0
+CPI-SC0984894BCAcinar cells,0,0,1,1,1,1,1
+CPI-SC098C06330Acinar cells,0,0,1,1,1,1,1
+CPI-SS08C995EB4Acinar cells,0,0,0,1,0,0,0
+CPI-SS047232C64Acinar cells,0,0,0,1,1,0,1
+CPI-SS0423580E5Acinar cells,0,0,0,1,1,0,1
+CPI-SS01C2BA5C8Acinar cells,0,0,0,1,0,0,1
+CPI-SS077B160B9Acinar cells,0,0,0,1,1,0,1
+CPI-SS0E1A8414DAcinar cells,0,0,0,1,1,0,1
+CPI-SS095E52E66Acinar cells,0,0,0,1,1,0,1
+CPI-SS0D636A374Acinar cells,0,0,0,1,1,0,0
+CPI-SS046F6F0C1Acinar cells,0,0,0,1,1,0,1
+CPI-SS00E68BB92Acinar cells,0,0,0,1,1,0,0
+CPI-SS076D8A297Acinar cells,0,0,0,1,1,0,0
+CPI-SS0A5DF05C0Acinar cells,0,0,0,1,1,0,0
+CPI-SS0E134097CAcinar cells,0,0,0,1,1,0,0
+CPI-SS0B99F22A2Acinar cells,0,0,0,1,1,0,1
+CPI-SS059EEFDC6Acinar cells,0,0,0,1,1,0,1
+CPI-SS0B2D5BA95Acinar cells,0,0,0,1,1,1,1
+CPI-SS03FA58286Acinar cells,0,0,0,1,1,0,1
+CPI-SS004C23DCEAcinar cells,0,0,0,1,1,0,1
+CPI-SS060B82BBCAcinar cells,0,0,0,1,1,0,1
+CPI-SS02EF3E1BAAcinar cells,0,0,0,1,1,0,1
+CPI-SS0E7523314Acinar cells,0,0,0,1,1,0,1
+CPI-SS03722104EAcinar cells,0,0,0,1,1,1,1
+CPI-SS03DA2A820Acinar cells,0,0,0,1,1,1,1
+CPI-SS007AA9FDEAcinar cells,0,0,0,0,1,0,1
+CPI-SS07CCAD9BFAcinar cells,0,0,0,0,1,0,0
+CPI-SS0F6A7A4DFAcinar cells,0,0,0,0,1,0,0
+CPI-SS02FEAF02EAcinar cells,0,0,0,0,1,0,0
+CPI-SS02371A6D6Acinar cells,0,0,0,0,1,0,0
+CPI-SS0E928B8C8Acinar cells,0,0,0,0,1,0,0
+CPI-SS04640F9C3Acinar cells,0,0,0,0,1,0,0
+CPI-SS05A94DE17Acinar cells,0,0,0,0,1,0,0
+CPI-SS04F3A1E5CAcinar cells,0,0,0,0,1,0,0
+CPI-SS0DC2A6D35Acinar cells,0,0,0,0,1,0,1
+CPI-SC0077CEB82Acinar cells,0,0,0,0,1,0,1
+CPI-SC0D5CFA431Acinar cells,0,0,0,0,1,0,1
+CPI-SS079EF5D9CAcinar cells,0,0,0,0,0,1,0
+CPI-SS062DED513Acinar cells,0,0,0,0,0,1,0
+CPI-SS0762B455FAcinar cells,0,0,0,0,0,1,0
+CPI-SS0C6448B94Acinar cells,0,0,0,0,0,1,0
+CPI-SS006C6537EAcinar cells,0,0,0,0,0,1,1
+CPI-SS0D37C7C70Acinar cells,0,0,0,0,0,0,1
+CPI-SS0EBA5A4D8Acinar cells,0,0,0,0,0,0,1
+CPI-SS065F7DA2AAcinar cells,0,0,0,0,0,0,1
+CPI-SS0C03F7CDCAcinar cells,0,0,0,0,0,0,1
+CPI-SS0B9B3870AAcinar cells,0,0,0,0,0,0,1
+CPI-SS0BAB460FFAcinar cells,0,0,0,0,0,0,1
+CPI-SS0C85BC9AFAcinar cells,0,0,0,0,0,0,1
+CPI-SS05B4EB419Ductal cells,1,0,0,0,0,0,1
+CPI-SS0B8083B44Ductal cells,1,1,1,0,1,1,1
+CPI-SS0FAE7ABEFDuctal cells,1,0,0,0,0,0,0
+CPI-SS044C72D0DDuctal cells,1,1,1,1,1,1,1
+CPI-SS0C1BD22BCDuctal cells,1,0,0,1,0,0,0
+CPI-SS065F7DA2ADuctal cells,1,0,0,0,0,0,1
+CPI-SS0CDAC688BDuctal cells,1,0,0,0,1,0,1
+CPI-SS09A3FA737Ductal cells,1,0,0,0,0,0,1
+CPI-SS08B249DBADuctal cells,1,1,1,0,1,1,1
+CPI-SS032AD1183Ductal cells,1,1,0,0,0,0,1
+CPI-SS0D5E30C6CDuctal cells,1,1,1,0,1,0,0
+CPI-SS04640F9C3Ductal cells,1,1,1,1,1,1,1
+CPI-SS01963C4CADuctal cells,1,1,0,0,0,0,1
+CPI-SS0EBFE1854Ductal cells,1,1,1,0,1,1,1
+CPI-SS0467AFD8ADuctal cells,1,0,0,0,0,1,0
+CPI-SS09CA492BADuctal cells,1,1,1,0,1,1,1
+CPI-SS09CCC0451Ductal cells,1,0,0,0,1,1,0
+CPI-SS0AC594A8EDuctal cells,1,0,0,1,1,0,0
+CPI-SS0CC5DCE80Ductal cells,1,1,1,0,1,1,1
+CPI-SS053613259Ductal cells,1,0,0,1,1,0,0
+CPI-SS0FF49C823Ductal cells,1,1,1,1,1,1,1
+CPI-SS05A94DE17Ductal cells,1,1,1,1,1,1,1
+CPI-SS058E608D0Ductal cells,1,1,1,0,1,0,0
+CPI-SS02928C71ADuctal cells,1,1,0,0,0,1,1
+CPI-SS0178F5C45Ductal cells,1,1,1,1,1,0,1
+CPI-SS01F67987ADuctal cells,1,0,0,0,0,1,1
+CPI-SS03189F5F6Ductal cells,1,0,0,0,0,1,1
+CPI-SS0F2C6A4D4Ductal cells,1,0,0,0,0,1,1
+CPI-SS066347638Ductal cells,1,0,0,1,1,0,0
+CPI-SS0D4CA5D92Ductal cells,1,0,0,1,1,0,0
+CPI-SS0A2949959Ductal cells,1,1,1,1,1,1,1
+CPI-SS0DEDA3567Ductal cells,1,1,1,1,1,1,1
+CPI-SS03EF699C7Ductal cells,1,1,1,1,1,1,1
+CPI-SS0C4FA643FDuctal cells,1,1,1,1,1,1,1
+CPI-SS06CCF5A54Ductal cells,1,1,1,1,1,1,1
+CPI-SS03EACE0E0Ductal cells,1,0,0,1,1,0,1
+CPI-SS04F3A1E5CDuctal cells,1,1,1,0,1,1,0
+CPI-SS0837E9F59Ductal cells,1,1,1,0,1,1,1
+CPI-SS0C28FEC7DDuctal cells,1,1,1,0,0,1,1
+CPI-SS019C98396Ductal cells,1,1,0,0,0,1,1
+CPI-SS0D95D41D6Ductal cells,1,0,0,1,1,0,0
+CPI-SS0FEEB187CDuctal cells,1,1,1,0,1,1,1
+CPI-SS0A83A7E30Ductal cells,1,1,1,1,1,1,1
+CPI-SS02AB0C3E0Ductal cells,1,1,1,1,1,1,1
+CPI-SS034B442CEDuctal cells,1,1,1,0,0,1,0
+CPI-SS08B7D54A3Ductal cells,1,1,0,1,1,0,1
+CPI-SS008FB916CDuctal cells,1,1,0,1,1,0,1
+CPI-SS073811AB3Ductal cells,1,1,1,1,1,1,1
+CPI-SS0BCCDFA7ADuctal cells,1,1,1,1,1,1,1
+CPI-SS0B70EB09EDuctal cells,1,1,1,0,1,1,1
+CPI-SS0C85BC9AFDuctal cells,1,0,1,1,0,1,1
+CPI-SS0B0CF0EDFDuctal cells,1,1,1,1,1,1,1
+CPI-SS033180726Ductal cells,1,1,1,1,0,1,1
+CPI-SS0D9EFC4F7Ductal cells,1,1,1,1,1,1,1
+CPI-SS012B216F6Ductal cells,1,1,1,1,1,1,1
+CPI-SS0E7D5974DDuctal cells,1,1,1,1,0,1,1
+CPI-SS08C78576BDuctal cells,1,1,1,1,1,1,1
+CPI-SC032246C72Ductal cells,1,1,1,1,1,1,1
+CPI-SC03DD946B2Ductal cells,1,1,1,1,1,1,1
+CPI-SS02A0FF87FDuctal cells,1,1,1,1,1,1,1
+CPI-SS0B81F1BF5Ductal cells,1,1,1,1,1,1,1
+CPI-SS0E41702C1Ductal cells,0,1,0,0,0,0,0
+CPI-SS0331C5A49Ductal cells,0,1,0,0,0,0,1
+CPI-SS073F3FAD5Ductal cells,0,1,0,0,0,0,0
+CPI-SS0D46E2B45Ductal cells,0,1,1,0,0,0,0
+CPI-SS085EE60B1Ductal cells,0,1,1,0,0,0,0
+CPI-SS0CBC7840DDuctal cells,0,1,1,0,0,0,0
+CPI-SS0CB4F2FE4Ductal cells,0,1,1,0,0,1,0
+CPI-SS06AA638A8Ductal cells,0,1,1,0,0,1,0
+CPI-SS083CBFACDDuctal cells,0,1,1,0,0,1,0
+CPI-SS0FBC9234CDuctal cells,0,1,0,0,1,1,1
+CPI-SS0DC2A6D35Ductal cells,0,1,1,0,1,1,1
+CPI-SS0230EE330Ductal cells,0,1,1,0,1,0,1
+CPI-SS00797FD15Ductal cells,0,1,0,0,0,0,1
+CPI-SS04B4619D0Ductal cells,0,1,0,1,1,0,1
+CPI-SS0F9B3B259Ductal cells,0,1,1,1,1,1,1
+CPI-SC001669E22Ductal cells,0,1,1,1,1,0,1
+CPI-SS0057AB387Ductal cells,0,1,1,1,1,0,0
+CPI-SS0859C173BDuctal cells,0,1,0,1,1,1,1
+CPI-SS048A2311ADuctal cells,0,1,1,0,1,1,1
+CPI-SS0472C478CDuctal cells,0,1,1,1,1,1,1
+CPI-SS05996C8FDDuctal cells,0,0,1,0,0,1,0
+CPI-SS0F6A7A4DFDuctal cells,0,0,1,1,1,0,0
+CPI-SS0E063192DDuctal cells,0,0,1,0,0,0,0
+CPI-SS0EDD4928ADuctal cells,0,0,1,0,0,0,1
+CPI-SS0FC42EC80Ductal cells,0,0,1,0,1,0,0
+CPI-SS0F0D7F25CDuctal cells,0,0,1,0,0,0,0
+CPI-SS00581282EDuctal cells,0,0,1,0,0,0,0
+CPI-SS0E7CBFD03Ductal cells,0,0,1,0,0,1,1
+CPI-SS002673EFEDuctal cells,0,0,1,1,0,1,0
+CPI-SC0FDB4B6D9Ductal cells,0,0,1,0,1,1,1
+CPI-SS0CB863B46Ductal cells,0,0,1,1,1,1,1
+CPI-SS08C995EB4Ductal cells,0,0,0,1,0,0,0
+CPI-SS0D81C6C1DDuctal cells,0,0,0,1,1,1,1
+CPI-SS01C2BA5C8Ductal cells,0,0,0,1,0,0,0
+CPI-SS077B160B9Ductal cells,0,0,0,1,1,0,1
+CPI-SS095E52E66Ductal cells,0,0,0,1,1,0,1
+CPI-SS0BC9F7E9EDuctal cells,0,0,0,1,1,0,0
+CPI-SS0D636A374Ductal cells,0,0,0,1,1,0,0
+CPI-SS046F6F0C1Ductal cells,0,0,0,1,1,0,1
+CPI-SS00E68BB92Ductal cells,0,0,0,1,1,0,0
+CPI-SS076D8A297Ductal cells,0,0,0,1,1,0,0
+CPI-SS0A5DF05C0Ductal cells,0,0,0,1,1,0,0
+CPI-SS0E134097CDuctal cells,0,0,0,1,1,0,0
+CPI-SS09C4988F8Ductal cells,0,0,0,1,1,0,1
+CPI-SS075D9B9ADDuctal cells,0,0,0,1,1,1,1
+CPI-SS0B99F22A2Ductal cells,0,0,0,1,1,0,1
+CPI-SS0A9F17199Ductal cells,0,0,0,1,1,0,1
+CPI-SS03FA58286Ductal cells,0,0,0,1,1,0,1
+CPI-SS004C23DCEDuctal cells,0,0,0,1,1,0,1
+CPI-SS060B82BBCDuctal cells,0,0,0,1,1,0,1
+CPI-SS02EF3E1BADuctal cells,0,0,0,1,1,0,1
+CPI-SS0E7523314Ductal cells,0,0,0,1,1,0,1
+CPI-SS03722104EDuctal cells,0,0,0,1,1,1,1
+CPI-SS0E5593D5CDuctal cells,0,0,0,1,1,0,1
+CPI-SS0E32BEF02Ductal cells,0,0,0,1,1,1,0
+CPI-SC0077CEB82Ductal cells,0,0,0,1,1,1,1
+CPI-SC0D5CFA431Ductal cells,0,0,0,1,1,1,1
+CPI-SS03DA2A820Ductal cells,0,0,0,1,1,1,1
+CPI-SS0F8EFEECFDuctal cells,0,0,0,1,1,1,1
+CPI-SC0984894BCDuctal cells,0,0,0,1,1,1,1
+CPI-SC098C06330Ductal cells,0,0,0,1,1,1,1
+CPI-SS0AECC113FDuctal cells,0,0,0,0,1,0,0
+CPI-SS0330D939ADuctal cells,0,0,0,0,1,0,0
+CPI-SS02FEAF02EDuctal cells,0,0,0,0,1,0,0
+CPI-SS02371A6D6Ductal cells,0,0,0,0,1,0,0
+CPI-SC017215F7FDuctal cells,0,0,0,0,1,0,0
+CPI-SS0E928B8C8Ductal cells,0,0,0,0,1,0,0
+CPI-SS0098B5107Ductal cells,0,0,0,0,1,0,0
+CPI-SS059EEFDC6Ductal cells,0,0,0,0,1,0,1
+CPI-SS079EF5D9CDuctal cells,0,0,0,0,0,1,0
+CPI-SS0C7833961Ductal cells,0,0,0,0,0,1,0
+CPI-SS0762B455FDuctal cells,0,0,0,0,0,1,0
+CPI-SS0C6448B94Ductal cells,0,0,0,0,0,1,0
+CPI-SS02ACCF1F7Ductal cells,0,0,0,0,0,1,1
+CPI-SS006C6537EDuctal cells,0,0,0,0,0,1,1
+CPI-SS05A26A1DEDuctal cells,0,0,0,0,0,0,1
+CPI-SS0EBA5A4D8Ductal cells,0,0,0,0,0,0,1
+CPI-SS0C03F7CDCDuctal cells,0,0,0,0,0,0,1
+CPI-SS0B9B3870ADuctal cells,0,0,0,0,0,0,1
+CPI-SS01469637CDuctal cells,0,0,0,0,0,0,1
+CPI-SS0C56C483FDuctal cells,0,0,0,0,0,0,1
+CPI-SS0B2D5BA95Ductal cells,0,0,0,0,0,0,1
+CPI-SS0BAB460FFDuctal cells,0,0,0,0,0,0,1
+CPI-SS0F3A089DEDuctal cells,0,0,0,0,0,0,1
+CPI-SS0FAE7ABEFPP cells,1,0,0,0,0,0,0
+CPI-SS0D377BBBFPP cells,1,0,0,0,0,0,0
+CPI-SS065F7DA2APP cells,1,0,0,0,0,0,1
+CPI-SS0330D939APP cells,1,1,1,1,1,1,0
+CPI-SS0CDAC688BPP cells,1,0,0,0,0,0,0
+CPI-SS00BD8FF72PP cells,1,1,1,0,1,1,1
+CPI-SC017215F7FPP cells,1,1,0,0,1,1,0
+CPI-SS0FC01B947PP cells,1,0,0,0,0,0,1
+CPI-SS032AD1183PP cells,1,1,0,0,0,0,1
+CPI-SS01963C4CAPP cells,1,0,0,0,0,0,1
+CPI-SS0467AFD8APP cells,1,0,0,0,0,1,1
+CPI-SS0AC594A8EPP cells,1,0,0,1,1,0,0
+CPI-SS053613259PP cells,1,0,0,1,1,0,0
+CPI-SS058E608D0PP cells,1,0,1,0,0,0,0
+CPI-SS079DDF890PP cells,1,1,1,1,1,1,1
+CPI-SS01F67987APP cells,1,0,0,0,0,1,1
+CPI-SS03189F5F6PP cells,1,0,0,0,0,1,1
+CPI-SS0F2C6A4D4PP cells,1,0,0,0,0,1,1
+CPI-SS066347638PP cells,1,0,0,1,1,0,0
+CPI-SS0D4CA5D92PP cells,1,0,0,1,1,0,0
+CPI-SS0BAB460FFPP cells,1,1,1,0,0,1,1
+CPI-SS0D782F60BPP cells,1,1,1,1,1,1,1
+CPI-SS04F3A1E5CPP cells,1,1,1,0,1,1,0
+CPI-SS0F3A089DEPP cells,1,1,1,1,1,1,1
+CPI-SS0D95D41D6PP cells,1,0,0,1,1,0,0
+CPI-SS0FEEB187CPP cells,1,1,1,0,1,1,1
+CPI-SS034B442CEPP cells,1,0,1,0,0,1,0
+CPI-SS008FB916CPP cells,1,0,0,1,1,0,0
+CPI-SS073811AB3PP cells,1,1,1,1,1,1,1
+CPI-SS0E5593D5CPP cells,1,1,0,1,1,1,1
+CPI-SS0B70EB09EPP cells,1,1,1,0,1,1,1
+CPI-SS012AFC842PP cells,1,1,1,1,1,1,1
+CPI-SS0C85BC9AFPP cells,1,1,1,1,0,1,1
+CPI-SS0D9EFC4F7PP cells,1,1,1,1,1,1,1
+CPI-SS08C78576BPP cells,1,1,1,1,1,1,1
+CPI-SS0E41702C1PP cells,0,1,0,0,0,0,0
+CPI-SS0331C5A49PP cells,0,1,0,0,0,0,1
+CPI-SS04640F9C3PP cells,0,1,1,1,1,0,0
+CPI-SS073F3FAD5PP cells,0,1,0,0,0,0,0
+CPI-SS01469637CPP cells,0,1,1,0,0,0,1
+CPI-SS0C56C483FPP cells,0,1,0,0,0,0,1
+CPI-SS0D46E2B45PP cells,0,1,1,0,0,0,0
+CPI-SS085EE60B1PP cells,0,1,1,0,0,0,0
+CPI-SS0CBC7840DPP cells,0,1,1,0,0,0,0
+CPI-SS0CB4F2FE4PP cells,0,1,1,0,0,1,0
+CPI-SS0178F5C45PP cells,0,1,1,0,0,0,0
+CPI-SS02ACCF1F7PP cells,0,1,0,0,0,1,1
+CPI-SS06AA638A8PP cells,0,1,1,0,0,1,0
+CPI-SS083CBFACDPP cells,0,1,1,0,0,1,0
+CPI-SS02EF3E1BAPP cells,0,1,0,1,1,0,1
+CPI-SS019C98396PP cells,0,1,0,0,0,1,1
+CPI-SS0FBC9234CPP cells,0,1,0,0,0,1,1
+CPI-SS0DC2A6D35PP cells,0,1,1,0,1,1,1
+CPI-SS0230EE330PP cells,0,1,1,0,1,0,1
+CPI-SS00581282EPP cells,0,1,1,0,0,0,0
+CPI-SS033180726PP cells,0,1,1,1,0,1,0
+CPI-SC001669E22PP cells,0,1,1,1,1,0,1
+CPI-SC0FDB4B6D9PP cells,0,1,1,0,1,1,1
+CPI-SS0057AB387PP cells,0,1,1,1,1,0,0
+CPI-SS012B216F6PP cells,0,1,1,0,0,0,1
+CPI-SS048A2311APP cells,0,1,0,0,1,1,1
+CPI-SS0472C478CPP cells,0,1,1,1,1,1,1
+CPI-SS0B81F1BF5PP cells,0,1,1,1,1,1,1
+CPI-SS0E063192DPP cells,0,0,1,0,1,0,0
+CPI-SS0EDD4928APP cells,0,0,1,0,0,0,1
+CPI-SS0FC42EC80PP cells,0,0,1,0,1,0,0
+CPI-SS0E928B8C8PP cells,0,0,1,1,1,0,0
+CPI-SS0D5E30C6CPP cells,0,0,1,0,1,0,0
+CPI-SS0098B5107PP cells,0,0,1,1,1,0,0
+CPI-SS0F0D7F25CPP cells,0,0,1,0,1,0,0
+CPI-SS0A2949959PP cells,0,0,1,0,0,0,0
+CPI-SS0735F5C3APP cells,0,0,1,1,1,0,0
+CPI-SS0E7CBFD03PP cells,0,0,1,0,0,1,1
+CPI-SS0E32BEF02PP cells,0,0,1,1,1,1,0
+CPI-SS002673EFEPP cells,0,0,1,1,0,1,0
+CPI-SS0B0CF0EDFPP cells,0,0,1,0,0,0,0
+CPI-SS0E7D5974DPP cells,0,0,1,0,0,1,1
+CPI-SC0984894BCPP cells,0,0,1,1,1,1,1
+CPI-SC098C06330PP cells,0,0,1,1,1,1,1
+CPI-SS0CB863B46PP cells,0,0,1,1,1,1,1
+CPI-SS035E5A708PP cells,0,0,0,1,1,0,1
+CPI-SS01C2BA5C8PP cells,0,0,0,1,0,0,0
+CPI-SS0CA020C34PP cells,0,0,0,1,1,1,1
+CPI-SS0BC9F7E9EPP cells,0,0,0,1,1,0,0
+CPI-SS0D636A374PP cells,0,0,0,1,1,0,0
+CPI-SS0938C6980PP cells,0,0,0,1,1,0,1
+CPI-SS00E68BB92PP cells,0,0,0,1,1,0,0
+CPI-SS076D8A297PP cells,0,0,0,1,1,0,0
+CPI-SS0A5DF05C0PP cells,0,0,0,1,1,0,0
+CPI-SS0E134097CPP cells,0,0,0,1,1,0,0
+CPI-SS09C4988F8PP cells,0,0,0,1,1,0,1
+CPI-SS059EEFDC6PP cells,0,0,0,1,1,0,1
+CPI-SS0B2D5BA95PP cells,0,0,0,1,1,0,1
+CPI-SS0A9F17199PP cells,0,0,0,1,1,0,1
+CPI-SS03FA58286PP cells,0,0,0,1,1,0,1
+CPI-SS004C23DCEPP cells,0,0,0,1,1,0,1
+CPI-SS060B82BBCPP cells,0,0,0,1,1,0,1
+CPI-SS0E7523314PP cells,0,0,0,1,1,0,1
+CPI-SS03EACE0E0PP cells,0,0,0,1,1,0,0
+CPI-SS03722104EPP cells,0,0,0,1,1,1,1
+CPI-SS04B4619D0PP cells,0,0,0,1,1,0,1
+CPI-SS0F9B3B259PP cells,0,0,0,1,1,0,1
+CPI-SC0077CEB82PP cells,0,0,0,1,1,1,1
+CPI-SC0D5CFA431PP cells,0,0,0,1,1,1,1
+CPI-SS03DA2A820PP cells,0,0,0,1,1,1,1
+CPI-SS0859C173BPP cells,0,0,0,1,1,1,1
+CPI-SS0F8EFEECFPP cells,0,0,0,1,1,1,1
+CPI-SC032246C72PP cells,0,0,0,1,1,1,1
+CPI-SC03DD946B2PP cells,0,0,0,1,1,1,1
+CPI-SS0AECC113FPP cells,0,0,0,0,1,0,0
+CPI-SS0F6A7A4DFPP cells,0,0,0,0,1,0,0
+CPI-SS02FEAF02EPP cells,0,0,0,0,1,0,0
+CPI-SS02371A6D6PP cells,0,0,0,0,1,0,0
+CPI-SS046F6F0C1PP cells,0,0,0,0,1,0,0
+CPI-SS075D9B9ADPP cells,0,0,0,0,1,1,1
+CPI-SS09CCC0451PP cells,0,0,0,0,1,1,0
+CPI-SS0B99F22A2PP cells,0,0,0,0,1,0,1
+CPI-SS05A94DE17PP cells,0,0,0,0,1,0,0
+CPI-SS0A83A7E30PP cells,0,0,0,0,1,0,1
+CPI-SS08B7D54A3PP cells,0,0,0,0,1,0,1
+CPI-SS02A0FF87FPP cells,0,0,0,0,1,0,1
+CPI-SS09E3F5044PP cells,0,0,0,0,0,1,0
+CPI-SS062DED513PP cells,0,0,0,0,0,1,0
+CPI-SS0C7833961PP cells,0,0,0,0,0,1,0
+CPI-SS0762B455FPP cells,0,0,0,0,0,1,0
+CPI-SS0C6448B94PP cells,0,0,0,0,0,1,0
+CPI-SS00D3CD86EPP cells,0,0,0,0,0,1,0
+CPI-SS02928C71APP cells,0,0,0,0,0,1,1
+CPI-SS006C6537EPP cells,0,0,0,0,0,1,1
+CPI-SS0C28FEC7DPP cells,0,0,0,0,0,1,1
+CPI-SS05A26A1DEPP cells,0,0,0,0,0,0,1
+CPI-SS0EBA5A4D8PP cells,0,0,0,0,0,0,1
+CPI-SS09A3FA737PP cells,0,0,0,0,0,0,1
+CPI-SS0C03F7CDCPP cells,0,0,0,0,0,0,1
+CPI-SS0B9B3870APP cells,0,0,0,0,0,0,1
+CPI-SS09CA492BAPP cells,0,0,0,0,0,0,1
+CPI-SS0837E9F59PP cells,0,0,0,0,0,0,1
+CPI-SS00797FD15PP cells,0,0,0,0,0,0,1
+CPI-SS0D9366D11Stellate cells,1,0,0,1,1,0,0
+CPI-SS0755A26DDStellate cells,1,0,0,0,0,1,1
+CPI-SS0FAE7ABEFStellate cells,1,0,0,0,0,0,0
+CPI-SS0D377BBBFStellate cells,1,0,0,0,0,0,0
+CPI-SS0C1BD22BCStellate cells,1,0,0,1,0,0,0
+CPI-SS065F7DA2AStellate cells,1,0,0,0,0,0,1
+CPI-SS0FB5FE587Stellate cells,1,1,1,0,1,1,1
+CPI-SS0CDAC688BStellate cells,1,0,0,0,0,0,0
+CPI-SS02FEAF02EStellate cells,1,1,1,1,1,1,0
+CPI-SS0E928B8C8Stellate cells,1,1,1,1,1,1,1
+CPI-SS08B249DBAStellate cells,1,1,0,0,0,0,1
+CPI-SS01963C4CAStellate cells,1,1,0,0,0,0,1
+CPI-SS073F3FAD5Stellate cells,1,1,1,1,1,1,1
+CPI-SS0EBFE1854Stellate cells,1,0,0,0,0,0,1
+CPI-SS0467AFD8AStellate cells,1,0,0,0,0,1,0
+CPI-SS0C56C483FStellate cells,1,1,1,1,1,1,1
+CPI-SS09CCC0451Stellate cells,1,1,1,0,1,1,0
+CPI-SS0F0D7F25CStellate cells,1,1,1,1,1,1,1
+CPI-SS0D46E2B45Stellate cells,1,1,1,1,1,0,1
+CPI-SS085EE60B1Stellate cells,1,1,1,1,1,0,1
+CPI-SS053613259Stellate cells,1,0,0,1,1,0,0
+CPI-SS05A94DE17Stellate cells,1,1,1,1,1,1,1
+CPI-SS058E608D0Stellate cells,1,1,1,0,0,0,0
+CPI-SS0CB4F2FE4Stellate cells,1,1,1,0,0,1,0
+CPI-SS02928C71AStellate cells,1,1,1,1,1,1,1
+CPI-SS0A9F17199Stellate cells,1,0,0,1,1,0,1
+CPI-SS01F67987AStellate cells,1,0,0,0,0,1,1
+CPI-SS03189F5F6Stellate cells,1,0,0,0,0,1,1
+CPI-SS0F2C6A4D4Stellate cells,1,0,0,0,0,1,1
+CPI-SS066347638Stellate cells,1,0,0,1,1,0,0
+CPI-SS0D4CA5D92Stellate cells,1,0,0,1,1,0,0
+CPI-SS0BAB460FFStellate cells,1,1,1,0,1,1,1
+CPI-SS0A2949959Stellate cells,1,1,1,1,1,1,1
+CPI-SS06CCF5A54Stellate cells,1,1,1,1,1,1,1
+CPI-SS04F3A1E5CStellate cells,1,1,1,1,1,1,1
+CPI-SS0837E9F59Stellate cells,1,1,1,0,1,1,1
+CPI-SS0D95D41D6Stellate cells,1,1,1,1,1,0,1
+CPI-SS0FEEB187CStellate cells,1,1,1,0,1,1,1
+CPI-SS02AB0C3E0Stellate cells,1,0,0,1,1,1,1
+CPI-SS0DC2A6D35Stellate cells,1,1,1,1,1,1,1
+CPI-SS0735F5C3AStellate cells,1,1,1,1,1,1,1
+CPI-SS034B442CEStellate cells,1,0,1,0,0,1,0
+CPI-SS008FB916CStellate cells,1,1,1,1,1,1,1
+CPI-SS00581282EStellate cells,1,1,1,1,1,1,1
+CPI-SS0E7CBFD03Stellate cells,1,1,1,1,1,1,1
+CPI-SS0B70EB09EStellate cells,1,1,1,0,1,1,1
+CPI-SS0E32BEF02Stellate cells,1,1,1,1,1,1,0
+CPI-SS0C85BC9AFStellate cells,1,1,1,1,0,1,1
+CPI-SS002673EFEStellate cells,1,1,1,1,1,1,1
+CPI-SS0B0CF0EDFStellate cells,1,1,1,1,1,1,1
+CPI-SS033180726Stellate cells,1,1,1,1,0,1,1
+CPI-SS0D9EFC4F7Stellate cells,1,0,1,1,1,1,1
+CPI-SC0077CEB82Stellate cells,1,1,1,1,1,1,1
+CPI-SC0D5CFA431Stellate cells,1,1,1,1,1,1,1
+CPI-SS012B216F6Stellate cells,1,1,1,1,1,1,1
+CPI-SS03DA2A820Stellate cells,1,0,1,1,1,1,1
+CPI-SC0984894BCStellate cells,1,1,1,1,1,1,1
+CPI-SC098C06330Stellate cells,1,1,1,1,1,1,1
+CPI-SS02A0FF87FStellate cells,1,1,1,1,1,1,1
+CPI-SS068C742A1Stellate cells,0,1,1,0,0,0,0
+CPI-SS04A97448DStellate cells,0,1,1,1,1,0,0
+CPI-SS0579FA162Stellate cells,0,1,0,0,0,0,0
+CPI-SS0E41702C1Stellate cells,0,1,0,0,0,0,0
+CPI-SS0331C5A49Stellate cells,0,1,0,0,0,0,1
+CPI-SS0CBC7840DStellate cells,0,1,1,0,0,0,0
+CPI-SS0178F5C45Stellate cells,0,1,1,0,0,0,0
+CPI-SS02ACCF1F7Stellate cells,0,1,0,0,0,1,1
+CPI-SS083CBFACDStellate cells,0,1,1,0,0,1,0
+CPI-SS019C98396Stellate cells,0,1,0,0,0,1,1
+CPI-SS0FBC9234CStellate cells,0,1,0,0,0,1,1
+CPI-SS0230EE330Stellate cells,0,1,0,0,0,0,1
+CPI-SC001669E22Stellate cells,0,1,1,1,1,0,1
+CPI-SC0FDB4B6D9Stellate cells,0,1,1,0,1,1,1
+CPI-SS0057AB387Stellate cells,0,1,1,1,1,1,0
+CPI-SS048A2311AStellate cells,0,1,0,0,1,1,1
+CPI-SS0CB863B46Stellate cells,0,1,1,1,1,1,1
+CPI-SS0472C478CStellate cells,0,1,1,1,1,1,1
+CPI-SS0B81F1BF5Stellate cells,0,1,1,1,1,1,1
+CPI-SS05996C8FDStellate cells,0,0,1,0,0,1,0
+CPI-SS0E063192DStellate cells,0,0,1,0,1,0,0
+CPI-SS0EDD4928AStellate cells,0,0,1,0,0,0,1
+CPI-SS0FC42EC80Stellate cells,0,0,1,0,1,0,0
+CPI-SS0D5E30C6CStellate cells,0,0,1,0,1,0,0
+CPI-SS06AA638A8Stellate cells,0,0,1,0,0,0,0
+CPI-SS0E7D5974DStellate cells,0,0,1,0,0,1,1
+CPI-SS08C78576BStellate cells,0,0,1,1,1,1,0
+CPI-SC032246C72Stellate cells,0,0,1,1,1,1,1
+CPI-SC03DD946B2Stellate cells,0,0,1,1,1,1,1
+CPI-SS015819E65Stellate cells,0,0,0,1,1,0,0
+CPI-SS08C995EB4Stellate cells,0,0,0,1,0,0,0
+CPI-SS047232C64Stellate cells,0,0,0,1,1,0,1
+CPI-SS0423580E5Stellate cells,0,0,0,1,1,0,1
+CPI-SS01C2BA5C8Stellate cells,0,0,0,1,0,0,1
+CPI-SS077B160B9Stellate cells,0,0,0,1,1,0,1
+CPI-SS0BC9F7E9EStellate cells,0,0,0,1,1,0,0
+CPI-SS0D636A374Stellate cells,0,0,0,1,1,0,0
+CPI-SS0938C6980Stellate cells,0,0,0,1,1,0,1
+CPI-SS046F6F0C1Stellate cells,0,0,0,1,1,0,0
+CPI-SS00E68BB92Stellate cells,0,0,0,1,1,0,0
+CPI-SS076D8A297Stellate cells,0,0,0,1,1,0,0
+CPI-SS0A5DF05C0Stellate cells,0,0,0,1,1,0,0
+CPI-SS0E134097CStellate cells,0,0,0,1,1,0,0
+CPI-SS09C4988F8Stellate cells,0,0,0,1,1,0,1
+CPI-SS0A3569604Stellate cells,0,0,0,1,1,0,1
+CPI-SS042A6F835Stellate cells,0,0,0,1,1,1,1
+CPI-SS0AC594A8EStellate cells,0,0,0,1,1,0,0
+CPI-SS0B99F22A2Stellate cells,0,0,0,1,1,0,1
+CPI-SS059EEFDC6Stellate cells,0,0,0,1,1,0,1
+CPI-SS0B2D5BA95Stellate cells,0,0,0,1,1,1,1
+CPI-SS03FA58286Stellate cells,0,0,0,1,1,0,1
+CPI-SS004C23DCEStellate cells,0,0,0,1,1,0,1
+CPI-SS060B82BBCStellate cells,0,0,0,1,1,0,1
+CPI-SS02EF3E1BAStellate cells,0,0,0,1,1,0,1
+CPI-SS0E7523314Stellate cells,0,0,0,1,1,0,1
+CPI-SS03EACE0E0Stellate cells,0,0,0,1,1,0,0
+CPI-SS03722104EStellate cells,0,0,0,1,1,1,1
+CPI-SS073811AB3Stellate cells,0,0,0,1,1,0,0
+CPI-SS04B4619D0Stellate cells,0,0,0,1,1,0,1
+CPI-SS0E5593D5CStellate cells,0,0,0,1,1,0,1
+CPI-SS0F9B3B259Stellate cells,0,0,0,1,1,0,1
+CPI-SS0859C173BStellate cells,0,0,0,1,1,1,1
+CPI-SS0F8EFEECFStellate cells,0,0,0,1,1,1,1
+CPI-SS0AECC113FStellate cells,0,0,0,0,1,0,0
+CPI-SS0E1A8414DStellate cells,0,0,0,0,1,0,1
+CPI-SS07CCAD9BFStellate cells,0,0,0,0,1,1,0
+CPI-SS0330D939AStellate cells,0,0,0,0,1,0,0
+CPI-SS0F6A7A4DFStellate cells,0,0,0,0,1,0,0
+CPI-SS02371A6D6Stellate cells,0,0,0,0,1,0,0
+CPI-SC017215F7FStellate cells,0,0,0,0,1,1,0
+CPI-SS04640F9C3Stellate cells,0,0,0,0,1,0,0
+CPI-SS0098B5107Stellate cells,0,0,0,0,1,0,0
+CPI-SS0FF49C823Stellate cells,0,0,0,0,1,0,0
+CPI-SS0A83A7E30Stellate cells,0,0,0,0,1,0,1
+CPI-SS08B7D54A3Stellate cells,0,0,0,0,1,0,1
+CPI-SS0C7833961Stellate cells,0,0,0,0,0,1,0
+CPI-SS0762B455FStellate cells,0,0,0,0,0,1,0
+CPI-SS0C6448B94Stellate cells,0,0,0,0,0,1,0
+CPI-SS0C28FEC7DStellate cells,0,0,0,0,0,1,1
+CPI-SS05A26A1DEStellate cells,0,0,0,0,0,0,1
+CPI-SS0EBA5A4D8Stellate cells,0,0,0,0,0,0,1
+CPI-SS007AA9FDEStellate cells,0,0,0,0,0,0,1
+CPI-SS09A3FA737Stellate cells,0,0,0,0,0,0,1
+CPI-SS0C03F7CDCStellate cells,0,0,0,0,0,0,1
+CPI-SS0B9B3870AStellate cells,0,0,0,0,0,0,1
+CPI-SS01469637CStellate cells,0,0,0,0,0,0,1
+CPI-SS09CA492BAStellate cells,0,0,0,0,0,0,1
+CPI-SS006C6537EStellate cells,0,0,0,0,0,0,1
+CPI-SS0F3A089DEStellate cells,0,0,0,0,0,0,1
+CPI-SS00797FD15Stellate cells,0,0,0,0,0,0,1
+CPI-SS03F821467$\alpha{-}cells$,1,0,0,0,0,1,0
+CPI-SS0B84DAE3D$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SS0A8627ED6$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SS039799099$\alpha{-}cells$,1,1,1,0,1,1,0
+CPI-SS06A0B20BD$\alpha{-}cells$,1,0,0,0,0,0,1
+CPI-SS07CA5A6F1$\alpha{-}cells$,1,0,1,0,0,1,1
+CPI-SS0816A4ED4$\alpha{-}cells$,1,0,0,0,0,0,1
+CPI-SS0348DB5E3$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SS0658257AC$\alpha{-}cells$,1,1,1,0,1,1,1
+CPI-SS087E0E3FB$\alpha{-}cells$,1,0,0,0,0,0,1
+CPI-SS0879B8E95$\alpha{-}cells$,0,1,0,0,0,1,1
+CPI-SS08330207B$\alpha{-}cells$,0,1,0,0,0,1,1
+CPI-SS098F416C1$\alpha{-}cells$,0,1,0,1,0,1,0
+CPI-SS0CCCF7C69$\alpha{-}cells$,0,1,1,0,1,1,0
+CPI-SS0339AE950$\alpha{-}cells$,0,1,1,1,1,0,0
+CPI-SS0ED2573CA$\alpha{-}cells$,0,1,0,1,1,1,0
+CPI-SS00D9A0644$\alpha{-}cells$,0,0,1,0,0,0,0
+CPI-SS0DA366C78$\alpha{-}cells$,0,0,1,0,0,1,0
+CPI-SS0E292C126$\alpha{-}cells$,0,0,1,0,1,0,1
+CPI-SS08FAC0A55$\alpha{-}cells$,0,0,1,0,0,1,0
+CPI-SS00F282936$\alpha{-}cells$,0,0,0,1,1,0,0
+CPI-SS0BF3ED143$\alpha{-}cells$,0,0,0,1,1,0,0
+CPI-SS061A7E099$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS06207F70E$\alpha{-}cells$,0,0,0,1,1,0,0
+CPI-SS01E0F2D2C$\alpha{-}cells$,0,0,0,1,1,0,0
+CPI-SS0D0252D87$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS03098AC28$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS0CC898553$\alpha{-}cells$,0,0,0,0,1,0,1
+CPI-SS0B9E8C0DE$\alpha{-}cells$,0,0,0,0,1,0,1
+CPI-SS06B86672A$\alpha{-}cells$,0,0,0,0,1,0,0
+CPI-SS0632A027A$\alpha{-}cells$,0,0,0,0,1,0,1
+CPI-CS0569B9B91$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-SS09375CA29$\alpha{-}cells$,0,0,0,0,0,1,0
+CPI-SS0BF9FA3F2$\alpha{-}cells$,0,0,0,0,0,1,0
+CPI-SS02E314589$\alpha{-}cells$,0,0,0,0,0,1,0
+CPI-SS03F821467$\beta{-}cells$,1,0,0,0,0,1,0
+CPI-SS02E314589$\beta{-}cells$,1,0,0,0,0,1,0
+CPI-SS06A0B20BD$\beta{-}cells$,1,0,0,0,0,0,1
+CPI-SS0816A4ED4$\beta{-}cells$,1,0,0,0,0,0,1
+CPI-SS087E0E3FB$\beta{-}cells$,1,0,0,0,0,0,1
+CPI-SS0879B8E95$\beta{-}cells$,0,1,0,0,0,1,1
+CPI-SS08330207B$\beta{-}cells$,0,1,0,0,0,1,1
+CPI-SS098F416C1$\beta{-}cells$,0,1,0,1,0,1,0
+CPI-SS0CCCF7C69$\beta{-}cells$,0,1,1,0,0,1,0
+CPI-SS0339AE950$\beta{-}cells$,0,1,1,1,1,0,0
+CPI-SS08FAC0A55$\beta{-}cells$,0,1,1,0,0,1,0
+CPI-SS0ED2573CA$\beta{-}cells$,0,1,0,1,1,1,0
+CPI-SS00D9A0644$\beta{-}cells$,0,0,1,0,0,0,0
+CPI-SS07CA5A6F1$\beta{-}cells$,0,0,1,0,0,1,0
+CPI-SS0DA366C78$\beta{-}cells$,0,0,1,0,0,1,0
+CPI-SS0E292C126$\beta{-}cells$,0,0,1,1,1,0,1
+CPI-SS00F282936$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-SS0BF3ED143$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-SS061A7E099$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-SS06207F70E$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-SS01E0F2D2C$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-SS0D0252D87$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS03098AC28$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0CC898553$\beta{-}cells$,0,0,0,0,1,0,1
+CPI-SS0B9E8C0DE$\beta{-}cells$,0,0,0,0,1,0,1
+CPI-CS0569B9B91$\beta{-}cells$,0,0,0,0,1,1,1
+CPI-SS0658257AC$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SS03F821467$\delta{-}cells$,1,0,0,0,0,1,0
+CPI-SS02E314589$\delta{-}cells$,1,0,0,0,0,1,0
+CPI-SS06A0B20BD$\delta{-}cells$,1,0,0,0,0,0,1
+CPI-SS03098AC28$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0AB21032D$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS08FAC0A55$\delta{-}cells$,1,1,1,1,1,1,0
+CPI-SS08330207B$\delta{-}cells$,0,1,0,0,0,1,1
+CPI-SS098F416C1$\delta{-}cells$,0,1,0,1,0,1,0
+CPI-SS0CCCF7C69$\delta{-}cells$,0,1,1,1,1,1,0
+CPI-SS0339AE950$\delta{-}cells$,0,1,1,1,1,0,0
+CPI-SS0ED2573CA$\delta{-}cells$,0,1,0,1,1,1,0
+CPI-SS00D9A0644$\delta{-}cells$,0,0,1,0,0,0,0
+CPI-SS07CA5A6F1$\delta{-}cells$,0,0,1,0,0,1,0
+CPI-SS0DA366C78$\delta{-}cells$,0,0,1,0,0,1,0
+CPI-SS0E292C126$\delta{-}cells$,0,0,1,1,1,0,1
+CPI-SS00F282936$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-SS0BF3ED143$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-SS06207F70E$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-SS01E0F2D2C$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-SS0D0252D87$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0CC898553$\delta{-}cells$,0,0,0,0,1,0,1
+CPI-SS0B9E8C0DE$\delta{-}cells$,0,0,0,0,1,0,1
+CPI-SS0C10824C7$\delta{-}cells$,0,0,0,0,1,0,1
+CPI-SS06B86672A$\delta{-}cells$,0,0,0,0,1,0,0
+CPI-SS0632A027A$\delta{-}cells$,0,0,0,0,1,0,1
+CPI-CS0569B9B91$\delta{-}cells$,0,0,0,0,1,1,1
+CPI-SS0879B8E95$\delta{-}cells$,0,0,0,0,0,1,1
+CPI-SS087E0E3FB$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SS0D1AE5C79Acinar cells,1,0,0,0,0,0,1
+CPI-SS02C29C238Acinar cells,1,1,0,0,0,1,0
+CPI-SS090FC28E1Acinar cells,1,0,0,1,1,0,1
+CPI-SS03F821467Acinar cells,1,0,0,0,0,1,0
+CPI-SS0E9A581F8Acinar cells,1,1,1,1,1,1,1
+CPI-SS044CF7EAEAcinar cells,1,1,0,1,1,0,1
+CPI-SS02E314589Acinar cells,1,0,0,0,0,1,0
+CPI-SS06A0B20BDAcinar cells,1,0,0,0,0,0,1
+CPI-SS0816A4ED4Acinar cells,1,1,1,0,1,1,1
+CPI-SS0658257ACAcinar cells,1,1,1,0,1,1,1
+CPI-SS087E0E3FBAcinar cells,1,0,0,0,0,0,1
+CPI-SS0C10824C7Acinar cells,1,1,1,1,1,1,1
+CPI-SS06B86672AAcinar cells,1,1,1,1,1,1,1
+CPI-SS0632A027AAcinar cells,1,1,1,1,1,1,1
+CPI-SS0879B8E95Acinar cells,0,1,0,0,0,1,1
+CPI-SS08330207BAcinar cells,0,1,0,0,0,1,1
+CPI-SS098F416C1Acinar cells,0,1,0,1,0,1,0
+CPI-SS0ED2573CAAcinar cells,0,1,1,1,1,1,1
+CPI-SS00D9A0644Acinar cells,0,0,1,0,0,0,0
+CPI-SS08718E4FBAcinar cells,0,0,1,0,0,1,0
+CPI-SS0E292C126Acinar cells,0,0,1,1,1,0,1
+CPI-SS0CCCF7C69Acinar cells,0,0,1,0,0,0,0
+CPI-SS08FAC0A55Acinar cells,0,0,1,0,0,0,0
+CPI-SS0BF3ED143Acinar cells,0,0,0,1,1,0,0
+CPI-SS06207F70EAcinar cells,0,0,0,1,1,0,0
+CPI-SS01E0F2D2CAcinar cells,0,0,0,1,1,0,0
+CPI-SS0D0252D87Acinar cells,0,0,0,1,1,0,1
+CPI-SS0CC898553Acinar cells,0,0,0,0,1,0,1
+CPI-SS03098AC28Acinar cells,0,0,0,0,1,0,1
+CPI-CS0569B9B91Acinar cells,0,0,0,0,1,1,1
+CPI-SS0B02DE712Acinar cells,0,0,0,0,0,1,0
+CPI-SS0BF9FA3F2Acinar cells,0,0,0,0,0,1,0
+CPI-SS0DA366C78Acinar cells,0,0,0,0,0,1,0
+CPI-SS0B9E8C0DEAcinar cells,0,0,0,0,0,0,1
+CPI-SS08718E4FBDuctal cells,1,1,1,0,1,1,1
+CPI-SS0D1AE5C79Ductal cells,1,1,1,0,1,1,1
+CPI-SS02C29C238Ductal cells,1,1,1,1,1,1,1
+CPI-SS090FC28E1Ductal cells,1,1,1,1,1,1,1
+CPI-SS03F821467Ductal cells,1,0,0,0,0,1,0
+CPI-SS0E9A581F8Ductal cells,1,1,1,1,1,1,1
+CPI-SS044CF7EAEDuctal cells,1,1,1,1,1,1,1
+CPI-SS02E314589Ductal cells,1,1,1,1,1,1,1
+CPI-SS0CC898553Ductal cells,1,1,1,0,1,1,1
+CPI-SS06A0B20BDDuctal cells,1,1,1,0,1,1,1
+CPI-SS0DA366C78Ductal cells,1,1,1,0,1,1,1
+CPI-SS0816A4ED4Ductal cells,1,1,1,0,1,1,1
+CPI-SS0B9E8C0DEDuctal cells,1,1,1,1,1,1,1
+CPI-SS0658257ACDuctal cells,1,1,1,0,1,1,1
+CPI-SS087E0E3FBDuctal cells,1,1,1,0,1,1,1
+CPI-SS0C10824C7Ductal cells,1,1,1,1,1,1,1
+CPI-SS098F416C1Ductal cells,1,1,1,1,1,1,1
+CPI-SS0AB21032DDuctal cells,1,1,1,1,1,1,1
+CPI-SS0CCCF7C69Ductal cells,1,1,1,1,1,1,0
+CPI-SS0339AE950Ductal cells,1,1,1,1,1,1,1
+CPI-SS06B86672ADuctal cells,1,1,1,1,1,1,1
+CPI-SS08FAC0A55Ductal cells,1,1,1,1,1,1,1
+CPI-SS0632A027ADuctal cells,1,1,1,1,1,1,1
+CPI-CS0569B9B91Ductal cells,1,1,1,1,1,1,1
+CPI-SS0879B8E95Ductal cells,0,1,0,0,0,1,1
+CPI-SS08330207BDuctal cells,0,1,0,0,0,1,1
+CPI-SS0ED2573CADuctal cells,0,1,1,1,1,1,1
+CPI-SS00D9A0644Ductal cells,0,0,1,0,0,0,0
+CPI-SS07CA5A6F1Ductal cells,0,0,1,0,0,1,0
+CPI-SS0E292C126Ductal cells,0,0,1,1,1,0,1
+CPI-SS00F282936Ductal cells,0,0,0,1,1,0,0
+CPI-SS0BF3ED143Ductal cells,0,0,0,1,1,0,0
+CPI-SS061A7E099Ductal cells,0,0,0,1,1,0,1
+CPI-SS06207F70EDuctal cells,0,0,0,1,1,0,0
+CPI-SS01E0F2D2CDuctal cells,0,0,0,1,1,0,0
+CPI-SS0D0252D87Ductal cells,0,0,0,1,1,0,1
+CPI-SS03098AC28Ductal cells,0,0,0,1,1,1,1
+CPI-SS0B02DE712Ductal cells,0,0,0,0,0,1,0
+CPI-SS0BF9FA3F2Ductal cells,0,0,0,0,0,1,0
+CPI-SS0E075E5AFPP cells,1,1,1,1,1,1,1
+CPI-SS03F821467PP cells,1,0,0,0,0,1,0
+CPI-SS0B84DAE3DPP cells,1,1,1,1,1,1,1
+CPI-SS0A8627ED6PP cells,1,1,1,1,1,1,1
+CPI-SS039799099PP cells,1,1,1,0,1,1,1
+CPI-SS06A0B20BDPP cells,1,0,0,0,0,0,1
+CPI-SS0348DB5E3PP cells,1,1,1,1,1,1,1
+CPI-SS01E0F2D2CPP cells,1,1,1,1,1,1,1
+CPI-SS087E0E3FBPP cells,1,0,0,0,0,0,1
+CPI-SS0AB21032DPP cells,1,1,1,1,1,1,1
+CPI-SS0CCCF7C69PP cells,1,1,1,1,1,1,1
+CPI-SS06B86672APP cells,1,1,1,1,1,1,1
+CPI-SS08FAC0A55PP cells,1,1,1,1,1,1,1
+CPI-SS0632A027APP cells,1,1,1,1,1,1,1
+CPI-CS0569B9B91PP cells,1,1,1,1,1,1,1
+CPI-SS02572E1EFPP cells,0,1,1,1,1,0,0
+CPI-SS0879B8E95PP cells,0,1,0,0,0,1,1
+CPI-SS08330207BPP cells,0,1,0,0,0,1,1
+CPI-SS098F416C1PP cells,0,1,0,1,0,1,0
+CPI-SS0339AE950PP cells,0,1,1,1,1,0,0
+CPI-SS0ED2573CAPP cells,0,1,0,1,1,1,0
+CPI-SS0BD5C2A23PP cells,0,0,1,0,1,0,0
+CPI-SS00D9A0644PP cells,0,0,1,0,0,0,0
+CPI-SS07CA5A6F1PP cells,0,0,1,0,0,1,0
+CPI-SS0DA366C78PP cells,0,0,1,0,0,1,0
+CPI-SS0E292C126PP cells,0,0,1,1,1,0,1
+CPI-SS0708FE6FFPP cells,0,0,0,1,1,0,0
+CPI-SS00F282936PP cells,0,0,0,1,1,0,0
+CPI-SS0BF3ED143PP cells,0,0,0,1,1,0,0
+CPI-SS061A7E099PP cells,0,0,0,1,1,0,1
+CPI-SS06207F70EPP cells,0,0,0,1,1,0,0
+CPI-SS0D0252D87PP cells,0,0,0,1,1,0,1
+CPI-SS0CC898553PP cells,0,0,0,0,1,0,1
+CPI-SS0B9E8C0DEPP cells,0,0,0,0,1,0,1
+CPI-SS0C10824C7PP cells,0,0,0,0,1,0,1
+CPI-SS03098AC28PP cells,0,0,0,0,1,0,1
+CPI-SS09375CA29PP cells,0,0,0,0,0,1,0
+CPI-SS02E314589PP cells,0,0,0,0,0,1,0
+CPI-SS03F821467Stellate cells,1,0,0,0,0,1,0
+CPI-SS044CF7EAEStellate cells,1,0,0,1,1,0,0
+CPI-SS039799099Stellate cells,1,0,1,0,1,1,0
+CPI-SS07CA5A6F1Stellate cells,1,1,1,0,0,1,1
+CPI-SS087E0E3FBStellate cells,1,1,1,0,1,1,1
+CPI-SS0AB21032DStellate cells,1,1,1,1,1,1,1
+CPI-SS0339AE950Stellate cells,1,1,1,1,1,1,0
+CPI-SS06B86672AStellate cells,1,1,1,1,1,1,1
+CPI-SS0632A027AStellate cells,1,1,1,1,1,1,1
+CPI-CS0569B9B91Stellate cells,1,1,1,1,1,1,1
+CPI-SS0348DB5E3Stellate cells,0,1,1,1,1,0,0
+CPI-SS0879B8E95Stellate cells,0,1,0,0,0,1,1
+CPI-SS08330207BStellate cells,0,1,0,0,0,1,1
+CPI-SS098F416C1Stellate cells,0,1,0,1,0,1,0
+CPI-SS0CCCF7C69Stellate cells,0,1,1,0,0,1,0
+CPI-SS08FAC0A55Stellate cells,0,1,1,1,1,1,0
+CPI-SS0ED2573CAStellate cells,0,1,0,1,1,1,0
+CPI-SS0DA366C78Stellate cells,0,0,1,0,0,1,0
+CPI-SS0E292C126Stellate cells,0,0,1,1,1,0,1
+CPI-SS00F282936Stellate cells,0,0,0,1,1,0,0
+CPI-SS061A7E099Stellate cells,0,0,0,1,1,0,1
+CPI-SS06207F70EStellate cells,0,0,0,1,1,0,0
+CPI-SS01E0F2D2CStellate cells,0,0,0,1,1,0,0
+CPI-SS0D0252D87Stellate cells,0,0,0,1,1,0,1
+CPI-SS0C10824C7Stellate cells,0,0,0,1,1,1,1
+CPI-SS0BF3ED143Stellate cells,0,0,0,0,1,0,0
+CPI-SS0B9E8C0DEStellate cells,0,0,0,0,1,0,1
+CPI-SS03098AC28Stellate cells,0,0,0,0,1,0,1
+CPI-SS0B02DE712Stellate cells,0,0,0,0,0,1,0
+CPI-SS02E314589Stellate cells,0,0,0,0,0,1,0
+CPI-SS06A0B20BDStellate cells,0,0,0,0,0,0,1
+CPI-SS0816A4ED4Stellate cells,0,0,0,0,0,0,1
+CPI-SC0C9CBDD21$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SS0ACD487F0$\alpha{-}cells$,1,1,0,0,0,1,0
+CPI-SC05F111D21$\alpha{-}cells$,1,1,1,0,1,1,1
+CPI-SC0D7F33CFB$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SC0F590482E$\alpha{-}cells$,1,0,0,0,0,1,1
+CPI-SC0674C647E$\alpha{-}cells$,1,1,1,0,0,1,1
+CPI-SC07FB88720$\alpha{-}cells$,1,0,0,0,0,1,1
+CPI-SC091173D82$\alpha{-}cells$,1,0,0,0,0,1,1
+CPI-SC06525B099$\alpha{-}cells$,1,1,1,0,1,1,1
+CPI-SC0247E9ADB$\alpha{-}cells$,1,1,1,0,1,1,1
+CPI-SS0B537DD3F$\alpha{-}cells$,1,0,1,0,0,0,0
+CPI-SC008F4294F$\alpha{-}cells$,1,1,0,0,0,0,1
+CPI-SC067EE23E1$\alpha{-}cells$,1,1,1,1,0,1,1
+CPI-SC0082A7233$\alpha{-}cells$,1,1,1,0,0,1,1
+CPI-SC0A3F146C2$\alpha{-}cells$,1,1,1,1,0,1,1
+CPI-SC0F74C069F$\alpha{-}cells$,1,1,0,0,0,0,1
+CPI-SC00C0800EB$\alpha{-}cells$,1,1,1,1,0,1,1
+CPI-SS0AD0ED887$\alpha{-}cells$,1,0,0,1,1,0,0
+CPI-SS027E12A36$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SC0EFCE145F$\alpha{-}cells$,1,1,1,0,1,1,1
+CPI-SC05D8C0EF5$\alpha{-}cells$,1,1,0,1,0,0,1
+CPI-SC04936738A$\alpha{-}cells$,1,1,0,0,0,0,1
+CPI-SC0CE6F5084$\alpha{-}cells$,1,1,1,1,1,1,1
+CPI-SC0BA1D5E00$\alpha{-}cells$,1,1,0,0,0,0,1
+CPI-SS0C9696AAA$\alpha{-}cells$,0,1,1,0,0,0,0
+CPI-SC0EC380922$\alpha{-}cells$,0,1,1,0,0,0,1
+CPI-SS0B990492C$\alpha{-}cells$,0,1,0,0,0,0,0
+CPI-SC0725E3A76$\alpha{-}cells$,0,1,0,0,0,0,1
+CPI-SS0A2D7895C$\alpha{-}cells$,0,1,1,1,1,0,0
+CPI-SS0889E281D$\alpha{-}cells$,0,1,1,0,0,0,0
+CPI-SC0A199B69E$\alpha{-}cells$,0,1,0,0,0,0,1
+CPI-SS03859E16F$\alpha{-}cells$,0,1,1,1,0,0,0
+CPI-SC06B4C6DD5$\alpha{-}cells$,0,1,0,0,0,0,1
+CPI-SC0E1037D03$\alpha{-}cells$,0,0,1,0,0,0,1
+CPI-SC0BC542ACC$\alpha{-}cells$,0,0,1,0,0,0,1
+CPI-SS087B53ABF$\alpha{-}cells$,0,0,1,0,0,1,1
+CPI-SC070D5A96F$\alpha{-}cells$,0,0,1,0,0,1,1
+CPI-SS0F9D53834$\alpha{-}cells$,0,0,1,0,0,1,1
+CPI-SS080611C5B$\alpha{-}cells$,0,0,1,0,0,0,0
+CPI-SC0EEF3A379$\alpha{-}cells$,0,0,1,1,1,0,1
+CPI-SS0322747C2$\alpha{-}cells$,0,0,0,1,1,0,0
+CPI-SC0592EC3D0$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SC0E60FEE99$\alpha{-}cells$,0,0,0,1,1,0,0
+CPI-SC058F72F90$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SS08B94BEB2$\alpha{-}cells$,0,0,0,1,1,1,0
+CPI-SC039D075C6$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SC04AED00CE$\alpha{-}cells$,0,0,0,1,1,0,0
+CPI-SS001BF66E8$\alpha{-}cells$,0,0,0,1,1,0,0
+CPI-SC05CCF815E$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SC08F797F90$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SC08226CD3B$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SS06D13FCD3$\alpha{-}cells$,0,0,0,1,1,1,0
+CPI-SC052A417CB$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SC035134F18$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SC0D9B795CC$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SC0CCF30377$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SC08A98E7D4$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SC0FBFA176B$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SC083EDDA21$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SC03DD752AB$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SC06873D10F$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SC09DE07794$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SC02392F4AF$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SC0D870AE49$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SC03C093767$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SC04F2478E9$\alpha{-}cells$,0,0,0,1,1,0,0
+CPI-SC0CA7B34A5$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SC058845C44$\alpha{-}cells$,0,0,0,1,1,1,1
+CPI-SC08D8A859F$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SC0E3784FFB$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SC01FFC9392$\alpha{-}cells$,0,0,0,1,1,0,1
+CPI-SC08B2AD7C6$\alpha{-}cells$,0,0,0,0,1,0,1
+CPI-SC0847A64D2$\alpha{-}cells$,0,0,0,0,1,0,1
+CPI-SC096929DB0$\alpha{-}cells$,0,0,0,0,1,1,1
+CPI-SC05B6D413B$\alpha{-}cells$,0,0,0,0,0,1,1
+CPI-SC0FF018913$\alpha{-}cells$,0,0,0,0,0,1,1
+CPI-SC06E5E0C83$\alpha{-}cells$,0,0,0,0,0,1,1
+CPI-SC040B3EFBC$\alpha{-}cells$,0,0,0,0,0,1,1
+CPI-SC0F8D27FBC$\alpha{-}cells$,0,0,0,0,0,1,1
+CPI-SC01115AAD1$\alpha{-}cells$,0,0,0,0,0,1,1
+CPI-SC08AA91C84$\alpha{-}cells$,0,0,0,0,0,1,1
+CPI-SC035953E6B$\alpha{-}cells$,0,0,0,0,0,1,1
+CPI-SC05992FDC8$\alpha{-}cells$,0,0,0,0,0,1,1
+CPI-SC0545E2502$\alpha{-}cells$,0,0,0,0,0,1,1
+CPI-SC08BF895FC$\alpha{-}cells$,0,0,0,0,0,1,1
+CPI-SC02F06FF62$\alpha{-}cells$,0,0,0,0,0,1,1
+CPI-SC0CBC30AB7$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC03BFF1D95$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC02E74AFA5$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC0092846B0$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC08E75294D$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC069F9E62C$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC0681D30FE$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC03D71E025$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC041DEF0FB$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC0BCD683D4$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC0DF986F22$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC08CC68F11$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC0ECFACED2$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC0DF641DAA$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC0861656EC$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC07375C073$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC006E22794$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC0D2BDC009$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC00756BB93$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC0F8101D41$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC0A0532ADC$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC0672FBD31$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC0F516B854$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC02AE206BE$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC0247375A7$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC0A58E6695$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC044E3F9B6$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC0B6F1A278$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC01195CB48$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC090855C8E$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC09FDA4F45$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC04085F9F9$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC0CFF5E19D$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC02B111AB0$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SC0B9199C7F$\alpha{-}cells$,0,0,0,0,0,0,1
+CPI-SS0ACD487F0$\beta{-}cells$,1,0,0,0,0,1,0
+CPI-SS0B537DD3F$\beta{-}cells$,1,0,1,0,0,0,0
+CPI-SC0F74C069F$\beta{-}cells$,1,1,0,0,0,0,1
+CPI-SS0B990492C$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0AD0ED887$\beta{-}cells$,1,0,0,1,1,0,0
+CPI-SS0889E281D$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SC0988E0218$\beta{-}cells$,1,1,1,0,1,1,1
+CPI-SC01AB9BED7$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SC070D5A96F$\beta{-}cells$,1,1,1,0,0,1,1
+CPI-SC07BE7830D$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SC0847A64D2$\beta{-}cells$,1,0,0,0,1,0,1
+CPI-SS080611C5B$\beta{-}cells$,1,1,1,1,1,1,1
+CPI-SS08991B378$\beta{-}cells$,0,1,1,0,0,1,0
+CPI-SS0C9696AAA$\beta{-}cells$,0,1,1,0,0,0,0
+CPI-SC0A199B69E$\beta{-}cells$,0,1,0,0,0,0,1
+CPI-SC05D8C0EF5$\beta{-}cells$,0,1,0,0,0,0,1
+CPI-SS03859E16F$\beta{-}cells$,0,1,1,1,0,0,0
+CPI-SC04936738A$\beta{-}cells$,0,1,0,0,0,0,1
+CPI-SS087B53ABF$\beta{-}cells$,0,1,1,0,0,1,1
+CPI-SS0F9D53834$\beta{-}cells$,0,1,1,0,0,1,1
+CPI-SC096929DB0$\beta{-}cells$,0,1,0,1,1,1,1
+CPI-SC0EC380922$\beta{-}cells$,0,0,1,0,0,0,1
+CPI-SC056BF6CBB$\beta{-}cells$,0,0,1,0,0,0,0
+CPI-SC06364D669$\beta{-}cells$,0,0,1,0,0,0,0
+CPI-SC0BC542ACC$\beta{-}cells$,0,0,1,0,0,0,1
+CPI-SC0EEF3A379$\beta{-}cells$,0,0,1,1,1,0,1
+CPI-SS0322747C2$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-SC0592EC3D0$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SC0E60FEE99$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-SC08B2AD7C6$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SC058F72F90$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS0A2D7895C$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-SS08B94BEB2$\beta{-}cells$,0,0,0,1,1,1,0
+CPI-SC039D075C6$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SC04AED00CE$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-SS001BF66E8$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-SC05CCF815E$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SC08F797F90$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SC08226CD3B$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SC0CE6F5084$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SS06D13FCD3$\beta{-}cells$,0,0,0,1,1,1,0
+CPI-SC052A417CB$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SC035134F18$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SC0D9B795CC$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SC0CCF30377$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SC08A98E7D4$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SC0FBFA176B$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SC083EDDA21$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SC03DD752AB$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SC06873D10F$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SC09DE07794$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SC02392F4AF$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SC0D870AE49$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SC03C093767$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SC04F2478E9$\beta{-}cells$,0,0,0,1,1,0,0
+CPI-SC0CA7B34A5$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SC058845C44$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SC08D8A859F$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SC0E3784FFB$\beta{-}cells$,0,0,0,1,1,0,1
+CPI-SC01FFC9392$\beta{-}cells$,0,0,0,1,1,1,1
+CPI-SC05B6D413B$\beta{-}cells$,0,0,0,0,0,1,1
+CPI-SC0F590482E$\beta{-}cells$,0,0,0,0,0,1,1
+CPI-SC006E22794$\beta{-}cells$,0,0,0,0,0,1,1
+CPI-SC0FF018913$\beta{-}cells$,0,0,0,0,0,1,1
+CPI-SC06E5E0C83$\beta{-}cells$,0,0,0,0,0,1,1
+CPI-SC040B3EFBC$\beta{-}cells$,0,0,0,0,0,1,1
+CPI-SC0F8D27FBC$\beta{-}cells$,0,0,0,0,0,1,1
+CPI-SC01115AAD1$\beta{-}cells$,0,0,0,0,0,1,1
+CPI-SC07FB88720$\beta{-}cells$,0,0,0,0,0,1,1
+CPI-SC091173D82$\beta{-}cells$,0,0,0,0,0,1,1
+CPI-SC08AA91C84$\beta{-}cells$,0,0,0,0,0,1,1
+CPI-SC035953E6B$\beta{-}cells$,0,0,0,0,0,1,1
+CPI-SC05992FDC8$\beta{-}cells$,0,0,0,0,0,1,1
+CPI-SC0545E2502$\beta{-}cells$,0,0,0,0,0,1,1
+CPI-SC02AE206BE$\beta{-}cells$,0,0,0,0,0,1,1
+CPI-SC08BF895FC$\beta{-}cells$,0,0,0,0,0,1,1
+CPI-SC02F06FF62$\beta{-}cells$,0,0,0,0,0,1,1
+CPI-SC0CBC30AB7$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC011F01833$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC03BFF1D95$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC02E74AFA5$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0092846B0$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC08E75294D$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC069F9E62C$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0681D30FE$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC03D71E025$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC041DEF0FB$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0BCD683D4$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0DF986F22$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC08CC68F11$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC05F111D21$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0ECFACED2$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0DF641DAA$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0861656EC$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC07375C073$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0D7F33CFB$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0674C647E$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0D2BDC009$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC00756BB93$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC06525B099$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0247E9ADB$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0E1037D03$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC008F4294F$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0F8101D41$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC067EE23E1$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0082A7233$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0A3F146C2$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0A0532ADC$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC00C0800EB$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0672FBD31$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0F516B854$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0247375A7$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0A58E6695$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC044E3F9B6$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0B6F1A278$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC01195CB48$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0725E3A76$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC090855C8E$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC09FDA4F45$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC04085F9F9$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0CFF5E19D$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0EFCE145F$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC092C3E4DF$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0D19BAF15$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0BA1D5E00$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0B9199C7F$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC06B4C6DD5$\beta{-}cells$,0,0,0,0,0,0,1
+CPI-SC05565E8CE$\delta{-}cells$,1,1,0,0,0,0,1
+CPI-SS06A999D25$\delta{-}cells$,1,0,0,0,0,0,0
+CPI-SC0BCD683D4$\delta{-}cells$,1,1,1,0,1,1,1
+CPI-SC0F4BC2909$\delta{-}cells$,1,0,0,0,0,1,1
+CPI-SC040B3EFBC$\delta{-}cells$,1,0,0,0,0,1,1
+CPI-SC0D2BDC009$\delta{-}cells$,1,1,1,0,1,1,1
+CPI-SC00756BB93$\delta{-}cells$,1,1,1,0,1,1,1
+CPI-SS0B537DD3F$\delta{-}cells$,1,0,1,0,0,0,0
+CPI-SC0F74C069F$\delta{-}cells$,1,1,0,0,0,0,1
+CPI-SC0F516B854$\delta{-}cells$,1,1,0,1,0,0,1
+CPI-SC08BF895FC$\delta{-}cells$,1,0,0,0,0,1,1
+CPI-SC0A54B5323$\delta{-}cells$,1,1,1,0,1,1,1
+CPI-SS0B990492C$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0AD0ED887$\delta{-}cells$,1,0,0,1,1,0,0
+CPI-SS027E12A36$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SC0CE851065$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SC0725E3A76$\delta{-}cells$,1,1,1,1,0,1,1
+CPI-SS0A2D7895C$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SC09FDA4F45$\delta{-}cells$,1,0,0,0,0,1,1
+CPI-SS0889E281D$\delta{-}cells$,1,1,1,0,1,1,1
+CPI-SC04085F9F9$\delta{-}cells$,1,1,1,0,1,1,1
+CPI-SC0A199B69E$\delta{-}cells$,1,1,0,0,0,0,1
+CPI-SC0EFCE145F$\delta{-}cells$,1,1,1,0,1,1,1
+CPI-SC05D8C0EF5$\delta{-}cells$,1,1,0,1,0,0,1
+CPI-SC02B111AB0$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SC0BA1D5E00$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SC06B4C6DD5$\delta{-}cells$,1,1,0,1,0,0,1
+CPI-SS0F9D53834$\delta{-}cells$,1,1,1,0,0,1,1
+CPI-SC0847A64D2$\delta{-}cells$,1,0,0,0,1,0,1
+CPI-SS080611C5B$\delta{-}cells$,1,1,1,1,1,1,1
+CPI-SS0C9696AAA$\delta{-}cells$,0,1,1,0,0,0,0
+CPI-SC0F8101D41$\delta{-}cells$,0,1,0,0,0,0,1
+CPI-SS03859E16F$\delta{-}cells$,0,1,1,1,0,0,0
+CPI-SC096929DB0$\delta{-}cells$,0,1,0,1,1,1,1
+CPI-SC0EC380922$\delta{-}cells$,0,0,1,0,0,0,1
+CPI-SC0E1037D03$\delta{-}cells$,0,0,1,0,0,0,1
+CPI-SC056BF6CBB$\delta{-}cells$,0,0,1,0,0,1,0
+CPI-SC0A58E6695$\delta{-}cells$,0,0,1,0,0,0,1
+CPI-SC06364D669$\delta{-}cells$,0,0,1,0,0,0,0
+CPI-SC0BC542ACC$\delta{-}cells$,0,0,1,0,0,1,1
+CPI-SS087B53ABF$\delta{-}cells$,0,0,1,0,0,1,1
+CPI-SC070D5A96F$\delta{-}cells$,0,0,1,0,0,0,1
+CPI-SC061137A41$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SS0322747C2$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-SC0814068D9$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SC0592EC3D0$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SC0E60FEE99$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-SC058F72F90$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SS08B94BEB2$\delta{-}cells$,0,0,0,1,1,1,0
+CPI-SC039D075C6$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SC04AED00CE$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-SS001BF66E8$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-SC05CCF815E$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SC08F797F90$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SC08226CD3B$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SC0CE6F5084$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SS06D13FCD3$\delta{-}cells$,0,0,0,1,1,1,0
+CPI-SC052A417CB$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SC035134F18$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SC0D9B795CC$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SC0CCF30377$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SC08A98E7D4$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SC0FBFA176B$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SC083EDDA21$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SC03DD752AB$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SC06873D10F$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SC09DE07794$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SC02392F4AF$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SC0D870AE49$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SC03C093767$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SC04F2478E9$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-SC0CA7B34A5$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SC058845C44$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SC08D8A859F$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SC0E3784FFB$\delta{-}cells$,0,0,0,1,1,0,1
+CPI-SC01FFC9392$\delta{-}cells$,0,0,0,1,1,1,1
+CPI-SC0EEF3A379$\delta{-}cells$,0,0,0,1,1,0,0
+CPI-SC08B2AD7C6$\delta{-}cells$,0,0,0,0,1,0,1
+CPI-SC0DA5EFA18$\delta{-}cells$,0,0,0,0,0,1,1
+CPI-SC05B6D413B$\delta{-}cells$,0,0,0,0,0,1,1
+CPI-SC0FF018913$\delta{-}cells$,0,0,0,0,0,1,1
+CPI-SC06E5E0C83$\delta{-}cells$,0,0,0,0,0,1,1
+CPI-SC0F8D27FBC$\delta{-}cells$,0,0,0,0,0,1,1
+CPI-SC01115AAD1$\delta{-}cells$,0,0,0,0,0,1,1
+CPI-SC07FB88720$\delta{-}cells$,0,0,0,0,0,1,1
+CPI-SC091173D82$\delta{-}cells$,0,0,0,0,0,1,1
+CPI-SC08AA91C84$\delta{-}cells$,0,0,0,0,0,1,1
+CPI-SC035953E6B$\delta{-}cells$,0,0,0,0,0,1,1
+CPI-SC05992FDC8$\delta{-}cells$,0,0,0,0,0,1,1
+CPI-SC0545E2502$\delta{-}cells$,0,0,0,0,0,1,1
+CPI-SC02AE206BE$\delta{-}cells$,0,0,0,0,0,1,1
+CPI-SC02F06FF62$\delta{-}cells$,0,0,0,0,0,1,1
+CPI-SC0B066E03C$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0CBC30AB7$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC03BFF1D95$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC02E74AFA5$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0092846B0$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC08E75294D$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC069F9E62C$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0681D30FE$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC03D71E025$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC041DEF0FB$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0DF986F22$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC08CC68F11$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC05F111D21$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0ECFACED2$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0DF641DAA$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0861656EC$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC07375C073$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0D7F33CFB$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0F590482E$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC006E22794$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0674C647E$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC06525B099$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0247E9ADB$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC008F4294F$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0082A7233$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0A3F146C2$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0A0532ADC$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC00C0800EB$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0672FBD31$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0247375A7$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC044E3F9B6$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC01195CB48$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC090855C8E$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0CFF5E19D$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC04936738A$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC092C3E4DF$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SC0D19BAF15$\delta{-}cells$,0,0,0,0,0,0,1
+CPI-SS06A999D25Acinar cells,1,0,0,0,0,0,1
+CPI-SC0530C27A8Acinar cells,1,1,1,0,1,1,1
+CPI-SC067AD890AAcinar cells,1,1,1,1,1,1,1
+CPI-SC0F73E9099Acinar cells,1,1,1,1,0,1,1
+CPI-SC091173D82Acinar cells,1,0,0,0,0,1,1
+CPI-SS0B537DD3FAcinar cells,1,0,1,1,0,0,0
+CPI-SC08AA91C84Acinar cells,1,0,0,0,0,1,1
+CPI-SC0082A7233Acinar cells,1,1,1,0,1,1,1
+CPI-SC0EA3FC100Acinar cells,1,0,0,0,0,1,1
+CPI-SC03ADD2063Acinar cells,1,1,1,0,0,1,1
+CPI-SC0458F68A5Acinar cells,1,1,0,0,0,1,1
+CPI-SC0F7E26271Acinar cells,1,1,1,0,1,1,1
+CPI-SC00C0800EBAcinar cells,1,1,1,1,1,1,1
+CPI-SC0F516B854Acinar cells,1,1,0,0,0,0,1
+CPI-SC02017BE74Acinar cells,1,1,1,0,1,1,1
+CPI-SC0247375A7Acinar cells,1,1,1,0,1,1,1
+CPI-SC01EA4FF6BAcinar cells,1,1,1,1,1,1,1
+CPI-SC0755598EEAcinar cells,1,1,1,0,1,1,1
+CPI-SC0017F527EAcinar cells,1,1,1,1,0,1,1
+CPI-SS027E12A36Acinar cells,1,0,0,0,1,0,1
+CPI-SC0FA79E269Acinar cells,1,1,1,1,1,1,1
+CPI-SC02BFEEC8AAcinar cells,1,1,1,1,1,1,1
+CPI-SC07ECBFCA7Acinar cells,1,1,1,1,1,1,1
+CPI-SC090855C8EAcinar cells,1,1,1,0,1,1,1
+CPI-SC0CFF5E19DAcinar cells,1,1,1,0,1,1,1
+CPI-SC05D8C0EF5Acinar cells,1,1,0,0,0,0,1
+CPI-SC04936738AAcinar cells,1,1,0,0,0,0,1
+CPI-SC092C3E4DFAcinar cells,1,1,1,1,1,1,1
+CPI-SS001BF66E8Acinar cells,1,1,1,1,1,1,1
+CPI-SC06364D669Acinar cells,1,1,1,1,1,1,1
+CPI-SC0D19BAF15Acinar cells,1,1,1,1,1,1,1
+CPI-SC0A2FE9693Acinar cells,1,1,1,0,1,1,1
+CPI-SC0988E0218Acinar cells,1,1,1,0,1,1,1
+CPI-SC0BA1D5E00Acinar cells,1,1,0,1,0,0,1
+CPI-SS06D13FCD3Acinar cells,1,0,0,1,1,1,0
+CPI-SC0B9199C7FAcinar cells,1,1,1,0,1,1,1
+CPI-SC0D9B795CCAcinar cells,1,1,1,1,1,1,1
+CPI-SC06B4C6DD5Acinar cells,1,1,1,1,0,1,1
+CPI-SC01AB9BED7Acinar cells,1,1,1,1,1,1,1
+CPI-SC07BE7830DAcinar cells,1,1,1,1,1,1,1
+CPI-SC04F2478E9Acinar cells,1,1,1,1,1,1,1
+CPI-SC0847A64D2Acinar cells,1,1,0,1,1,1,1
+CPI-SS080611C5BAcinar cells,1,1,1,1,1,1,1
+CPI-SC0E3784FFBAcinar cells,1,1,1,1,1,1,1
+CPI-SC01FFC9392Acinar cells,1,1,1,1,1,1,1
+CPI-SC0EEF3A379Acinar cells,1,1,1,1,1,1,1
+CPI-SC096929DB0Acinar cells,1,1,1,1,1,1,1
+CPI-SS0889E281DAcinar cells,0,1,0,0,0,0,0
+CPI-SC0A199B69EAcinar cells,0,1,0,0,0,0,1
+CPI-SS03859E16FAcinar cells,0,1,1,1,0,0,0
+CPI-SC0E1037D03Acinar cells,0,0,1,0,0,0,1
+CPI-SC044E3F9B6Acinar cells,0,0,1,0,0,0,1
+CPI-SC07222A428Acinar cells,0,0,1,1,1,1,1
+CPI-SC0BC542ACCAcinar cells,0,0,1,0,0,0,0
+CPI-SS087B53ABFAcinar cells,0,0,1,0,0,1,1
+CPI-SC070D5A96FAcinar cells,0,0,1,0,0,1,1
+CPI-SS0322747C2Acinar cells,0,0,0,1,1,0,0
+CPI-SC04B0064C4Acinar cells,0,0,0,1,1,1,1
+CPI-SC0E60FEE99Acinar cells,0,0,0,1,1,0,0
+CPI-SC08B2AD7C6Acinar cells,0,0,0,1,1,0,1
+CPI-SS0A2D7895CAcinar cells,0,0,0,1,1,0,0
+CPI-SS08B94BEB2Acinar cells,0,0,0,1,1,1,0
+CPI-SC04AED00CEAcinar cells,0,0,0,1,1,0,0
+CPI-SC0CE6F5084Acinar cells,0,0,0,1,1,0,1
+CPI-SC052A417CBAcinar cells,0,0,0,1,1,1,1
+CPI-SC0FBFA176BAcinar cells,0,0,0,1,1,1,1
+CPI-SC083EDDA21Acinar cells,0,0,0,1,1,1,1
+CPI-SC03DD752ABAcinar cells,0,0,0,1,1,1,1
+CPI-SC06873D10FAcinar cells,0,0,0,1,1,1,1
+CPI-SC09DE07794Acinar cells,0,0,0,1,1,1,1
+CPI-SC02392F4AFAcinar cells,0,0,0,1,1,1,1
+CPI-SC0D870AE49Acinar cells,0,0,0,1,1,1,1
+CPI-SC03C093767Acinar cells,0,0,0,1,1,1,1
+CPI-SC0CA7B34A5Acinar cells,0,0,0,1,1,1,1
+CPI-SC058845C44Acinar cells,0,0,0,1,1,1,1
+CPI-SC08D8A859FAcinar cells,0,0,0,1,1,0,1
+CPI-SC058F72F90Acinar cells,0,0,0,0,1,0,1
+CPI-SC0FF018913Acinar cells,0,0,0,0,0,1,1
+CPI-SC06E5E0C83Acinar cells,0,0,0,0,0,1,1
+CPI-SC040B3EFBCAcinar cells,0,0,0,0,0,1,1
+CPI-SC01115AAD1Acinar cells,0,0,0,0,0,1,1
+CPI-SC07FB88720Acinar cells,0,0,0,0,0,1,1
+CPI-SC0545E2502Acinar cells,0,0,0,0,0,1,1
+CPI-SC0672FBD31Acinar cells,0,0,0,0,0,1,1
+CPI-SC02AE206BEAcinar cells,0,0,0,0,0,1,1
+CPI-SC02F06FF62Acinar cells,0,0,0,0,0,1,1
+CPI-SS0F9D53834Acinar cells,0,0,0,0,0,1,1
+CPI-SC069F9E62CAcinar cells,0,0,0,0,0,0,1
+CPI-SC0BCD683D4Acinar cells,0,0,0,0,0,0,1
+CPI-SC0DF986F22Acinar cells,0,0,0,0,0,0,1
+CPI-SC08CC68F11Acinar cells,0,0,0,0,0,0,1
+CPI-SC05F111D21Acinar cells,0,0,0,0,0,0,1
+CPI-SC0ECFACED2Acinar cells,0,0,0,0,0,0,1
+CPI-SC0DF641DAAAcinar cells,0,0,0,0,0,0,1
+CPI-SC0861656ECAcinar cells,0,0,0,0,0,0,1
+CPI-SC07375C073Acinar cells,0,0,0,0,0,0,1
+CPI-SC0D7F33CFBAcinar cells,0,0,0,0,0,0,1
+CPI-SC0EC380922Acinar cells,0,0,0,0,0,0,1
+CPI-SC0674C647EAcinar cells,0,0,0,0,0,0,1
+CPI-SC0F8101D41Acinar cells,0,0,0,0,0,0,1
+CPI-SC0A3F146C2Acinar cells,0,0,0,0,0,0,1
+CPI-SC0A0532ADCAcinar cells,0,0,0,0,0,0,1
+CPI-SC0A58E6695Acinar cells,0,0,0,0,0,0,1
+CPI-SC0B6F1A278Acinar cells,0,0,0,0,0,0,1
+CPI-SC01195CB48Acinar cells,0,0,0,0,0,0,1
+CPI-SC09FDA4F45Acinar cells,0,0,0,0,0,0,1
+CPI-SC04085F9F9Acinar cells,0,0,0,0,0,0,1
+CPI-SC0EFCE145FAcinar cells,0,0,0,0,0,0,1
+CPI-SS06A999D25Ductal cells,1,0,0,0,0,0,1
+CPI-SC0ED0520DDDuctal cells,1,1,1,1,1,1,1
+CPI-SC0EAF80261Ductal cells,1,1,0,1,0,1,1
+CPI-SC062D34C2ADuctal cells,1,1,1,1,1,1,1
+CPI-SC0A9EB628ADuctal cells,1,1,1,1,1,1,1
+CPI-SC069F9E62CDuctal cells,1,1,1,0,0,1,1
+CPI-SC0530C27A8Ductal cells,1,1,1,0,1,1,1
+CPI-SC0014D5A6EDuctal cells,1,1,1,0,1,1,1
+CPI-SC053BBE2B1Ductal cells,1,1,0,1,0,1,1
+CPI-SC0F94B2CF9Ductal cells,1,1,1,1,1,1,1
+CPI-SC01E9FAC20Ductal cells,1,1,1,1,1,1,1
+CPI-SC0FF018913Ductal cells,1,0,0,0,0,1,1
+CPI-SC0F73E9099Ductal cells,1,0,0,0,0,1,1
+CPI-SS0B537DD3FDuctal cells,1,0,1,1,0,0,0
+CPI-SC008F4294FDuctal cells,1,1,0,0,0,0,1
+CPI-SC0EA3FC100Ductal cells,1,1,1,1,1,1,1
+CPI-SC0F74C069FDuctal cells,1,1,0,0,0,0,1
+CPI-SC0A0532ADCDuctal cells,1,1,1,0,1,1,1
+CPI-SC03ADD2063Ductal cells,1,1,1,0,1,1,1
+CPI-SC056BF6CBBDuctal cells,1,1,1,1,1,1,1
+CPI-SC0458F68A5Ductal cells,1,1,1,1,1,1,1
+CPI-SC0F7E26271Ductal cells,1,1,1,0,1,1,1
+CPI-SC0672FBD31Ductal cells,1,1,0,0,0,1,1
+CPI-SC02017BE74Ductal cells,1,1,1,0,1,1,1
+CPI-SC0A58E6695Ductal cells,1,1,1,0,1,1,1
+CPI-SC044E3F9B6Ductal cells,1,1,1,0,1,1,1
+CPI-SC0755598EEDuctal cells,1,1,1,0,1,1,1
+CPI-SC04B0064C4Ductal cells,1,1,1,1,1,1,1
+CPI-SC0B6F1A278Ductal cells,1,1,1,1,1,1,1
+CPI-SC01195CB48Ductal cells,1,1,1,1,1,1,1
+CPI-SC07222A428Ductal cells,1,1,1,1,1,1,1
+CPI-SC0017F527EDuctal cells,1,1,1,1,1,1,1
+CPI-SS0AD0ED887Ductal cells,1,0,1,1,1,0,0
+CPI-SC0FA79E269Ductal cells,1,1,1,1,1,1,1
+CPI-SC0725E3A76Ductal cells,1,1,0,0,0,0,1
+CPI-SC02BFEEC8ADuctal cells,1,1,1,1,1,1,1
+CPI-SC07ECBFCA7Ductal cells,1,1,1,1,1,1,1
+CPI-SC090855C8EDuctal cells,1,1,1,0,1,1,1
+CPI-SC0CFF5E19DDuctal cells,1,1,1,0,1,1,1
+CPI-SC05D8C0EF5Ductal cells,1,1,1,1,0,1,1
+CPI-SC04936738ADuctal cells,1,1,0,1,0,1,1
+CPI-SC04AED00CEDuctal cells,1,1,1,1,1,1,1
+CPI-SC092C3E4DFDuctal cells,1,1,1,1,1,1,1
+CPI-SS001BF66E8Ductal cells,1,1,1,1,1,1,1
+CPI-SC06364D669Ductal cells,1,1,1,1,1,1,1
+CPI-SC0D19BAF15Ductal cells,1,1,1,1,1,1,1
+CPI-SC0A2FE9693Ductal cells,1,1,1,0,1,1,1
+CPI-SC0BC542ACCDuctal cells,1,1,1,1,1,1,1
+CPI-SC0988E0218Ductal cells,1,1,1,0,1,1,1
+CPI-SC0BA1D5E00Ductal cells,1,1,0,1,0,0,1
+CPI-SS06D13FCD3Ductal cells,1,1,1,1,1,1,1
+CPI-SC0B9199C7FDuctal cells,1,1,1,0,1,1,1
+CPI-SC0D9B795CCDuctal cells,1,1,1,1,1,1,1
+CPI-SC06B4C6DD5Ductal cells,1,1,0,1,0,1,1
+CPI-SC01AB9BED7Ductal cells,1,1,1,1,1,1,1
+CPI-SC07BE7830DDuctal cells,1,1,1,1,1,1,1
+CPI-SC04F2478E9Ductal cells,1,1,1,1,1,1,1
+CPI-SC0847A64D2Ductal cells,1,1,0,1,1,1,1
+CPI-SS080611C5BDuctal cells,1,1,1,1,0,1,1
+CPI-SC0E3784FFBDuctal cells,1,1,1,1,1,1,1
+CPI-SC01FFC9392Ductal cells,1,1,1,1,1,1,1
+CPI-SC0EEF3A379Ductal cells,1,1,1,1,1,1,1
+CPI-SC096929DB0Ductal cells,1,1,1,1,1,1,1
+CPI-SS0C9696AAADuctal cells,0,1,1,0,0,0,0
+CPI-SC0861656ECDuctal cells,0,1,0,0,0,0,1
+CPI-SC067AD890ADuctal cells,0,1,1,1,1,1,1
+CPI-SC0247375A7Ductal cells,0,1,0,0,0,1,1
+CPI-SS0B990492CDuctal cells,0,1,0,0,0,0,0
+CPI-SS0889E281DDuctal cells,0,1,1,0,0,0,0
+CPI-SC0A199B69EDuctal cells,0,1,0,0,0,0,1
+CPI-SS03859E16FDuctal cells,0,1,1,1,0,0,1
+CPI-SC0EC380922Ductal cells,0,0,1,0,0,0,1
+CPI-SS087B53ABFDuctal cells,0,0,1,0,0,1,1
+CPI-SC070D5A96FDuctal cells,0,0,1,0,0,0,1
+CPI-SC02392F4AFDuctal cells,0,0,1,1,1,1,1
+CPI-SS0322747C2Ductal cells,0,0,0,1,1,0,0
+CPI-SC01EA4FF6BDuctal cells,0,0,0,1,1,1,1
+CPI-SC0592EC3D0Ductal cells,0,0,0,1,1,0,1
+CPI-SC0E60FEE99Ductal cells,0,0,0,1,1,0,0
+CPI-SC08B2AD7C6Ductal cells,0,0,0,1,1,0,1
+CPI-SC058F72F90Ductal cells,0,0,0,1,1,0,1
+CPI-SS0A2D7895CDuctal cells,0,0,0,1,1,0,0
+CPI-SS08B94BEB2Ductal cells,0,0,0,1,1,1,0
+CPI-SC05CCF815EDuctal cells,0,0,0,1,1,0,1
+CPI-SC08F797F90Ductal cells,0,0,0,1,1,1,1
+CPI-SC08226CD3BDuctal cells,0,0,0,1,1,1,1
+CPI-SC0CE6F5084Ductal cells,0,0,0,1,1,0,1
+CPI-SC052A417CBDuctal cells,0,0,0,1,1,0,1
+CPI-SC035134F18Ductal cells,0,0,0,1,1,1,1
+CPI-SC0CCF30377Ductal cells,0,0,0,1,1,1,1
+CPI-SC08A98E7D4Ductal cells,0,0,0,1,1,1,1
+CPI-SC0FBFA176BDuctal cells,0,0,0,1,1,1,1
+CPI-SC083EDDA21Ductal cells,0,0,0,1,1,1,1
+CPI-SC03DD752ABDuctal cells,0,0,0,1,1,1,1
+CPI-SC06873D10FDuctal cells,0,0,0,1,1,1,1
+CPI-SC09DE07794Ductal cells,0,0,0,1,1,1,1
+CPI-SC0D870AE49Ductal cells,0,0,0,1,1,1,1
+CPI-SC03C093767Ductal cells,0,0,0,1,1,1,1
+CPI-SC0CA7B34A5Ductal cells,0,0,0,1,1,0,1
+CPI-SC058845C44Ductal cells,0,0,0,1,1,1,1
+CPI-SC08D8A859FDuctal cells,0,0,0,1,1,1,1
+CPI-SC05B6D413BDuctal cells,0,0,0,0,0,1,1
+CPI-SC0F590482EDuctal cells,0,0,0,0,0,1,1
+CPI-SC06E5E0C83Ductal cells,0,0,0,0,0,1,1
+CPI-SC040B3EFBCDuctal cells,0,0,0,0,0,1,1
+CPI-SC01115AAD1Ductal cells,0,0,0,0,0,1,1
+CPI-SC07FB88720Ductal cells,0,0,0,0,0,1,1
+CPI-SC091173D82Ductal cells,0,0,0,0,0,1,1
+CPI-SC08AA91C84Ductal cells,0,0,0,0,0,1,1
+CPI-SC035953E6BDuctal cells,0,0,0,0,0,1,1
+CPI-SC05992FDC8Ductal cells,0,0,0,0,0,1,1
+CPI-SC02AE206BEDuctal cells,0,0,0,0,0,1,1
+CPI-SC08BF895FCDuctal cells,0,0,0,0,0,1,1
+CPI-SC02F06FF62Ductal cells,0,0,0,0,0,1,1
+CPI-SC09FDA4F45Ductal cells,0,0,0,0,0,1,1
+CPI-SC0CBC30AB7Ductal cells,0,0,0,0,0,0,1
+CPI-SC02E74AFA5Ductal cells,0,0,0,0,0,0,1
+CPI-SC0092846B0Ductal cells,0,0,0,0,0,0,1
+CPI-SC0681D30FEDuctal cells,0,0,0,0,0,0,1
+CPI-SC03D71E025Ductal cells,0,0,0,0,0,0,1
+CPI-SC041DEF0FBDuctal cells,0,0,0,0,0,0,1
+CPI-SC0BCD683D4Ductal cells,0,0,0,0,0,0,1
+CPI-SC0DF986F22Ductal cells,0,0,0,0,0,0,1
+CPI-SC08CC68F11Ductal cells,0,0,0,0,0,0,1
+CPI-SC05F111D21Ductal cells,0,0,0,0,0,0,1
+CPI-SC0ECFACED2Ductal cells,0,0,0,0,0,0,1
+CPI-SC0DF641DAADuctal cells,0,0,0,0,0,0,1
+CPI-SC07375C073Ductal cells,0,0,0,0,0,0,1
+CPI-SC0D7F33CFBDuctal cells,0,0,0,0,0,0,1
+CPI-SC006E22794Ductal cells,0,0,0,0,0,0,1
+CPI-SC0674C647EDuctal cells,0,0,0,0,0,0,1
+CPI-SC0D2BDC009Ductal cells,0,0,0,0,0,0,1
+CPI-SC00756BB93Ductal cells,0,0,0,0,0,0,1
+CPI-SC06525B099Ductal cells,0,0,0,0,0,0,1
+CPI-SC0247E9ADBDuctal cells,0,0,0,0,0,0,1
+CPI-SC0E1037D03Ductal cells,0,0,0,0,0,0,1
+CPI-SC0F8101D41Ductal cells,0,0,0,0,0,0,1
+CPI-SC067EE23E1Ductal cells,0,0,0,0,0,0,1
+CPI-SC0082A7233Ductal cells,0,0,0,0,0,0,1
+CPI-SC0A3F146C2Ductal cells,0,0,0,0,0,0,1
+CPI-SC00C0800EBDuctal cells,0,0,0,0,0,0,1
+CPI-SC0545E2502Ductal cells,0,0,0,0,0,0,1
+CPI-SC0F516B854Ductal cells,0,0,0,0,0,0,1
+CPI-SC04085F9F9Ductal cells,0,0,0,0,0,0,1
+CPI-SC0EFCE145FDuctal cells,0,0,0,0,0,0,1
+CPI-SC02B111AB0Ductal cells,0,0,0,0,0,0,1
+CPI-SS0F9D53834Ductal cells,0,0,0,0,0,0,1
+CPI-SS0ACD487F0PP cells,1,1,0,0,0,1,0
+CPI-SC0F4BC2909PP cells,1,0,0,0,0,1,1
+CPI-SC0F590482EPP cells,1,1,0,0,0,1,1
+CPI-SC06525B099PP cells,1,1,1,0,1,1,1
+CPI-SC0247E9ADBPP cells,1,1,1,0,1,1,1
+CPI-SS0B537DD3FPP cells,1,0,1,0,0,0,0
+CPI-SC08AA91C84PP cells,1,0,0,0,0,1,1
+CPI-SC0F8101D41PP cells,1,1,0,0,0,0,1
+CPI-SC067EE23E1PP cells,1,1,1,1,1,1,1
+CPI-SC0247375A7PP cells,1,1,1,0,0,1,1
+CPI-SC0A54B5323PP cells,1,1,1,0,1,1,1
+CPI-SS0AD0ED887PP cells,1,0,1,1,1,0,0
+CPI-SS027E12A36PP cells,1,0,0,0,1,0,1
+CPI-SC0CE851065PP cells,1,1,1,1,1,1,1
+CPI-SC09FDA4F45PP cells,1,1,1,1,1,1,1
+CPI-SC04085F9F9PP cells,1,1,1,0,1,1,1
+CPI-SC0A199B69EPP cells,1,1,0,1,0,0,1
+CPI-SC02B111AB0PP cells,1,1,1,1,1,1,1
+CPI-SC04936738APP cells,1,1,0,0,0,0,1
+CPI-SC0A2FE9693PP cells,1,1,1,0,1,1,1
+CPI-SC0BA1D5E00PP cells,1,1,0,0,0,0,1
+CPI-SS06D13FCD3PP cells,1,0,0,1,1,1,0
+CPI-SC0B9199C7FPP cells,1,1,1,0,1,1,1
+CPI-SC06B4C6DD5PP cells,1,1,1,1,0,1,1
+CPI-SC070D5A96FPP cells,1,1,1,1,0,1,1
+CPI-SS0F9D53834PP cells,1,1,1,1,0,1,1
+CPI-SC0847A64D2PP cells,1,0,0,0,1,0,1
+CPI-SC08D8A859FPP cells,1,1,1,1,1,1,1
+CPI-SC0EEF3A379PP cells,1,1,1,1,1,1,1
+CPI-SS0C9696AAAPP cells,0,1,1,0,0,0,0
+CPI-SC0F74C069FPP cells,0,1,0,0,0,0,1
+CPI-SS0B990492CPP cells,0,1,0,0,0,0,0
+CPI-SC0725E3A76PP cells,0,1,0,0,0,0,1
+CPI-SS0889E281DPP cells,0,1,1,0,0,0,0
+CPI-SS03859E16FPP cells,0,1,1,1,0,0,1
+CPI-SS087B53ABFPP cells,0,1,1,0,0,1,1
+CPI-SC096929DB0PP cells,0,1,0,1,1,1,1
+CPI-SC0EC380922PP cells,0,0,1,0,0,0,1
+CPI-SC0E1037D03PP cells,0,0,1,0,0,0,1
+CPI-SC06364D669PP cells,0,0,1,0,0,0,0
+CPI-SC08226CD3BPP cells,0,0,1,1,1,1,1
+CPI-SC0BC542ACCPP cells,0,0,1,0,0,0,1
+CPI-SS080611C5BPP cells,0,0,1,0,0,0,0
+CPI-SC0E3784FFBPP cells,0,0,1,1,1,1,1
+CPI-SS0322747C2PP cells,0,0,0,1,1,0,0
+CPI-SC0814068D9PP cells,0,0,0,1,1,1,1
+CPI-SC0592EC3D0PP cells,0,0,0,1,1,0,1
+CPI-SC0E60FEE99PP cells,0,0,0,1,1,0,0
+CPI-SC08B2AD7C6PP cells,0,0,0,1,1,0,1
+CPI-SS0A2D7895CPP cells,0,0,0,1,1,0,0
+CPI-SS08B94BEB2PP cells,0,0,0,1,1,1,0
+CPI-SC039D075C6PP cells,0,0,0,1,1,1,1
+CPI-SC04AED00CEPP cells,0,0,0,1,1,0,0
+CPI-SS001BF66E8PP cells,0,0,0,1,1,0,0
+CPI-SC05CCF815EPP cells,0,0,0,1,1,1,1
+CPI-SC08F797F90PP cells,0,0,0,1,1,1,1
+CPI-SC0CE6F5084PP cells,0,0,0,1,1,0,1
+CPI-SC052A417CBPP cells,0,0,0,1,1,1,1
+CPI-SC035134F18PP cells,0,0,0,1,1,1,1
+CPI-SC0D9B795CCPP cells,0,0,0,1,1,0,1
+CPI-SC0CCF30377PP cells,0,0,0,1,1,1,1
+CPI-SC08A98E7D4PP cells,0,0,0,1,1,1,1
+CPI-SC0FBFA176BPP cells,0,0,0,1,1,1,1
+CPI-SC083EDDA21PP cells,0,0,0,1,1,1,1
+CPI-SC03DD752ABPP cells,0,0,0,1,1,1,1
+CPI-SC06873D10FPP cells,0,0,0,1,1,1,1
+CPI-SC09DE07794PP cells,0,0,0,1,1,1,1
+CPI-SC02392F4AFPP cells,0,0,0,1,1,1,1
+CPI-SC0D870AE49PP cells,0,0,0,1,1,1,1
+CPI-SC03C093767PP cells,0,0,0,1,1,1,1
+CPI-SC04F2478E9PP cells,0,0,0,1,1,0,0
+CPI-SC0CA7B34A5PP cells,0,0,0,1,1,1,1
+CPI-SC058845C44PP cells,0,0,0,1,1,1,1
+CPI-SC01FFC9392PP cells,0,0,0,1,1,1,1
+CPI-SC058F72F90PP cells,0,0,0,0,1,0,1
+CPI-SC05B6D413BPP cells,0,0,0,0,0,1,1
+CPI-SC006E22794PP cells,0,0,0,0,0,1,1
+CPI-SC0FF018913PP cells,0,0,0,0,0,1,1
+CPI-SC06E5E0C83PP cells,0,0,0,0,0,1,1
+CPI-SC040B3EFBCPP cells,0,0,0,0,0,1,1
+CPI-SC0F8D27FBCPP cells,0,0,0,0,0,1,1
+CPI-SC01115AAD1PP cells,0,0,0,0,0,1,1
+CPI-SC07FB88720PP cells,0,0,0,0,0,1,1
+CPI-SC091173D82PP cells,0,0,0,0,0,1,1
+CPI-SC035953E6BPP cells,0,0,0,0,0,1,1
+CPI-SC05992FDC8PP cells,0,0,0,0,0,1,1
+CPI-SC0545E2502PP cells,0,0,0,0,0,1,1
+CPI-SC0672FBD31PP cells,0,0,0,0,0,1,1
+CPI-SC02AE206BEPP cells,0,0,0,0,0,1,1
+CPI-SC08BF895FCPP cells,0,0,0,0,0,1,1
+CPI-SC02F06FF62PP cells,0,0,0,0,0,1,1
+CPI-SC0CBC30AB7PP cells,0,0,0,0,0,0,1
+CPI-SC011F01833PP cells,0,0,0,0,0,0,1
+CPI-SC03BFF1D95PP cells,0,0,0,0,0,0,1
+CPI-SC02E74AFA5PP cells,0,0,0,0,0,0,1
+CPI-SC0092846B0PP cells,0,0,0,0,0,0,1
+CPI-SC08E75294DPP cells,0,0,0,0,0,0,1
+CPI-SC069F9E62CPP cells,0,0,0,0,0,0,1
+CPI-SC0681D30FEPP cells,0,0,0,0,0,0,1
+CPI-SC03D71E025PP cells,0,0,0,0,0,0,1
+CPI-SC041DEF0FBPP cells,0,0,0,0,0,0,1
+CPI-SC0BCD683D4PP cells,0,0,0,0,0,0,1
+CPI-SC0DF986F22PP cells,0,0,0,0,0,0,1
+CPI-SC08CC68F11PP cells,0,0,0,0,0,0,1
+CPI-SC05F111D21PP cells,0,0,0,0,0,0,1
+CPI-SC0ECFACED2PP cells,0,0,0,0,0,0,1
+CPI-SC0DF641DAAPP cells,0,0,0,0,0,0,1
+CPI-SC0861656ECPP cells,0,0,0,0,0,0,1
+CPI-SC07375C073PP cells,0,0,0,0,0,0,1
+CPI-SC0D7F33CFBPP cells,0,0,0,0,0,0,1
+CPI-SC0674C647EPP cells,0,0,0,0,0,0,1
+CPI-SC0D2BDC009PP cells,0,0,0,0,0,0,1
+CPI-SC00756BB93PP cells,0,0,0,0,0,0,1
+CPI-SC008F4294FPP cells,0,0,0,0,0,0,1
+CPI-SC0082A7233PP cells,0,0,0,0,0,0,1
+CPI-SC0A3F146C2PP cells,0,0,0,0,0,0,1
+CPI-SC0A0532ADCPP cells,0,0,0,0,0,0,1
+CPI-SC00C0800EBPP cells,0,0,0,0,0,0,1
+CPI-SC0F516B854PP cells,0,0,0,0,0,0,1
+CPI-SC0A58E6695PP cells,0,0,0,0,0,0,1
+CPI-SC044E3F9B6PP cells,0,0,0,0,0,0,1
+CPI-SC0B6F1A278PP cells,0,0,0,0,0,0,1
+CPI-SC01195CB48PP cells,0,0,0,0,0,0,1
+CPI-SC090855C8EPP cells,0,0,0,0,0,0,1
+CPI-SC0CFF5E19DPP cells,0,0,0,0,0,0,1
+CPI-SC0EFCE145FPP cells,0,0,0,0,0,0,1
+CPI-SC05D8C0EF5PP cells,0,0,0,0,0,0,1
+CPI-SC092C3E4DFPP cells,0,0,0,0,0,0,1
+CPI-SC0D19BAF15PP cells,0,0,0,0,0,0,1
+CPI-SC0BD4C290FStellate cells,1,1,0,1,0,1,1
+CPI-SC07E958BDEStellate cells,1,1,1,0,1,1,1
+CPI-SC05B2AA866Stellate cells,1,1,1,0,1,1,1
+CPI-SC060984F83Stellate cells,1,1,1,0,1,1,1
+CPI-SC0A8902C85Stellate cells,1,1,1,0,1,1,1
+CPI-SC0E2D0DC4BStellate cells,1,1,1,0,1,1,1
+CPI-SS06A999D25Stellate cells,1,0,0,0,0,0,0
+CPI-SC02131C05AStellate cells,1,1,1,1,1,1,1
+CPI-SC015980AEBStellate cells,1,1,1,1,1,1,1
+CPI-SC067433F6BStellate cells,1,1,1,1,1,1,1
+CPI-SC0F300DE24Stellate cells,1,1,1,1,1,1,1
+CPI-SC0E0C50FCAStellate cells,1,1,1,1,1,1,1
+CPI-SC0FC645961Stellate cells,1,1,1,1,1,1,1
+CPI-SC054484F7BStellate cells,1,1,1,1,1,1,1
+CPI-SC004A436C5Stellate cells,1,1,1,1,1,1,1
+CPI-SC0DAD29856Stellate cells,1,1,1,1,1,1,1
+CPI-SC0BC63F8C0Stellate cells,1,1,1,1,1,1,1
+CPI-SC08B1D5269Stellate cells,1,1,1,1,1,1,1
+CPI-SC0EAF80261Stellate cells,1,0,0,0,0,1,1
+CPI-SC011F01833Stellate cells,1,1,1,1,1,1,1
+CPI-SC03BFF1D95Stellate cells,1,1,1,0,1,1,1
+CPI-SC02E74AFA5Stellate cells,1,1,1,0,1,1,1
+CPI-SC0092846B0Stellate cells,1,1,1,0,1,1,1
+CPI-SC08E75294DStellate cells,1,1,1,1,1,1,1
+CPI-SC0681D30FEStellate cells,1,1,1,0,1,1,1
+CPI-SC03D71E025Stellate cells,1,1,1,0,1,1,1
+CPI-SC041DEF0FBStellate cells,1,1,1,1,1,1,1
+CPI-SC0014D5A6EStellate cells,1,1,1,0,1,1,1
+CPI-SC0DF986F22Stellate cells,1,1,1,0,1,1,1
+CPI-SC08CC68F11Stellate cells,1,1,1,0,1,1,1
+CPI-SC053BBE2B1Stellate cells,1,1,1,1,1,1,1
+CPI-SC0ECFACED2Stellate cells,1,1,1,0,1,1,1
+CPI-SC0DF641DAAStellate cells,1,1,1,0,1,1,1
+CPI-SC0861656ECStellate cells,1,1,1,0,1,1,1
+CPI-SC07375C073Stellate cells,1,1,1,1,1,1,1
+CPI-SC0F4BC2909Stellate cells,1,1,1,1,1,1,1
+CPI-SC0F94B2CF9Stellate cells,1,1,1,1,1,1,1
+CPI-SC01E9FAC20Stellate cells,1,1,1,1,1,1,1
+CPI-SC006E22794Stellate cells,1,1,1,1,1,1,1
+CPI-SC0674C647EStellate cells,1,1,1,0,0,1,1
+CPI-SC0814068D9Stellate cells,1,1,1,1,1,1,1
+CPI-SC06E5E0C83Stellate cells,1,0,0,0,0,1,1
+CPI-SC0F8D27FBCStellate cells,1,1,1,1,1,1,1
+CPI-SC01115AAD1Stellate cells,1,0,0,0,0,1,1
+CPI-SC0D2BDC009Stellate cells,1,1,1,0,1,1,1
+CPI-SC07FB88720Stellate cells,1,0,0,0,0,1,1
+CPI-SC0F73E9099Stellate cells,1,1,1,1,1,1,1
+CPI-SC00756BB93Stellate cells,1,1,1,0,1,1,1
+CPI-SS0B537DD3FStellate cells,1,0,1,0,0,0,0
+CPI-SC0E1037D03Stellate cells,1,1,1,0,1,1,1
+CPI-SC008F4294FStellate cells,1,1,1,1,1,1,1
+CPI-SC0F8101D41Stellate cells,1,1,1,1,1,1,1
+CPI-SC035953E6BStellate cells,1,1,1,1,1,1,1
+CPI-SC0EA3FC100Stellate cells,1,1,1,1,1,1,1
+CPI-SC05992FDC8Stellate cells,1,1,1,1,1,1,1
+CPI-SC0A3F146C2Stellate cells,1,1,1,1,0,1,1
+CPI-SC0F74C069FStellate cells,1,1,0,0,0,0,1
+CPI-SC0A0532ADCStellate cells,1,1,1,0,1,1,1
+CPI-SC03ADD2063Stellate cells,1,1,1,0,1,1,1
+CPI-SC056BF6CBBStellate cells,1,1,1,1,1,1,1
+CPI-SC0458F68A5Stellate cells,1,1,1,1,1,1,1
+CPI-SC0F7E26271Stellate cells,1,1,1,0,1,1,1
+CPI-SC0545E2502Stellate cells,1,1,1,1,1,1,1
+CPI-SC0672FBD31Stellate cells,1,1,1,1,1,1,1
+CPI-SC0F516B854Stellate cells,1,1,1,1,1,1,1
+CPI-SC02017BE74Stellate cells,1,1,1,0,1,1,1
+CPI-SC02AE206BEStellate cells,1,1,1,1,1,1,1
+CPI-SC08BF895FCStellate cells,1,1,1,1,1,1,1
+CPI-SC0A54B5323Stellate cells,1,1,1,0,1,1,1
+CPI-SC01EA4FF6BStellate cells,1,1,1,1,1,1,1
+CPI-SC0A58E6695Stellate cells,1,1,1,0,1,1,1
+CPI-SC044E3F9B6Stellate cells,1,1,1,0,1,1,1
+CPI-SC0755598EEStellate cells,1,1,1,0,1,1,1
+CPI-SC04B0064C4Stellate cells,1,1,1,1,1,1,1
+CPI-SC0B6F1A278Stellate cells,1,1,1,1,1,1,1
+CPI-SC0E60FEE99Stellate cells,1,1,1,1,1,1,1
+CPI-SC01195CB48Stellate cells,1,1,1,1,1,1,1
+CPI-SC02F06FF62Stellate cells,1,1,1,1,1,1,1
+CPI-SC07222A428Stellate cells,1,1,1,1,1,1,1
+CPI-SC0017F527EStellate cells,1,1,1,1,1,1,1
+CPI-SS0AD0ED887Stellate cells,1,0,0,1,1,0,0
+CPI-SC0FA79E269Stellate cells,1,1,1,1,1,1,1
+CPI-SC0CE851065Stellate cells,1,1,1,1,1,1,1
+CPI-SC0725E3A76Stellate cells,1,1,1,1,1,1,1
+CPI-SC02BFEEC8AStellate cells,1,1,1,1,1,1,1
+CPI-SC07ECBFCA7Stellate cells,1,1,1,1,1,1,1
+CPI-SC090855C8EStellate cells,1,1,1,0,1,1,1
+CPI-SC09FDA4F45Stellate cells,1,1,1,1,1,1,1
+CPI-SC04085F9F9Stellate cells,1,1,1,0,1,1,1
+CPI-SC0A199B69EStellate cells,1,1,1,1,1,1,1
+CPI-SC0CFF5E19DStellate cells,1,1,1,0,1,1,1
+CPI-SC0EFCE145FStellate cells,1,1,1,0,1,1,1
+CPI-SC039D075C6Stellate cells,1,1,1,1,1,1,1
+CPI-SC05D8C0EF5Stellate cells,1,1,0,0,0,0,1
+CPI-SC02B111AB0Stellate cells,1,1,1,1,1,1,1
+CPI-SC04936738AStellate cells,1,1,1,1,0,1,1
+CPI-SC04AED00CEStellate cells,1,1,1,1,1,1,1
+CPI-SC092C3E4DFStellate cells,1,1,1,1,1,1,1
+CPI-SC06364D669Stellate cells,1,1,1,1,1,1,1
+CPI-SC05CCF815EStellate cells,1,1,1,1,1,1,1
+CPI-SC0D19BAF15Stellate cells,1,1,1,1,1,1,1
+CPI-SC0A2FE9693Stellate cells,1,1,1,0,1,1,1
+CPI-SC0BC542ACCStellate cells,1,1,1,1,1,1,1
+CPI-SC0988E0218Stellate cells,1,1,1,0,1,1,1
+CPI-SC0BA1D5E00Stellate cells,1,1,0,0,0,0,1
+CPI-SS087B53ABFStellate cells,1,1,1,1,0,1,1
+CPI-SC0B9199C7FStellate cells,1,1,1,0,1,1,1
+CPI-SC035134F18Stellate cells,1,1,1,1,1,1,1
+CPI-SC06B4C6DD5Stellate cells,1,1,0,0,0,0,1
+CPI-SC0CCF30377Stellate cells,1,1,1,1,1,1,1
+CPI-SC08A98E7D4Stellate cells,1,1,1,1,1,1,1
+CPI-SC01AB9BED7Stellate cells,1,1,1,1,1,1,1
+CPI-SC070D5A96FStellate cells,1,1,1,1,1,1,1
+CPI-SC07BE7830DStellate cells,1,1,1,1,1,1,1
+CPI-SS0F9D53834Stellate cells,1,1,1,1,1,1,1
+CPI-SC02392F4AFStellate cells,1,1,1,1,1,1,1
+CPI-SC0D870AE49Stellate cells,1,1,1,1,1,1,1
+CPI-SC04F2478E9Stellate cells,1,1,1,1,1,1,1
+CPI-SC0CA7B34A5Stellate cells,1,1,1,1,1,1,1
+CPI-SC0847A64D2Stellate cells,1,1,1,1,1,1,1
+CPI-SC058845C44Stellate cells,1,1,1,1,1,1,1
+CPI-SC08D8A859FStellate cells,1,1,1,1,1,1,1
+CPI-SC0E3784FFBStellate cells,1,1,1,1,1,1,1
+CPI-SC01FFC9392Stellate cells,1,1,1,1,1,1,1
+CPI-SC0EEF3A379Stellate cells,1,1,1,1,1,1,1
+CPI-SC096929DB0Stellate cells,1,1,1,1,1,1,1
+CPI-SS0C9696AAAStellate cells,0,1,1,0,0,0,0
+CPI-SS0B990492CStellate cells,0,1,1,0,0,0,0
+CPI-SS0889E281DStellate cells,0,1,1,0,0,0,0
+CPI-SS03859E16FStellate cells,0,1,1,1,0,0,0
+CPI-SC062D34C2AStellate cells,0,0,1,0,0,1,0
+CPI-SC0A9EB628AStellate cells,0,0,1,0,0,1,1
+CPI-SC03C093767Stellate cells,0,0,1,1,1,1,1
+CPI-SS080611C5BStellate cells,0,0,1,0,0,0,0
+CPI-SS0322747C2Stellate cells,0,0,0,1,1,0,0
+CPI-SC0592EC3D0Stellate cells,0,0,0,1,1,0,1
+CPI-SC08B2AD7C6Stellate cells,0,0,0,1,1,0,1
+CPI-SC058F72F90Stellate cells,0,0,0,1,1,0,1
+CPI-SS0A2D7895CStellate cells,0,0,0,1,1,0,0
+CPI-SS08B94BEB2Stellate cells,0,0,0,1,1,1,0
+CPI-SS001BF66E8Stellate cells,0,0,0,1,1,0,0
+CPI-SC08F797F90Stellate cells,0,0,0,1,1,1,1
+CPI-SC08226CD3BStellate cells,0,0,0,1,1,1,1
+CPI-SC0CE6F5084Stellate cells,0,0,0,1,1,0,1
+CPI-SS06D13FCD3Stellate cells,0,0,0,1,1,0,0
+CPI-SC052A417CBStellate cells,0,0,0,1,1,1,1
+CPI-SC0FBFA176BStellate cells,0,0,0,1,1,1,1
+CPI-SC083EDDA21Stellate cells,0,0,0,1,1,1,1
+CPI-SC03DD752ABStellate cells,0,0,0,1,1,1,1
+CPI-SC06873D10FStellate cells,0,0,0,1,1,1,1
+CPI-SC09DE07794Stellate cells,0,0,0,1,1,1,1
+CPI-SC05B6D413BStellate cells,0,0,0,0,0,1,1
+CPI-SC0F590482EStellate cells,0,0,0,0,0,1,1
+CPI-SC0FF018913Stellate cells,0,0,0,0,0,1,1
+CPI-SC040B3EFBCStellate cells,0,0,0,0,0,1,1
+CPI-SC091173D82Stellate cells,0,0,0,0,0,1,1
+CPI-SC08AA91C84Stellate cells,0,0,0,0,0,1,1
+CPI-SC0CBC30AB7Stellate cells,0,0,0,0,0,0,1
+CPI-SC069F9E62CStellate cells,0,0,0,0,0,0,1
+CPI-SC0BCD683D4Stellate cells,0,0,0,0,0,0,1
+CPI-SC05F111D21Stellate cells,0,0,0,0,0,0,1
+CPI-SC0D7F33CFBStellate cells,0,0,0,0,0,0,1
+CPI-SC0EC380922Stellate cells,0,0,0,0,0,0,1
+CPI-SC06525B099Stellate cells,0,0,0,0,0,0,1
+CPI-SC0247E9ADBStellate cells,0,0,0,0,0,0,1
+CPI-SC067EE23E1Stellate cells,0,0,0,0,0,0,1
+CPI-SC0082A7233Stellate cells,0,0,0,0,0,0,1
+CPI-SC00C0800EBStellate cells,0,0,0,0,0,0,1
+CPI-SC0247375A7Stellate cells,0,0,0,0,0,0,1

@@ -1,0 +1,50 @@
+,cell source,cell target,Time
+0,$\alpha{-}cells$,$\alpha{-}cells$,120
+1,$\alpha{-}cells$,$\beta{-}cells$,123
+2,$\alpha{-}cells$,$\delta{-}cells$,166
+3,$\alpha{-}cells$,Acinar cells,162
+4,$\alpha{-}cells$,Ductal cells,215
+5,$\alpha{-}cells$,PP cells,196
+6,$\alpha{-}cells$,Stellate cells,271
+7,$\beta{-}cells$,$\alpha{-}cells$,101
+8,$\beta{-}cells$,$\beta{-}cells$,106
+9,$\beta{-}cells$,$\delta{-}cells$,152
+10,$\beta{-}cells$,Acinar cells,154
+11,$\beta{-}cells$,Ductal cells,199
+12,$\beta{-}cells$,PP cells,170
+13,$\beta{-}cells$,Stellate cells,265
+14,$\delta{-}cells$,$\alpha{-}cells$,132
+15,$\delta{-}cells$,$\beta{-}cells$,120
+16,$\delta{-}cells$,$\delta{-}cells$,155
+17,$\delta{-}cells$,Acinar cells,153
+18,$\delta{-}cells$,Ductal cells,202
+19,$\delta{-}cells$,PP cells,181
+20,$\delta{-}cells$,Stellate cells,249
+21,Acinar cells,$\alpha{-}cells$,161
+22,Acinar cells,$\beta{-}cells$,154
+23,Acinar cells,$\delta{-}cells$,164
+24,Acinar cells,Acinar cells,158
+25,Acinar cells,Ductal cells,218
+26,Acinar cells,PP cells,189
+27,Acinar cells,Stellate cells,252
+28,Ductal cells,$\alpha{-}cells$,197
+29,Ductal cells,$\beta{-}cells$,200
+30,Ductal cells,$\delta{-}cells$,218
+31,Ductal cells,Acinar cells,188
+32,Ductal cells,Ductal cells,262
+33,Ductal cells,PP cells,249
+34,Ductal cells,Stellate cells,307
+35,PP cells,$\alpha{-}cells$,123
+36,PP cells,$\beta{-}cells$,129
+37,PP cells,$\delta{-}cells$,171
+38,PP cells,Acinar cells,161
+39,PP cells,Ductal cells,213
+40,PP cells,PP cells,194
+41,PP cells,Stellate cells,267
+42,Stellate cells,$\alpha{-}cells$,267
+43,Stellate cells,$\beta{-}cells$,245
+44,Stellate cells,$\delta{-}cells$,262
+45,Stellate cells,Acinar cells,236
+46,Stellate cells,Ductal cells,313
+47,Stellate cells,PP cells,290
+48,Stellate cells,Stellate cells,327
